@@ -1,0 +1,4 @@
+Error: Error: "Java Virtual Machine Was Not Found On Your System"
+
+Solution: 1. First, you need to make sure that you have Java installed on your system. To check if you have Java installed, go to the Command Prompt or Terminal and type "java -version". If Java is not installed, install it from the official Java website.
+2. Once you have installed Java, you need to set the Environment Variables. To do this, open the Control Panel and search for "Environment Variables."

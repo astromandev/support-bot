@@ -1,0 +1,6 @@
+Error: Error: "502 Bad Gateway" On Pterodactyl Panel Minecraft Server
+
+Solution: Step 1: Clear your browser cache, cookies, and history.
+Step 2: Check the Pterodactyl Discord server status channel to see if there are any updates or incidents.
+Step 3: Check if the server is up and running. You can do this by logging into your server via SSH and running the command "systemctl status wings".
+Step 4: Restart the server.

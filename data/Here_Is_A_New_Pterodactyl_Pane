@@ -1,0 +1,9 @@
+Error: Here Is A New Pterodactyl Panel Minecraft Server Related Error And Its Step-By-Step Solution:
+
+Error: "The Server Is Using Too Much Memory And Crashing. How Can I Fix This?"
+
+Solution: 1. Log in to your Pterodactyl panel and click on the server that is causing the memory issues.
+
+2. Click on the "Console" tab to access the command prompt.
+
+3. Type "top" and hit enter to see all processes that are currently running on your

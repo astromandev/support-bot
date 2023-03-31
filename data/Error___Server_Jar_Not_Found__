@@ -1,0 +1,7 @@
+Error: Error: "Server Jar Not Found" On Pterodactyl Panel.
+
+This Error Occurs When The Pterodactyl Panel Cannot Find The Minecraft Server Jar File.
+
+Solution: Step 1: Check the server jar file path
+
+First, check the path of the server jar file. Make sure the path is correct and the file is in the correct location. You can do this by going to the Pterodactyl panel, clicking on your server and checking the Server Properties tab.

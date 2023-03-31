@@ -1,0 +1,7 @@
+Error: Error:
+Player Cannot Join The Server And Receives The Error Message "Internal Exception: Io.Netty.Handler.Timeout.ReadTimeoutException" When Attempting To Connect To The Minecraft Server Through Pterodactyl Panel.
+
+Solution: This error usually indicates that the client is unable to communicate with the server due to a timeout. Here are the steps to fix it:
+
+1. Open your Pterodactyl panel and log in to your account.
+2. Go to your Minecraft server's page and click on "Console

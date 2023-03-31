@@ -1,0 +1,7 @@
+Error: Error: "Failed To Install Server Jar" On Pterodactyl Panel.
+
+Step-By-Step
+
+Solution: 1. Firstly, check if the jar file you are trying to install is valid and compatible with your Pterodactyl Panel version.
+
+2. Make sure that you have the correct server jar file that is going to work with your server type. This can be easily checked by going onto the internet, to the official Minecraft or your respective game's website and downloading the right jar

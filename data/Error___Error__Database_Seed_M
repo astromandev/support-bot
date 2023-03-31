@@ -1,0 +1,11 @@
+Error: Error: "Error: Database Seed Missing For UUID..."
+
+Solution: 1. Log into the Pterodactyl panel and navigate to the "Servers" tab.
+
+2. Select the server that is having the issue and click on "Settings".
+
+3. In the left-hand menu, click on "Databases" and then click on the "Create New" button.
+
+4. Enter a name for the database and click on the "Create" button.
+
+5. Wait for the database to be created

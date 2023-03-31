@@ -1,0 +1,6 @@
+Error: Error: "Failed To Establish A Connection To The Control Panel. Please Try Again Later Or Contact Support."
+
+Solution: Step 1: Check your network connection to ensure you are connected to the internet.
+Step 2: Check the Pterodactyl Panel server URL to ensure it is entered correctly.
+Step 3: Try accessing the panel on a different web browser as it may be a browser-related issue.
+Step 4: Check if any firewalls or antivirus software is blocking access to the

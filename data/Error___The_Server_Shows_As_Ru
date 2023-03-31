@@ -1,0 +1,5 @@
+Error: Error: "The Server Shows As Running, But Players Cannot Connect To It"
+
+Solution: 1. Check that the server is actually running by checking the console logs. Look for any errors or warnings that may be preventing players from connecting.
+2. Check that the server port is open and correctly configured in the Pterodactyl panel. Make sure the port is not blocked by any firewalls or network restrictions.
+3. Ensure that the server's IP address is correctly set in the Pterod

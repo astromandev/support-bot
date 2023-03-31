@@ -1,0 +1,6 @@
+Error: Error: "Server Completely Unresponsive"
+
+Cause: This Can Happen When The Minecraft Server Crashes And Fails To Restart Properly. It Can Also Happen If The Server Is Using Too Many Resources Or If There Is A Problem With The Server'S Configuration.
+
+Solution: 1. Log into your Pterodactyl panel and go to the "Console" tab.
+2. Check if the server is still running or if it has crashed. If it has crashed, try restarting the server using the "Restart" button

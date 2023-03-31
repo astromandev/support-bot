@@ -1,0 +1,5 @@
+Error: Error: "Failed To Validate Username" When Trying To Login To A Minecraft Server On Pterodactyl Panel.
+
+Solution: 1. Check the username and password - Make sure you are using the correct username and password for your Minecraft account. Try logging into the official Minecraft launcher and see if you are able to log in.
+
+2. Verify that the server is running - Check the Pterodactyl panel to ensure that the server is actually running. If it is not, start the server

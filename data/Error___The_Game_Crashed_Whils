@@ -1,0 +1,7 @@
+Error: Error: "The Game Crashed Whilst Unexpected Error"
+
+Solution: 1. Go to the Pterodactyl panel dashboard and navigate to your server.
+2. Click on the "Console" tab and start your server if it is not already running.
+3. Once you see the console output, look for an error that will show the root cause of this issue.
+4. If the error is related to a mod or plugin, try removing it and see if that resolves the issue.
+5

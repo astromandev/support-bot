@@ -1,0 +1,7 @@
+Error: Error:
+
+"Unable To Connect To The Server. Please Check Your Internet Connection And Try Again."
+
+Solution: 1. Check your internet connection: Verify that your internet connection is stable and functioning. Sometimes your internet connection may experience hiccups that may create a connectivity problem.
+
+2. Check the server status: Verify that the server you are trying to connect to is up and running. You can check the status of the Minecraft server through the Pterodactyl panel or by using a third-party Minecraft

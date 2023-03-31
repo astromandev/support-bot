@@ -1,0 +1,5 @@
+Error: Error: "The Server Is Timing Out And I Cannot Connect To It Via The Pterodactyl Panel."
+
+Solution: 1. Check if the server is online: Go to the server console and see if the server is running correctly. If it is not, start the server and wait for it to fully boot up before trying to connect to it via the panel.
+
+2. Check your connection: Make sure your internet connection is working properly. If you are experiencing lag or connection problems, it may

@@ -1,0 +1,11 @@
+Error: Error: "Installation Failed: Could Not Find Or Load Main Class InstallUtility"
+
+Solution: Step 1: Log in to your Pterodactyl panel and go to the "Servers" page.
+
+Step 2: Click on the server that's giving you the error.
+
+Step 3: Go to the "Startup" tab.
+
+Step 4: Scroll down to the "Jar File" section.
+
+Step 5: Make sure the jar file name is correct and that it exists in the

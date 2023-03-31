@@ -1,0 +1,8 @@
+Error: Error: "Server Can'T Start - Missing Required External Library"
+ 
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel
+2. Navigate to the "File Manager" page and open the "libraries" directory under the server files.
+3. Look for the missing library or jar file that the server needs. Check the server startup logs or console for the exact name of the missing file.
+4. Download the correct version of the missing library from a trusted source

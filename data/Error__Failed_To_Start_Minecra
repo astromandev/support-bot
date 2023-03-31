@@ -1,0 +1,9 @@
+Error: Error: Failed To Start Minecraft Server On Pterodactyl Panel
+
+Solution: Step 1: Check the server's allocated resources
+- Log in to the Pterodactyl Panel and navigate to the server settings.
+- Check that the server has sufficient allocated resources (RAM, CPU, Disk Space) to start the Minecraft server without issues.
+- Adjust the allocated resources to meet the Minecraft server's requirements if necessary.
+
+Step 2: Check the Server's Jar file settings
+- Navigate

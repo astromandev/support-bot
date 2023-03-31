@@ -1,0 +1,5 @@
+Error: New Error: "Failed To Start Your Server (PTDL Connection Closed)"
+
+Solution: Step 1: First, it helps to understand what the error message is telling us. It means that the connection between the panel and the server has been closed, which prevents the server from starting up. This error can usually occur because the server may have failed to start because of a lack of resources, such as memory, disk space or other configuration issues.
+
+Step 2: Check the Pterodactyl

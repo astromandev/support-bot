@@ -1,0 +1,7 @@
+Error: Error: "Server Failing To Start With Excessive JavaRAMFlags Limit Error"
+
+Cause: This Error Occurs When The Server Tries To Allocate More RAM Than It Is Possible Due To The Java Flags Set In The Pterodactyl Panel.
+
+Solution: Step 1: Log in to your Pterodactyl panel and click on the "Console" button of your server.
+
+Step 2: Type the "top" command in the console and hit enter. This will show you the current

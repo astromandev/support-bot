@@ -1,0 +1,6 @@
+Error: Error:
+The Server Console Continues To Show "Server Stopped" Status Even After Restarting The Server Through The Pterodactyl Panel.
+
+Solution: 1. Log in to your Pterodactyl panel account and navigate to the "Console" tab.
+2. Check the status of the server. If it shows "stopped," try restarting it by typing the "restart" command.
+3. If the server still doesn't start, try stopping it using the "stop" command and then start it

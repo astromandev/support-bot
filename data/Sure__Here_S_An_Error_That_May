@@ -1,0 +1,11 @@
+Error: Sure, Here'S An Error That May Occur While Using Pterodactyl Panel For A Minecraft Server:
+
+**Error:** "Failed To Start Server: Unable To Access Jarfile Server.Jar"
+
+**Step-By-Step
+
+Solution: **
+
+1. Navigate to your server's file manager in Pterodactyl panel.
+
+2. Check if the server.jar file exists in the root directory. If not, upload the minecraft server jar file to the root directory. You can download Minecraft server files from the

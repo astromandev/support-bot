@@ -1,0 +1,8 @@
+Error: Error: "Unable To Access Jarfile"
+
+This Error Occurs When The Server File Name Or Path Is Incorrect Or The Server File Is Missing.
+
+Solution: 1. Check that the server file is present in the correct directory.
+2. Make sure that the file name and case matches the command line argument.
+3. Use the full file path instead of a relative path in the command line argument.
+4. Check that the file name does not include any additional file extensions, such as .zip, .rar

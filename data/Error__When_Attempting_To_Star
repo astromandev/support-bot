@@ -1,0 +1,9 @@
+Error: Error: When Attempting To Start A Minecraft Server Using The Pterodactyl Panel, You Receive The Following Error: "Cannot Allocate Memory".
+
+Solution: 1. Log in to your Pterodactyl panel and click on the server you are having trouble with.
+
+2. Click on the "console" tab in the left-hand menu.
+
+3. Type "free -m" in the console and press enter. This command will show you the amount of available memory on your server.
+
+4.

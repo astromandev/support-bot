@@ -1,0 +1,4 @@
+Error: Error: The Pterodactyl Panel Shows An Error "Failed To Connect To MySQL: SQLSTATE[HY000] [2002] Connection Refused" When Attempting To Start A Minecraft Server.
+
+Solution: 1. First, verify that your MySQL server is up and running.
+2. Check that your MySQL server is hosted on the same or a different server than your Minecraft server. If your server is hosted on a different server, check that you have the correct IP address and port number in your

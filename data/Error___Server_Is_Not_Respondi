@@ -1,0 +1,5 @@
+Error: Error: "Server Is Not Responding" When Trying To Connect To The Pterodactyl Panel Minecraft Server.
+
+Solution: 1. Check if the server is running. If not, start the server using the "Start" button in the Pterodactyl Panel.
+2. Check if the server's firewall is blocking connections. Ensure that port 25565 is open for Minecraft servers.
+3. Check if the server's IP address and port are correct in the Pterodactyl Panel

@@ -1,0 +1,8 @@
+Error: Here'S A New Error That Minecraft Server Beginners May Encounter:
+
+Error: "Failed To Bind To Port"
+
+This Error Message Usually Appears When A Minecraft Server Is Unable To Start Because The Port It'S Attempting To Use Is Already In Use By Another Program Or Service.
+
+Solution: 1. To resolve this issue, you will need to identify and free the port that Minecraft is trying to use. 
+2. First, make a note of the port number that the Minecraft server is trying to use. By default

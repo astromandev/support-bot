@@ -1,0 +1,12 @@
+Error: Error: "Failed To Set Locale, Defaulting To En US"
+
+Solution: Step 1. Open the Pterodactyl panel and go to the server console.
+
+Step 2. Type the following command and press Enter:
+```
+sudo dpkg-reconfigure locales
+```
+
+Step 3. A screen will appear with a list of locales. Use the arrow keys to select the one you want (e.g. en_US.UTF-8) and press Enter.
+
+Step 4.

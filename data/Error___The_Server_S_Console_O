@@ -1,0 +1,11 @@
+Error: Error: "The Server'S Console Output Is Overloading And Causing The Panel To Crash."
+
+Solution: Step 1: Login to your Pterodactyl panel.
+
+Step 2: Navigate to the "Console" tab of your Minecraft server.
+
+Step 3: Once you are in the console, type "stop" to shut down the server.
+
+Step 4: Click on the "Settings" tab in the Pterodactyl panel.
+
+Step 5: Scroll down to the "

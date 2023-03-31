@@ -1,0 +1,5 @@
+Error: New Error: "Server Is Not Starting After Updating Forge On Pterodactyl Panel"
+
+Solution: 1. Check the server console for any error messages or logs. You can do this by opening the console tab on the Pterodactyl Panel.
+2. Verify that you have updated Forge correctly by checking the server's files. You can do this by going to the file manager section of the Pterodactyl Panel.
+3. Check that the new Forge version matches the version number

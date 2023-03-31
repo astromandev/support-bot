@@ -1,0 +1,9 @@
+Error: Error: "Unable To Start Minecraft Server: Failed To Bind To Port".
+
+Solution: 1. Go to your Pterodactyl Panel and click on "Startup Parameters" tab.
+
+2. Check if the port number specified in the "Server Port" field matches with the port number in your Minecraft configuration files.
+
+3. Make sure that the port you are trying to bind to is not already bound to another application or server process.
+
+4. Try assigning a different port number to the Minecraft server and

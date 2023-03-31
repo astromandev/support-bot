@@ -1,0 +1,9 @@
+Error: Error: Pterodactyl Panel Showing The Message "Server Is Currently In Use By Another User" Even Though No User Is Currently Using The Server.
+
+Solution: 1. First, ensure that no one is currently logged into the server from the web console or any SSH client.
+
+2. Access the server via SSH (Secure Shell) using the login credentials provided by the hosting provider.
+
+3. Enter the following command to check for any running processes: `ps aux | grep java`
+
+4. If

@@ -1,0 +1,7 @@
+Error: Error: "Failed To Get Connection To MySQL Server. Please Check Your Connection Settings And Ensure MySQL Is Running."
+
+Solution: 1. Check if the server is up and running: Make sure that MySQL server is installed and running on the server. 
+
+2. Check the Connection Settings: Ensure that the connection settings such as hostname, username, and password are all correct. These settings should be copied and pasted from the panel’s server details page.
+
+3. Check the Firewall: Ensure that the firewall on

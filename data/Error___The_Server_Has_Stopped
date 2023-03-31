@@ -1,0 +1,11 @@
+Error: Error: "The Server Has Stopped Responding."
+
+Possible Causes:
+1. A Plugin Or Mod Is Causing The Server To Crash
+2. The Server Is Overloaded With Too Many Players Or Too Much Activity
+3. A Corrupted World File Or Incorrect Configurations Can Cause Server Crashes
+4. Not Enough RAM Allocated To The Server
+
+Solution: 1. Disable any recently installed plugins or mods and test if the server is still crashing
+2. Reduce the number of players or limit their activity on the server
+3

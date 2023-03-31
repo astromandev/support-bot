@@ -1,0 +1,6 @@
+Error: Error: "Error Creating Server Startup Script. Your Server Jar Is Missing The Minimum Required Arguments. Please Re-Install And Try Again."
+
+Solution: 1. First, ensure that you have the latest version of the Pterodactyl panel installed.
+2. Log in to your Pterodactyl panel and navigate to your server's files.
+3. Check that the server jar file is named correctly and in the correct directory.
+4. Make sure the server jar file has the correct permissions for your

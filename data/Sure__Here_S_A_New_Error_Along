@@ -1,0 +1,9 @@
+Error: Sure, Here'S A New Error Along With Its Solution:
+
+Error: "Java.Lang.Outofmemoryerror: Java Heap Space"
+
+This Error Occurs When The Java Virtual Machine (JVM) Used By The Minecraft Server Runs Out Of Memory To Allocate To Minecraft. If Your Server Has A Lot Of Plugins Or Mods Installed, Or Many Players Are Connecting To It, The Server Is Likely To Run Out Of Memory.
+
+Solution: 1. Stop the Minecraft server.
+
+2. Open the startup script for your server

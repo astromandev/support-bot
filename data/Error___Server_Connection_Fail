@@ -1,0 +1,7 @@
+Error: Error: "Server Connection Failed: Too Many Failed Attempts."
+
+Solution: 1. Check your server's firewall settings: Ensure the server’s firewall is not blocking incoming connections. You can do this by accessing your VPS server's control panel and checking if the firewall has been disabled.
+
+2. Check Game Port Settings: Verify that the game port is set correctly. The default Minecraft port is 25565. You can change this from your server configuration file. 
+
+3. Verify Websocket Settings: Check

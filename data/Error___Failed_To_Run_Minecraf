@@ -1,0 +1,7 @@
+Error: Error: "Failed To Run Minecraft Server. Unable To Find Java Executable."
+
+Solution: This error occurs when the Pterodactyl panel is unable to locate the Java executable on the server. Here are the steps to fix the issue:
+
+1. Install Java: Make sure you have installed Java on your server. If you haven't, you can download it from the official Java website and install it on your server.
+
+2. Check Java Path: Check the Java path by typing "java -

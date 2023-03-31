@@ -1,0 +1,10 @@
+Error: Error: "Java.Nio.File.AccessDeniedException: Server.Properties"
+
+Cause: This Error Occurs When The Minecraft Server Cannot Access Or Modify The Server.Properties File Due To Insufficient Permissions.
+
+Solution: To fix this error, follow these steps:
+
+1. Stop the minecraft server if it is currently running.
+2. Navigate to the directory where your minecraft server files are located.
+3. Right-click on the server.properties file and select "Properties" from the context menu.
+4. In the Properties window, select the

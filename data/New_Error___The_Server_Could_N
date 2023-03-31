@@ -1,0 +1,11 @@
+Error: New Error: "The Server Could Not Start Because The Allocated RAM Is Not Enough"
+
+Solution: Step 1: Log in to Pterodactyl Panel using your credentials.
+
+Step 2: In the left sidebar, click on the "Servers" option.
+
+Step 3: From the listed servers, identify the server that is experiencing the error and click on it.
+
+Step 4: From the server's management page, click on the "Console" tab.
+
+Step 5: On the

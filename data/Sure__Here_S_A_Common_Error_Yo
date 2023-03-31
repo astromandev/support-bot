@@ -1,0 +1,10 @@
+Error: Sure, Here'S A Common Error You Might Encounter When Running A Minecraft Server:
+
+**Error:** "Failed To Bind To Address {IP Address}:Port - Probably Already In Use"
+
+**
+
+Solution: **
+
+1. First, try restarting your computer and the server software to see if that fixes the problem.
+2. If the issue persists, it's possible that another program is already using the port you're trying to bind to. To check this, open a command prompt or terminal and enter the following command

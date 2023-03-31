@@ -1,0 +1,5 @@
+Error: Error: "502 Bad Gateway" Message When Accessing The Pterodactyl Panel.
+
+Solution: 1. First, check if the error message is specific to your server, or if it is affecting other users as well. If it's only affecting you, try clearing your browser's cache and cookies, and then try accessing the panel again.
+
+2. If the problem persists, check to see if the Pterodactyl service is running on your server. You can do this by logging into

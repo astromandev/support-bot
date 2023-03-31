@@ -1,0 +1,13 @@
+Error: Error: "Failed To Write Core File" In The Pterodactyl Panel
+
+Solution: This error can occur when the server runs out of memory. Here's how to fix it:
+
+1. Login to your Pterodactyl panel and navigate to the server console.
+
+2. Type the following command in your console:
+
+```ulimit -c unlimited```
+
+This command sets the maximum size of core files to unlimited.
+
+3. Restart the server and see if the error is resolved.

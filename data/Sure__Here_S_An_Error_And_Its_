@@ -1,0 +1,12 @@
+Error: Sure, Here'S An Error And Its Solution:
+
+**Error:** "Java Installation Not Found" When Setting Up A New Minecraft Server On Pterodactyl Panel.
+
+**
+
+Solution: **
+
+1. Log in to your Pterodactyl panel and navigate to the server's dashboard.
+2. Click on the "Console" button to bring up the console window.
+3. Type `java -version` into the console and hit enter.
+4. If the output shows that Java is not installed

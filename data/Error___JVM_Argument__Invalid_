@@ -1,0 +1,7 @@
+Error: Error: "JVM Argument" Invalid Characters Used In JAVA ARGS
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to your server console section.
+2. Click on the "Files" option in the left sidebar and then open the "Server Properties" file.
+3. Look for the line that starts with JVM argument and check for any invalid characters in it.
+4. Remove any invalid characters and replace them with valid ones.
+5. Click on the "Save"

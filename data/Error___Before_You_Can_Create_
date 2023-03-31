@@ -1,0 +1,8 @@
+Error: Error: "Before You Can Create A Server, You Must First Create An Egg."
+
+Solution: 1. In the Pterodactyl panel, click on "Nests" in the sidebar.
+2. Select the nest that your server should belong to.
+3. Click on the "Eggs" tab.
+4. Click the "Create" button.
+5. Fill in the information for your egg, such as its name, description, and Docker image.
+6. Scroll down to the

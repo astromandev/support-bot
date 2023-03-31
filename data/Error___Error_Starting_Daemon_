@@ -1,0 +1,6 @@
+Error: Error: "Error Starting Daemon Process: Pid File Exists" When Trying To Start The Server Through The Pterodactyl Panel.
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to the server console.
+2. Stop the server by running the "stop" command.
+3. Navigate to the server's main directory by running the command "cd /home/container".
+4. Check to see if there is a file called "pterodactyl.pid" in the

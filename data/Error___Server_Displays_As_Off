@@ -1,0 +1,7 @@
+Error: Error: "Server Displays As Offline On The Pterodactyl Panel, But Is Actually Online And Accessible In Minecraft."
+
+Solution: Step 1: Check if the server is actually online by attempting to connect to it using Minecraft.
+
+Step 2: If the server is online, then the issue might be with your firewall or the Pterodactyl daemon. 
+
+Step 3: Check the server's firewall settings to ensure that it is allowing incoming connections on the port that the Minecraft server

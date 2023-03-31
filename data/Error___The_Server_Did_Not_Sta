@@ -1,0 +1,9 @@
+Error: Error: "The Server Did Not Start Up Properly. Please Check The Daemon Log For More Information."
+
+Solution: 1. Login to your Pterodactyl Panel account, and navigate to the server that is experiencing the issue. 
+
+2. Click the “Startup” tab, and scroll down to find the “startup command” field.
+
+3. Ensure that the command line entered in the "startup command" field is the correct command for your server JAR file. 
+
+4. Check the “

@@ -1,0 +1,6 @@
+Error: Error: "Server Status Cannot Be Retrieved" On Pterodactyl Panel
+
+Solution: 1. Check your server's status through your hosting provider's control panel or console. 
+2. Ensure that your server is powered on and not in a frozen state. 
+3. If your server is responding, check that the connection is working properly between your server and the panel. 
+4. Ensure that the necessary ports (i.e. 80 and 443) are open and properly forwarded to

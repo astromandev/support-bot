@@ -1,0 +1,9 @@
+Error: New Error: "Failed To Execute Command 'Yarn' On Panel"
+
+Solution: This error occurs when the Pterodactyl panel is unable to execute the 'yarn' command. This error can occur when 'yarn' is not installed in the server.
+
+Follow these steps to resolve the error:
+
+Step 1: Login to your Pterodactyl panel and select the affected server.
+
+Step 2: Navigate to the "Console" tab and log in to the server using

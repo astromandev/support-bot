@@ -1,0 +1,7 @@
+Error: Error: "Server Is Running Using An Unsupported Version Of The Game"
+
+Solution: 1. Log into your Pterodactyl panel and navigate to the Dashboard page.
+2. Click on the Console button for the affected Minecraft server.
+3. In the console window, type the command: "java -jar server.jar –nogui".
+4. Press Enter to launch the server without the GUI.
+5. The server will then start running and may prompt you to accept the EULA before continuing.

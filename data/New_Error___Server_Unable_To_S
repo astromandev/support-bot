@@ -1,0 +1,8 @@
+Error: New Error: "Server Unable To Start After Updating The Pterodactyl Panel"
+
+Step-By-Step
+
+Solution: 1. First, you need to check the update logs and make sure the update was completed successfully.
+2. Double-check that all server files and configurations were migrated to the new pterodactyl panel version.
+3. Check that the server resources (CPU, memory, and disk space) meet the minimum requirements for the updated panel version.
+4. Clear your browser cache history

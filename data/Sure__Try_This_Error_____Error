@@ -1,0 +1,11 @@
+Error: Sure, Try This Error:
+
+**Error:** "Failed To Allocate More Memory - Minecraft Has Run Out Of Memory" When Running A Minecraft Server On Pterodactyl Panel.
+
+**
+
+Solution: **
+
+1. Log in to your Pterodactyl panel and stop your server if it is already running.
+2. Click on the "File Manager" on the left-hand side of the panel and navigate to the root directory of your server.
+3. Locate the "server.properties file" and click

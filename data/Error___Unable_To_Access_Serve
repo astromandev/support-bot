@@ -1,0 +1,7 @@
+Error: Error: "Unable To Access Server Logs On Pterodactyl Panel"
+
+Solution: 1. Check your server's FTP credentials: Ensure that you have the correct FTP credentials for your server. Double-check that the IP address, username, and password for your server is correct.
+
+2. Check your server's firewall settings: Make sure that your firewall settings are not blocking access to the server logs. You may need to whitelist the IP address that you are using to access the server.
+
+3. Check

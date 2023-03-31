@@ -1,0 +1,8 @@
+Error: Error: "Can'T Connect To The Database. Please Check Your Credentials"
+
+Solution: 1. Log in to your Pterodactyl control panel.
+2. Click on the "Servers" tab.
+3. Click on the server that is experiencing the error.
+4. Click on the "File Manager" tab and navigate to the root folder. 
+5. Open the "config" folder and then the "database" folder.
+6. Check that the database information in the "pterodact

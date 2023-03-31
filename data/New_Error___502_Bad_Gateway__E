@@ -1,0 +1,7 @@
+Error: New Error: "502 Bad Gateway" Error When Accessing The Pterodactyl Panel.
+
+Solution: Step 1: Check if the Pterodactyl Panel is up and running
+- Visit https://<your server's IP>:8080 in your web browser
+- If you can't access the page, make sure that the Pterodactyl Panel service is running. You can check this by running the command `sudo systemctl status wings` in your server terminal.
+
+Step

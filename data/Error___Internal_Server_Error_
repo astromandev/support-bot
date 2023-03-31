@@ -1,0 +1,5 @@
+Error: Error: "Internal Server Error" Message On The Pterodactyl Panel When Trying To Start Your Minecraft Server.
+
+Solution: 1. Check the console logs: Go to your Pterodactyl panel and click on "Console" to see the server console logs. Check for any errors or messages that might indicate the root cause of the issue.
+
+2. Check the server jar file: Check that the server JAR file is installed correctly on your server. The Pterodactyl panel

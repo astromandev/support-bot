@@ -1,0 +1,9 @@
+Error: Error: "Unable To Bind To 0.0.0.0:25565: Permission Denied"
+
+This Error Occurs When The Pterodactyl Panel Minecraft Server Cannot Bind To The Default IP And Port Because It Does Not Have The Necessary Permissions.
+
+Solution: 1. Open the Pterodactyl panel and navigate to the "Console" tab.
+
+2. Enter the command "sudo systemctl stop minecraftd" to stop the Minecraft server if it is currently running.
+
+3. Type the

@@ -1,0 +1,7 @@
+Error: Error: "Server Creation Failed: Unable To Download Minecraft Server Jar" 
+
+Explanation: This Error Occurs When The Pterodactyl Panel Is Unable To Download The Minecraft Server Jar From The Minecraft Website. This May Happen Due To A Network Issue Or A Problem With The Minecraft Website.
+
+Solution: Step 1: Check the server's internet connection. Make sure there is a stable internet connection before proceeding with the next steps.
+
+Step 2: Verify if the version of Minecraft server you are trying to

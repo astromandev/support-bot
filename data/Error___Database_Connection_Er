@@ -1,0 +1,9 @@
+Error: Error: "Database Connection Error: Unable To Connect To The Database With The Provided Credentials."
+
+Solution: 1. Check the database credentials entered in the panel are correct. 
+
+2. Verify that the database host, port, username, and password are correct and match those specified in your database configuration file.
+
+3. Try connecting to the database using a tool such as phpMyAdmin or a MySQL command-line tool to confirm that the credentials are correct and the database server is operational.
+
+4. If the database

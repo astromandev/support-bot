@@ -1,0 +1,12 @@
+Error: Sure! Here'S A Common Error For Running A Minecraft Server On Windows And Its Solution:
+
+**Error:** "The Java Executable Used By Minecraft Server Does Not Exist At '<Filepath>'."
+  
+**
+
+Solution: **
+
+1. Open your Minecraft Server folder and locate the "server.properties" file.
+2. Open the "server.properties" file using a text editor.
+3. Look for the line that reads "java=".
+4. If the line is blank or contains the wrong filepath, replace it with

@@ -1,0 +1,6 @@
+Error: Error: "Unable To Connect To Server: Failed To Login: Invalid Session (Try Restarting Your Game)"
+
+Solution: 1. Exit Minecraft completely and wait for a few seconds then reopen the game.
+2. Check if you are using the correct login information for the Minecraft account that you are trying to log in with. 
+3. Make sure that you have a stable internet connection.
+4. Check if your Minecraft account has been migrated to a Mojang account. If yes, then use your email address

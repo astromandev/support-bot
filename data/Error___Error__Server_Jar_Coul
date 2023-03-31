@@ -1,0 +1,5 @@
+Error: Error: "Error: Server Jar Could Not Be Found. Please Ensure That The Specified Jar File Is Located In The Server Directory And Specified Correctly In The Startup Parameters."
+
+Solution: 1. First, check if the server.jar file exists in the server directory. If it's not there, you need to obtain a copy of the server.jar file and upload it to the server directory.
+
+2. If the server.jar file is present in the server directory, ensure that it is named correctly. The server.jar

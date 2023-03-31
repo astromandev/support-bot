@@ -1,0 +1,5 @@
+Error: Error: "Io.Netty.Channel.AbstractChannel$AnnotatedConnectException: Connection Timed Out: No Further Information:"
+
+Solution: 1. Check your internet connection: This error usually occurs when there is a problem with the internet connection. Ensure that you have a stable internet connection and retry connecting to the server.
+
+2. Verify server details: Verify that the server address details you are using are correct. Ensure that there are no typos in the server address, and that you have entered the correct port.

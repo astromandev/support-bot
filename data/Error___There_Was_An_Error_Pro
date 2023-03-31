@@ -1,0 +1,6 @@
+Error: Error: "There Was An Error Processing Your Request. Please Try Again Later. If The Issue Persists, Please Contact Support."
+
+Solution: 1. Check your internet connection and make sure it is stable.
+2. Clear your browser cache and cookies.
+3. Try opening the Pterodactyl panel in an incognito window or another browser.
+4. If the error persists, ensure that your Pterodactyl panel is up-to-date by running `cd /var/www/pterodact

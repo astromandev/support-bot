@@ -1,0 +1,9 @@
+Error: Here'S A New Error In Pterodactyl Panel:
+
+**Error:** "The Server Is Not Responding, Please Contact Your Server Provider For Assistance."
+
+**
+
+Solution: ** This error occurs when the Minecraft server is offline or is not properly configured in Pterodactyl Panel. Here are the steps to fix this error:
+
+1. Check if the server is offline: Go to your Pterodactyl panel dashboard, click on the server you're having trouble with and check if the server status

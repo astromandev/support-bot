@@ -1,0 +1,7 @@
+Error: Error: Inability To Upload Custom Server Files On The Pterodactyl Panel.
+
+Step-By-Step
+
+Solution: 1. First, check if your custom files are within the allowed file types and file size limits of the panel. Pterodactyl supports .jar, .zip, and .tar.gz files, so ensure that your custom files are within the supported file types.
+
+2. Check if the file permissions are correct. If the custom files are private, ensure that the panel’s

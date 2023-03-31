@@ -1,0 +1,6 @@
+Error: Error: "Socket Bind Failed: EACCES (Permission Denied)"
+
+This Error Occurs When The Minecraft Server Tries To Bind To A Port That Requires Elevated Privileges, But The User Running The Server Does Not Have Those Permissions.
+
+Solution: 1. Open the Pterodactyl panel and go to the server's console.
+2. Type the command `sudo su` to switch to the root user. If prompted for a password, enter the root password (this is usually the same as the user

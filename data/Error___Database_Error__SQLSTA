@@ -1,0 +1,5 @@
+Error: Error: "Database Error: SQLSTATE[HY000] [1045] Access Denied"
+
+Solution: 1. First, make sure that you are using the correct username and password for your database. Double-check the spelling and capitalization.
+2. If you are using a control panel such as Pterodactyl, make sure that you have properly configured the database credentials. You may need to contact your hosting provider or consult the panel's documentation for help with this step.
+3. Check your

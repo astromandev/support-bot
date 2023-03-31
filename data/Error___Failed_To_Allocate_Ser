@@ -1,0 +1,5 @@
+Error: Error: "Failed To Allocate Server Port"
+
+Solution: 1. This error occurs when the server port specified in the Pterodactyl panel is already in use by another application. To solve the issue, first, check if another application is already running on the same port. 
+
+2. If there is no other application running on the same port, then it could be that the port is blocked by the firewall. To solve this, check your firewall settings and make sure that the specified port is

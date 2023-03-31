@@ -1,0 +1,9 @@
+Error: Error: "Disk Space Usage Is Too High"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Click on the server that shows the disk space usage error.
+3. Go to the "File Manager" section of your server in the Pterodactyl panel.
+4. Check for any files or directories that you don't need or that are taking up too much space.
+5. Delete or move those files to a different location if they

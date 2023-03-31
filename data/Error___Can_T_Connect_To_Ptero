@@ -1,0 +1,7 @@
+Error: Error: "Can'T Connect To Pterodactyl Panel"
+
+Solution: 1. Check your internet connection: Make sure that your device is connected to the internet.
+
+2. Check your panel URL: Make sure that you have entered the correct URL for your panel. Check for any typos or spelling errors.
+
+3. Check your firewall settings: Sometimes, firewalls can block connections to the panel. Check your firewall settings to see if it is blocking the connection. If it is, then you

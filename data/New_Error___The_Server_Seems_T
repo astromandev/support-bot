@@ -1,0 +1,6 @@
+Error: New Error: "The Server Seems To Be Offline. Please Contact A Support Representative."
+
+Step-By-Step
+
+Solution: 1. Make sure that the server is turned on and running. You can check the server status by going to the "Console" tab on the Pterodactyl panel and checking if there are any error messages.
+2. If the server is running, try connecting to it using Minecraft client. If you are able to connect, it might be a problem with the panel's connection

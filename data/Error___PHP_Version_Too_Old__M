@@ -1,0 +1,12 @@
+Error: Error: "PHP Version Too Old (Minimum Is 7.2.5)"
+
+Solution: Step 1: Login to your Pterodactyl panel and navigate to the server that is showing the error.
+
+Step 2: Click on the "Console" tab to access the server console.
+
+Step 3: Type the following command in the console and hit enter:
+```
+php -v
+```
+
+Step 4: Check the PHP version displayed on the console. If the version is

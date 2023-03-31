@@ -1,0 +1,6 @@
+Error: Error: "Java.Io.IOException: An Existing Connection Was Forcibly Closed By The Remote Host"
+
+Solution: 1. Check if the Minecraft server is up-to-date with the latest version. 
+2. Restart the Minecraft server by closing it and reopening it. 
+3. Check if the firewall or antivirus software is blocking the Minecraft server. Add the server to the list of exceptions in the firewall/antivirus software or temporarily disable them. 
+4. Ensure that the server properties file is set correctly

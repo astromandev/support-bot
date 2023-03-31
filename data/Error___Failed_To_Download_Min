@@ -1,0 +1,7 @@
+Error: Error: "Failed To Download Minecraft Server Jar"
+
+Solution: 1. Check that you have entered the correct server version number in the panel.
+2. Check that the panel is connected to the internet.
+3. Check that the server file link in the panel is correct.
+4. If the issue is related to the server file link being incorrect, try manually downloading the server file from the official Minecraft website and uploading it to the server via SFTP.
+5. If the issue persists, try deleting the

@@ -1,0 +1,15 @@
+Error: Error: "Maximizing Output Buffers May Result In Memory Issues. Please Consider Reducing Buffer Size If Issues Persist."
+
+Solution: 1. Log in to your Pterodactyl panel as an admin.
+2. Navigate to the server where you encountered the error.
+3. Click on the "Console" tab.
+4. Type the following command to open the server startup script:
+
+```
+nano /home/container/start.sh
+```
+
+5. Scroll down to the line that says:
+
+```
+java

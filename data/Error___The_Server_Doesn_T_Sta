@@ -1,0 +1,5 @@
+Error: Error: "The Server Doesn'T Start And I Receive An Error: 'Error: Could Not Create The Java Virtual Machine. Error: A Fatal Exception Has Occurred. Program Will Exit.'"
+
+Solution: 1. Firstly, check if you have enough memory installed on your computer to run the Java Minecraft server. It is recommended to have at least 4GB of RAM.
+ 
+2. If you have enough memory, try to allocate more memory to the Java Virtual Machine (JVM) by editing the startup

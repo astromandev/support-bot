@@ -1,0 +1,5 @@
+Error: Error: "Failed To Load World" When Attempting To Start A Minecraft Server From Pterodactyl Panel.
+
+Solution: 1. Check the server log for any specific error message. This may help in identifying the cause of the problem. To access the server log, click on the server name in the Pterodactyl panel and then click on the "Console" tab.
+
+2. Ensure that your server has enough disk space available. Minecraft servers require a significant amount of disk space, and

@@ -1,0 +1,5 @@
+Error: Error: "Can'T Allocate More Than 1GB Of RAM For Minecraft Server On Pterodactyl Panel"
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to your server's dashboard.
+2. Click on "File Manager" and then on "Configuration".
+3. Look for the line that starts with "-Xmx" and change the number after it to the amount of RAM you want to allocate to the server (e.g. "-Xmx2G

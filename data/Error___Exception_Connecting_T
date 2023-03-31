@@ -1,0 +1,9 @@
+Error: Error: "Exception Connecting To Panel"
+
+Solution: Step 1: Check if the Pterodactyl panel is up and running.
+ 
+Step 2: Make sure that you have entered the correct URL for the panel in your Minecraft server config. Double-check for typos.
+
+Step 3: Check your firewall settings on the server to make sure that the panel's required ports are open. The default port for Pterodactyl is 8080.
+
+Step 4: Verify

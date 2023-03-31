@@ -1,0 +1,5 @@
+Error: Error: "Server Error - Could Not Find Or Load Main Class Jarfile"
+
+Solution: 1. Check that the jarfile in the Server Startup Command section of the panel is correct.
+2. If the jarfile is correct, try deleting the contents of the "Server Jar Location" field in the "Settings > Startup" section, saving your changes, and then re-entering the correct jarfile name.
+3. Check that your server has the necessary permissions to access the file. You may need

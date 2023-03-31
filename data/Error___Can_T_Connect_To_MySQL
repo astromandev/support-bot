@@ -1,0 +1,9 @@
+Error: Error: "Can'T Connect To MySQL Server"
+
+This Error Occurs When The Pterodactyl Panel Is Unable To Connect To The MySQL Server. This Can Happen Due To A Misconfiguration Of The Database Settings Or Due To Connectivity Issues Between The Pterodactyl Panel And The MySQL Server.
+
+Step-By-Step
+
+Solution: 1. Check the MySQL server host, port, username, and password settings in the Pterodactyl panel's configuration files to make sure they are correct.
+
+2

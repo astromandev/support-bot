@@ -1,0 +1,5 @@
+Error: Error: "Java.Lang.NoClassDefFoundError: Org/Apache/Logging/Log4j/Level" 
+This Error Occurs When The Server Runs Out Of Memory, Preventing It From Loading A Required Class.
+
+Solution: 1. Make sure you have enough memory allocated to your Minecraft server. You can do this by opening the server's start script and editing the "-Xmx" flag to allocate more memory. For example: "-Xmx2G" to allocate 2 gigabytes of memory. 
+2

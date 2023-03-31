@@ -1,0 +1,5 @@
+Error: Error: "The Server Control Panel Is Inaccessible And Displaying An ERR CONNECTION REFUSED Error Message."
+
+Solution: 1. Check if the server is running - you can do this by checking if there are any processes associated with the server using the command "ps aux | grep java" in the terminal. If there are no processes running, start the server using the command "cd /home/container && java -jar server.jar" in the terminal.
+
+2. Check if the firewall is blocking the connection - you

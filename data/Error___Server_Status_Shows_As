@@ -1,0 +1,7 @@
+Error: Error: "Server Status Shows As Offline In The Pterodactyl Panel"
+
+Solution: Step 1: Check the server's logs in the panel by clicking on the "Console" button. This will show you any errors that might be preventing the server from starting properly.
+
+Step 2: Verify that the server is running by checking the status of the process using the SSH access provided by the host.
+
+Step 3: Check that the server's firewall is correctly configured for the Minecraft server's

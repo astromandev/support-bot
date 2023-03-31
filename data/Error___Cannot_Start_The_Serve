@@ -1,0 +1,6 @@
+Error: Error: "Cannot Start The Server Because The Maximum RAM Allocation Has Been Exceeded"
+
+Solution: 1. Login to your Pterodactyl panel and click on the Minecraft server that's having the error.
+2. Click on the "Startup" tab on the left-hand side.
+3. Scroll down until you see the "JVM Arguments" tab.
+4. In this tab, you'll see a line that says something like "-Xmx" and a number after it. This is your maximum

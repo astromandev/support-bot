@@ -1,0 +1,7 @@
+Error: Error: "Unable To Start The Minecraft Server, Could Not Find Or Load Main Class"
+
+Solution: 1. Verify that you have entered the correct server type and version in the server properties.
+2. Ensure that your Java installation is up-to-date.
+3. Check that you have the correct Java version selected in the Pterodactyl panel.
+4. Make sure that you have uploaded the Minecraft server jar file to the server through the SFTP.
+5. Verify that the file name of the

@@ -1,0 +1,8 @@
+Error: Here Is A New Error And Its Solution:
+
+Error: "Failed To Bind To Port. Maybe Another Server Is Already Running On That Port."
+
+Solution: 1. Log in to the Pterodactyl Panel and stop the server.
+2. Once the server is stopped, click on the "File Manager" tab.
+3. Look for a file named "server.properties" and open it.
+4. Change the server port number to an available port. For example, change the port from "255

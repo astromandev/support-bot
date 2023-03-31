@@ -1,0 +1,7 @@
+Error: Error: "Server Setup Encountered An Error"
+
+Solution: 1. Check your server specifications: The first thing to check is the specifications of the server. Make sure it meets the minimum requirements for running the Minecraft server. Check the CPU, RAM, and disk space. 
+
+2. Update Java: Ensure that you have the latest version of Java installed on your server. Minecraft servers require Java to run, so having the correct version of Java installed is essential. 
+
+3. Firewall: Check the

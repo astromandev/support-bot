@@ -1,0 +1,7 @@
+Error: Here Is A Common Error That Beginners May Encounter When Setting Up A Minecraft Server:
+
+Error: "Java Was Started But Returned Exit Code=1"
+
+Solution: Step 1: Check if the Java version is compatible with Minecraft. Minecraft requires Java 8 or above to be installed in order to run the server. You can download and install the latest version of Java from the official website.
+
+Step 2: Check the path of the Java executable file to ensure it is included in the system’s PATH variable

@@ -1,0 +1,5 @@
+Error: Error: "Error: Failed To Install Server - Please Consult The Documentation For More Information"
+
+Solution: 1. Check the server requirements: Before attempting to install the server, ensure that your server meets the required specifications detailed by Pterodactyl. You may need to upgrade your server resources or configurations.
+
+2. Double-check the installation commands: Ensure that the installation commands you are using are correct and entered in the correct order. You can refer to the Pterodactyl documentation for specific installation

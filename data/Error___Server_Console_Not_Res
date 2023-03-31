@@ -1,0 +1,5 @@
+Error: Error: "Server Console Not Responding" On Pterodactyl Panel.
+
+Solution: 1. Log in to your Pterodactyl panel, navigate to your server dashboard, and click on the "Console" tab.
+2. Check if the console screen shows any ongoing processes or scripts. If it is, wait for it to finish as it may take some time, especially during server startup.
+3. If there is no ongoing process, try refreshing the console by closing and reopening it.

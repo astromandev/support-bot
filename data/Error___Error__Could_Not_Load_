@@ -1,0 +1,5 @@
+Error: Error: "Error: Could Not Load Plugin 'Luckperms' Because: Api@4.18.86 Not Found"
+
+Solution: 1. Check Your Luckperms Version: Luckperms needs to be compatible with the version of Minecraft you’re running. Check the version of Luckperms installed on your server and ensure it is compatible with your server.
+
+2. Update Luckperms: If the version of Luckperms you’re running isn’t compatible with your Minecraft server version, try updating it using the Pter

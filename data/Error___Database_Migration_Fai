@@ -1,0 +1,9 @@
+Error: Error: "Database Migration Failed For Pterodactyl Panel Minecraft Server"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel account.
+2. Click on the "Console" tab on the left-hand menu.
+3. Type the command "php artisan migrate --path=/database/migrations/panel" in the console command prompt and press enter.
+4. Wait until the migration process completes. This may take a few minutes to complete.
+5. Once the

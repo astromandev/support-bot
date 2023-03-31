@@ -1,0 +1,7 @@
+Error: Error: "Server Has Insufficient Available Memory To Start" When Trying To Start A Minecraft Server In Pterodactyl Panel.
+
+Solution: 1. Login to your Pterodactyl Panel and navigate to your Minecraft Server.
+2. Select the "Console" option on the left-hand side.
+3. Check the console logs for the specific error message.
+4. If it says "insufficient available memory", the server does not have enough RAM allocated to start.
+5. Navigate to the "

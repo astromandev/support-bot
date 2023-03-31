@@ -1,0 +1,5 @@
+Error: Error: "Unable To Connect To MySQL Database"
+
+Solution: 1. Check if the MySQL server is running on the same machine as the panel. If not, make sure that the host and port of the MySQL server are correctly specified in the configuration file.
+2. Check the username and password for the MySQL server. Make sure they are spelled correctly and are authorized to access the database.
+3. Ensure that the MySQL version being used by the panel is compatible with the version running on the server. If

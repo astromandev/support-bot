@@ -1,0 +1,6 @@
+Error: Error: "The Server Is Offline And Won'T Start Up."
+
+Solution: 1. Check to make sure that the server is turned on and connected to the internet.
+2. Check the server logs to see if there are any error messages or any indication of what might be causing the issue.
+3. Make sure that the server's Java version is up to date and that Java is installed properly.
+4. Try restarting the server, as sometimes the issue is a temporary one and will be resolved upon

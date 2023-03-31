@@ -1,0 +1,7 @@
+Error: Common Minecraft Error: "Failed To Login: Invalid Session (Try Restarting Your Game)”
+
+Step-By-Step
+
+Solution: 1. Close and exit the Minecraft launcher.
+
+2. Navigate to your computer’s %appdata% folder. On Windows, you can do this by pressing the Windows key + R and typing %appdata% into the Run dialog box. On a Mac, you can access this folder by going to Finder, then selecting Go > Go to Folder and typing ~/Library/Application Support.

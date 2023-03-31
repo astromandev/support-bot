@@ -1,0 +1,7 @@
+Error: Error: "Server Can'T Keep Up! Did The System Time Change, Or Is The Server Overloaded?"
+
+Solution: 1. Check the system clock on your server computer to ensure that it is synchronized with the correct time. If it is not, update it to reflect the correct time.
+
+2. Check the performance of your server's CPU and memory to ensure that the system is not overloaded. 
+
+3. Reduce the number of players on your server or reduce the number of plugins/mods that you have

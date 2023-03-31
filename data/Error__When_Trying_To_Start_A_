@@ -1,0 +1,7 @@
+Error: Error: When Trying To Start A Minecraft Server, The Pterodactyl Panel Shows An Error Message That Reads "Error: Could Not Reserve Enough Space For Object Heap".
+
+Solution: This error occurs when the server is unable to allocate enough RAM to run the Minecraft server. You can solve this error by increasing the amount of RAM allotted to the Minecraft server.
+
+Step-by-step solution:
+
+1. Log in to your Pterodactyl panel and navigate to the server that is giving you the

@@ -1,0 +1,7 @@
+Error: Error: "Server Start-Up Failed - Could Not Reserve Enough Space For Object Heap"
+
+This Error Occurs When The Allocated Memory For The Minecraft Server Exceeds The Physical Memory Installed On The Server. This Can Cause Issues With The Server Start-Up Process, Preventing It From Launching.
+
+Solution: 1. Navigate to your server in the Pterodactyl panel and click on the "Startup" tab.
+2. Locate the "JVM Arguments" field and edit it.
+3. Change the amount of allocated memory

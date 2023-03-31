@@ -1,0 +1,6 @@
+Error: New Error: "Error: Your Server Jar Is Missing Or Invalid. Please Ensure You Uploaded The Correct Server Jar From The 'Settings' > 'General' Page."
+
+Solution: 1. First, navigate to the Pterodactyl panel and log in to your account.
+2. Once logged in, click on the "Server Management" tab and select the affected server.
+3. Next, click on the "Settings" tab and then select "General" from the drop-down menu.
+4.

@@ -1,0 +1,5 @@
+Error: Here'S A New Error That You May Encounter When Setting Up A Minecraft Server On A Pterodactyl Panel:
+
+Error: "Cannot Connect To Server" Or "Connection Timed Out" When Trying To Connect To The Minecraft Server.
+
+Solution: 1. Check if the server is running: Go to the Pterodactyl panel, navigate to the "Console" tab of your server, and check if the server is running. If the server is not running, start it by typing "start

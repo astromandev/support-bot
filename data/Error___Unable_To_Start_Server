@@ -1,0 +1,6 @@
+Error: Error: "Unable To Start Server/Java/1.8.0/Jre/Bin/Java: No Such File Or Directory."
+
+Solution: This error occurs when the Java path is not set up correctly in the Pterodactyl panel. Here is a step-by-step solution for beginners to resolve this issue:
+
+1. Log in to your Pterodactyl panel and navigate to the server page in question.
+2. Click on the "Startup" tab and check that the Java path is correct

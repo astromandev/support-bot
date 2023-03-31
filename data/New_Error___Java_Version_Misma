@@ -1,0 +1,6 @@
+Error: New Error: "Java Version Mismatch. Server Requires Java ${RequiredJavaVersion} Or Later But Found Java ${ServerJavaVersion} Installed."
+
+Step-By-Step
+
+Solution: 1. Check the version of Java currently installed on the server by running the command 'java -version' through SSH. This will display the version of Java that is currently installed on the server.
+2. Check the Java version requirement for the Minecraft server that you are trying to host. This information is usually available on the server website

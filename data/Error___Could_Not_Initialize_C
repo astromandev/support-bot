@@ -1,0 +1,4 @@
+Error: Error: "Could Not Initialize Class Org.Apache.Tomcat.Util.Descriptor.Web.WebXmlParserListener" When Trying To Start A Minecraft Server On The Pterodactyl Panel.
+
+Solution: 1. First, make sure that you have installed the latest version of Java on your server. You can check this by running the command "java -version" in your terminal.
+2. If Java is properly installed, then the error may be due to a clash between Java versions. To fix this, try removing

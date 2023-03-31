@@ -1,0 +1,9 @@
+Error: Here'S A New Error Related To The Pterodactyl Panel Minecraft Server And Its Solution:
+
+Error: "Fatal Error: Out Of Memory (Allocated Less Than -Xmx512M)"
+
+Solution: This error occurs when the server doesn't have enough memory allocated to it. Here are the steps to fix it:
+
+1. Log in to your Pterodactyl panel account and navigate to the server you are experiencing the error on.
+
+2. Click on the "Console" tab to access

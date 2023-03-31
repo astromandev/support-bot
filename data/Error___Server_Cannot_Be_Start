@@ -1,0 +1,5 @@
+Error: Error: "Server Cannot Be Started, "Another Instance Of Pterodactyl Is Already Running""
+
+Solution: 1. Check if there is any other instance of Pterodactyl running by running the following command in your terminal: `ps aux | grep -v grep | grep -i pterodactyl`
+2. If there is another instance running, stop it by running the command `cd /var/www/pterodactyl && php artisan down`
+3. Check

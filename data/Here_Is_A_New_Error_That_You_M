@@ -1,0 +1,10 @@
+Error: Here Is A New Error That You May Encounter With Pterodactyl Panel Minecraft Server:
+
+Error: "Failed To Bind To Port! (98: Address Already In Use)"
+
+Cause: This Error Occurs When The Port That Your Server Is Trying To Bind To Is Already In Use By Another Application.
+
+Solution: Step 1: You need to identify which process is running on that port. You can do this by using the following command in the terminal:
+
+```
+sudo lsof -i :

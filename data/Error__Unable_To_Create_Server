@@ -1,0 +1,5 @@
+Error: Error: Unable To Create Server Due To Port Forwarding Issues.
+
+Solution: 1. Check if your router is properly set up for port forwarding. You need to forward the port used by your Minecraft server (default port is 25565) to the internal IP address of your computer running the server. You can usually find information on how to do this in your router's manual or by searching online for port forwarding instructions for your specific router model.
+
+2. Make sure that the internal IP address of the computer

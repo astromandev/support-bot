@@ -1,0 +1,7 @@
+Error: Error Message: "The JDK Could Not Be Found."
+
+Solution: Step 1: Open the Pterodactyl panel and navigate to the server file manager.
+Step 2: Create a new folder in the root directory of the server named "JDK".
+Step 3: Download the JDK appropriate for your server's operating system from the Oracle website.
+Step 4: Upload the downloaded JDK to the newly created "JDK" folder in the server file manager.
+Step 5: Return

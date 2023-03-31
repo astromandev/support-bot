@@ -1,0 +1,9 @@
+Error: Error: "Cannot Access The Pterodactyl Panel After Installation."
+
+Solution: 1. First, check if the Pterodactyl panel is installed correctly.
+
+2. Ensure that your firewall allows access to the panel. You can check your firewall settings and make sure that the port you are using for the panel is allowed through the firewall.
+
+3. Check if the Apache and Nginx ports are not conflicting with the panel port.
+
+4. Verify if your server's IP address is added

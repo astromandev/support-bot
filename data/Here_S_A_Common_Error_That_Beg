@@ -1,0 +1,11 @@
+Error: Here'S A Common Error That Beginners May Encounter While Trying To Start A Minecraft Server:
+
+**Error:** "Failed To Bind To Port" Error Message Appears When Trying To Start The Server.
+
+**
+
+Solution: **
+
+1. Check if the same port is opened elsewhere before you start the server. If the same port is used by another application on the server, change the port of the Minecraft server by editing the "server.properties" file.
+
+2. Open the "server.properties" file in your Minecraft server folder

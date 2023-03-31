@@ -1,0 +1,5 @@
+Error: Error: Server Not Starting Up After Updating Server Jar On Pterodactyl Panel.
+
+Solution: 1. First, go to the Pterodactyl panel and check the server console for any error messages.
+2. If there are no error messages, then navigate to the "Startup" tab and check the launch parameters for the server.
+3. Update the launch parameters according to the new server jar version. You can also check the server jar filename and make sure it matches the name specified in

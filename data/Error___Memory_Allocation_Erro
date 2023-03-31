@@ -1,0 +1,7 @@
+Error: Error: "Memory Allocation Error" Typically Caused When You Start Your Minecraft Server And Encounter The Following Error Message: “Error: A Fatal Exception Has Occurred. Program Will Exit. Out Of Memory.” 
+
+Cause: The Server Is Running Out Of Allocated Memory, Which Causes It To Crash.
+
+Solution: 1. Login to your Pterodactyl panel and select your Minecraft server.
+2. Click on the "Console" tab of your Minecraft server, which will show you the Minecraft server console.
+3

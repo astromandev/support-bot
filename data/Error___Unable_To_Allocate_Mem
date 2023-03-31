@@ -1,0 +1,10 @@
+Error: Error: "Unable To Allocate Memory: JVM Could Not Reserve Enough Space For Object Heap."
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the "Files" section.
+2. Open the "server.properties" file and add the following line at the end of the file:
+
+- Xmx=2G
+
+(Note: the "2G" value can be adjusted based on your server's available memory)
+3. Save the file and restart your server.
+4.

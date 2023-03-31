@@ -1,0 +1,11 @@
+Error: Here Is A New Error That Can Occur While Running A Minecraft Server:
+
+**Error:** "The Server Doesn'T Start Properly And Displays The Error 'ExceptionInInitializerError'."
+
+**Step-By-Step
+
+Solution: ** 
+
+1. First, check if your server's Java version matches the recommended version for your Minecraft server. You can find the recommended Java version on the Minecraft website. If your Java version is not the recommended one, update your Java installation.
+ 
+2. If the problem persists, it may

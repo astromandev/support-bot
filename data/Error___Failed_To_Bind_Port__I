@@ -1,0 +1,7 @@
+Error: Error: "Failed To Bind Port" In Pterodactyl Panel For Minecraft Server
+
+Step-By-Step
+
+Solution: 1. Check if the port that your Minecraft server is configured to listen on is already in use by another application or not. You can use the following command to check for the port status: `sudo netstat -tuln | grep <port_number>`
+
+2. If the port is already in use, you can either stop the service using the port or change the

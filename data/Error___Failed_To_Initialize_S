@@ -1,0 +1,5 @@
+Error: Error: "Failed To Initialize Server: The Server Could Not Start Due To An Unknown Error. Check Your Logs For Any Details."
+
+Solution: 1. Check the logs in the Pterodactyl panel for any additional information on the error. You can do this by going to your Pterodactyl panel, clicking the "Console" tab, and scrolling up to see the logs.
+2. If you see any specific error messages, refer to online resources or forums for possible solutions.
+3

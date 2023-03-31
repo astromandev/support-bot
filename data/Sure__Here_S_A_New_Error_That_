@@ -1,0 +1,10 @@
+Error: Sure, Here'S A New Error That Can Occur On Pterodactyl Panel Minecraft Servers:
+
+**Error:** "Failed To Bind To Port! You Need To Assert That The Server Process Is Allowed To Bind To The Appropriate Port. Try Running This Command: `Setcap 'Cap Net Bind Service=+Ep' /Path/To/Java`".
+
+**
+
+Solution: **
+
+1. Login to your server's console. 
+2. Check whether the port is already in use by running the following command:

@@ -1,0 +1,5 @@
+Error: Error: "Unable To Install Server Jar. Please Contact Support For Assistance."
+
+Solution: 1. Check if the server jar file is properly uploaded to the panel. If not, upload the file again and try to install it.
+2. Make sure that the java version of your server matches with the server jar file. If your server is running on Java 14, then use a server jar file that is optimized for Java 14.
+3. Try to delete the existing server and create a new one

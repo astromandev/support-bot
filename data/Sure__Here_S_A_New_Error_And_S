@@ -1,0 +1,11 @@
+Error: Sure, Here'S A New Error And Solution:
+
+**Error:** "Failed To Bind Port: Address Already In Use"
+
+**
+
+Solution: **
+
+This error occurs when the port that your Minecraft server is trying to use is already occupied by another service or program. To fix this error, you'll need to change the port that your server is using. Here are the steps to do it:
+
+1. Log in to your Pterodactyl panel and click on the "Console" button for your Minecraft

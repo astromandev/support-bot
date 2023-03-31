@@ -1,0 +1,7 @@
+Error: Error: "503: Service Unavailable" Appears When Trying To Access The Pterodactyl Panel.
+
+Solution: Step 1: Check the status page of the hosting provider for any issues that may be affecting the Pterodactyl panel.
+
+Step 2: Restart the Pterodactyl daemon by running the following command: `systemctl restart wings`. This command restarts the daemon that manages the Pterodactyl panel.
+
+Step 3: Check the system resource usage

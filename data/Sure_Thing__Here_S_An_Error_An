@@ -1,0 +1,7 @@
+Error: Sure Thing! Here'S An Error And Its Solution That Hasn'T Been Covered Yet:
+
+Error: "The Server Is Running Out Of Memory And Needs To Be Restarted."
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to your server's console.
+2. Type "top" in the console and hit enter. This will show you the current usage of your server.
+3. Look for the "Mem" row in the table. This should show you the amount of memory

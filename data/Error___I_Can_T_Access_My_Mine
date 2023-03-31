@@ -1,0 +1,5 @@
+Error: Error: "I Can'T Access My Minecraft Server Console From The Pterodactyl Control Panel."
+
+Solution: 1. First, make sure that your Minecraft server is actually running. If it's not running, start your server by clicking the "Start" button on the Pterodactyl control panel.
+ 
+2. If your server is running, check that you are logging in with the correct credentials. Make sure that your username and password are spelled correctly and that your IP address is

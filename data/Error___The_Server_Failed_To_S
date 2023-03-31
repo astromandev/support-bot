@@ -1,0 +1,5 @@
+Error: Error: "The Server Failed To Start After Clicking The "Start" Button On The Pterodactyl Panel. The Console Is Showing An Error Message That Says "Exception In Server Tick Loop"."
+
+Solution: 1. Check if the server JAR file is correct and has been uploaded correctly on the panel.
+2. Check if the server resource limits are set correctly. Make sure that there is enough RAM and CPU assigned to the server.
+3. Check if the server ports are open in the

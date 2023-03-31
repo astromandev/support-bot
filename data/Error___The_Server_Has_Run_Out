@@ -1,0 +1,11 @@
+Error: Error: "The Server Has Run Out Of Memory"
+
+Solution: 1. First, log in to your Pterodactyl panel.
+
+2. Navigate to the server you are having issues with and click on the "Console" tab.
+
+3. Check the logs for any error messages regarding memory usage.
+
+4. If the logs indicate that the server has run out of memory, you will need to allocate more RAM to the server.
+
+5. To allocate more RAM, go to the "Startup"

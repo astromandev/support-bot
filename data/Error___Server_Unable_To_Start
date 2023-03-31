@@ -1,0 +1,5 @@
+Error: Error: "Server Unable To Start Due To Insufficient Memory Allocation"
+
+Solution: 1. Log into your Pterodactyl Panel and navigate to your server dashboard.
+2. Click on the 'Console' tab and wait for the server console to fully load.
+3. Type 'java -Xms1G -Xmx2G -jar server.jar' into the console and press enter. This command will allocate 1GB of memory to the server on startup and allow it to use up to

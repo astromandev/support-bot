@@ -1,0 +1,11 @@
+Error: Here'S A New Error You May Encounter While Running A Minecraft Server Using Java:
+
+**Error:** "Failed To Write Core Dump. Minidumps Are Not Enabled By Default On Client Versions Of Windows"
+
+**Cause:** This Error Occurs When The Java Virtual Machine (JVM) Running Your Minecraft Server Crashes, And It Is Unable To Generate A Core Dump To Help Diagnose The Problem. By Default, Windows Does Not Have The Settings Necessary To Generate Core Dumps.
+
+**
+
+Solution: **
+
+Step 1: Open

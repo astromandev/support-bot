@@ -1,0 +1,5 @@
+Error: Error: The Server Is Unable To Start Or Crashes Immediately After Starting In Pterodactyl Panel.
+
+Solution: 1. Check the server logs: The first step is to check the server logs to see if there are any specific errors that are causing the server to crash. You can access the logs by clicking on the "Console" tab in the Pterodactyl panel and scrolling up to see any error messages.
+
+2. Verify the server files: Sometimes, server files can become corrupted or

@@ -1,0 +1,6 @@
+Error: Error: "Failed To Start File Stream: Permission Denied" On Pterodactyl Panel Minecraft Server.
+
+Solution: 1. Login to your Pterodactyl Panel Minecraft server and navigate to the “File Manager” section.
+2. In the “File Manager”, locate the file that the server failed to start the file stream for, this error is usually triggered by a file that has incorrect permissions.
+3. Right-click the file and select “Permissions” or “Properties”.
+4.

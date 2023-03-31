@@ -1,0 +1,6 @@
+Error: Error: "Server Failed To Start After Update On Pterodactyl Panel"
+
+Solution: 1. First, make sure that you have made a backup of your server files before making any changes.
+2. Check the server logs and look for any error message that might be causing the issue.
+3. If you have made any changes to the server configuration files, ensure that they are correct and have not caused any errors.
+4. Verify that your server’s Java version is compatible with the Minecraft version

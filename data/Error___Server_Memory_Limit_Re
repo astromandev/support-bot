@@ -1,0 +1,6 @@
+Error: Error: "Server Memory Limit Reached" 
+This Error Message Indicates That The Minecraft Server Has Reached The Maximum Amount Of Memory Allowed By The System, And Therefore It Cannot Allocate Any More Resources To Run The Server.
+
+Solution: 1. Access the Pterodactyl Panel and click on "Console" to open the server console.
+2. Type the command "top -o %MEM" to check the current memory usage of the server and identify which process is consuming too much memory.
+3.

@@ -1,0 +1,7 @@
+Error: Error: "Cannot Complete Installation. Panel Was Unable To Start A Minecraft Server."
+ 
+Step-By-Step
+
+Solution: 1. Check if the server is compatible with the panel. The specifications and requirements of the server should match the panel you're using.
+2. Ensure that the panel is running on the latest version. Check for updates and install them if necessary.
+3. Verify that the installation files are correct and complete. Sometimes, downloads may be corrupted or incomplete, which may cause errors during installation.

@@ -1,0 +1,14 @@
+Error: Here'S A Possible New Error That A Beginner May Encounter With Their Pterodactyl Panel Minecraft Server:
+
+**Error:** "Failed To Start Server. Error Code: 255"
+
+**
+
+Solution: **
+
+Step 1: Check the console logs.
+- Login to your Pterodactyl Panel and navigate to the Server dashboard of the affected Minecraft server.
+- Click on the "Console" tab to view the console logs.
+
+Step 2: Look for error messages
+- Scroll through the console

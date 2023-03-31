@@ -1,0 +1,7 @@
+Error: Error: "The Server Was Unable To Start Due To Insufficient Memory Allocation"
+
+Solution: 1. Log into the Pterodactyl control panel.
+2. Click on the Server you're having issues with.
+3. Select the "Console" tab.
+4. Type "sudo nano /etc/systemd/systemd.conf" and hit Enter to open the system configuration file.
+5. Use the arrow keys to navigate down to the "DefaultLimitNOFILE=" line and change the value to "

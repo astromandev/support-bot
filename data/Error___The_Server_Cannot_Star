@@ -1,0 +1,11 @@
+Error: Error: "The Server Cannot Start Because A Required Library Is Missing: Libegl.So.1"
+
+Solution: Step 1: Login to your Pterodactyl Panel.
+
+Step 2: Navigate to the "File Manager" section.
+
+Step 3: Locate your server files and select the folder for the Minecraft server you want to fix.
+
+Step 4: Create a new folder named "lib".
+
+Step 5: Navigate to the "lib" folder and create a new folder named "

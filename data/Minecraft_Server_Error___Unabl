@@ -1,0 +1,6 @@
+Error: Minecraft Server Error: "Unable To Access Jarfile"
+
+Solution: 1. Check the file path of your Minecraft server jar file to ensure that it is accurately entered in the start.bat file.
+2. Make sure that the server.jar file is named correctly and matches the file name in the start.bat file.
+3. If you are running the server on a Linux or Mac machine, be sure to give the start.sh file executable permissions using the chmod command.
+4. Check your firewall and antivirus settings

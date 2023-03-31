@@ -1,0 +1,4 @@
+Error: Error: "Server Status Is Listed As OFFLINE Even Though Server Is Running"
+
+Solution: 1. Check if the server is running by logging in as an admin in the Pterodactyl panel and visiting the "Console" tab. If the server is running, you should see the server console output in the console window.
+2. Check the Minecraft server's log files by navigating to the "File Manager" section of your Pterodactyl panel and opening the "logs" folder.

@@ -1,0 +1,6 @@
+Error: Error: "Server Timeout" Or "Failed To Connect To Server" When Trying To Access The Pterodactyl Panel.
+
+Solution: 1. Check your internet connection to ensure that it is stable, and that your device is connected to the internet.
+2. Check the Pterodactyl panel URL to ensure that you have typed it correctly.
+3. Clear your browser cache and restart your browser.
+4. Uninstall any ad-blocking extensions, as these may be blocking important components of the

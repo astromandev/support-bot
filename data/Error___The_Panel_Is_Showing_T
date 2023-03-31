@@ -1,0 +1,7 @@
+Error: Error: "The Panel Is Showing The Server As Offline Even When It'S Online."
+
+Solution: Step 1: Check if the server is actually online. Use the server console or log in to the server to check its status.
+
+Step 2: Go to the Pterodactyl panel and check the server resource usage. If it's showing that the server is consuming too many resources, then it's possible that the server has crashed or has been forcefully shut down.
+
+Step 3: If

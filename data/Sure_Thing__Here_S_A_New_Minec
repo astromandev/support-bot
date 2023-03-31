@@ -1,0 +1,5 @@
+Error: Sure Thing! Here'S A New Minecraft Server Error And Its Solution:
+
+Error: "Failed To Bind To Port [Number]: Address Already In Use"
+
+Solution: 1. First, make sure that no other application is currently using the port that your Minecraft server is trying to use. To do this, open the command prompt on your computer and type the command "netstat -ano | findstr :[port number]". Replace [port number] with the number of the port that your server is

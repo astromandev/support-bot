@@ -1,0 +1,5 @@
+Error: Error: "Unable To Allocate X MB Of RAM:"
+
+Solution: 1. Login to your Pterodactyl Panel and navigate to the “Startup” section of your server.
+2. Double-check that the amount of RAM you are trying to allocate is within the limits set by your hosting provider.
+3. If you are using the Multicraft control panel, check whether you have a “.conf” file in the server's main directory. If yes, open it with a text editor

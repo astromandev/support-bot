@@ -1,0 +1,6 @@
+Error: Error: "Unable To Allocate Minecraft Server Sufficient RAM"
+
+Solution: 1. Login to your Pterodactyl panel.
+2. Navigate to the Servers page and select the server you're experiencing issues with.
+3. Click on the "Console" tab.
+4. Once in the console, type "java -Xmx=<Memory> -Xms=<Memory> -jar server.jar" (replace <Memory> with the amount of RAM you want to allocate to the server in Megabytes,

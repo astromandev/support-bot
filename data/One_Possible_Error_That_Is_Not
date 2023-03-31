@@ -1,0 +1,11 @@
+Error: One Possible Error That Is Not Frequently Mentioned Is:
+
+**Error:** "Port 25565 Is Already In Use" Is Displayed When Trying To Start The Minecraft Server From The Pterodactyl Panel.
+
+**
+
+Solution: **
+
+1. Log in to your Pterodactyl Panel account.
+2. Navigate to your server and click on the "Console" tab.
+3. Use the command "lsof -i :25565" to find out which process is currently using the port

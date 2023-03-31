@@ -1,0 +1,7 @@
+Error: Sure, Here'S One:
+
+Error: "Failed To Load Resource: Net::ERR CONNECTION REFUSED" When Trying To Access The Pterodactyl Panel.
+
+Solution: Step 1: Check if your server is running. If it is not running, start it.
+
+Step 2: Check if your server has enough resources available. If your server is out of memory, it may not be able to serve requests. You can increase the amount of memory available to your server by editing the launch

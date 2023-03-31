@@ -1,0 +1,5 @@
+Error: Error: "Unable To Upload World" On Pterodactyl Minecraft Server Panel.
+
+Solution: 1. First, check if the server has enough disk space to upload the world. If it doesn't, you may need to upgrade the server or delete some unnecessary files to free up space.
+2. Check the file permissions on the server. The Minecraft server requires write permission to the files, so make sure the server has permission to write to the world folder.
+3. Restart the server and try

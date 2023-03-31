@@ -1,0 +1,5 @@
+Error: Error: "Failed To Setup Server: Unable To Locate Java Executable. Aborting Installation..."
+
+Solution: 1. This error occurs when the panel is unable to locate the Java executable on your system. Ensure that you have Java installed on your server by running the command `sudo apt-get install openjdk-8-jre-headless`.
+2. If the installation has been completed successfully, you should be able to check the version of Java by running the command `java -version`.
+3. If you

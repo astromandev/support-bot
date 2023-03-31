@@ -1,0 +1,6 @@
+Error: One Potential Error That A Beginner May Encounter When Using The Pterodactyl Panel For Their Minecraft Server Is An Issue With Server Memory Allocation. This Error May Manifest As Lag, Crashes, Or Other Performance Issues.
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server you are having trouble with.
+2. Click on the "Console" tab and enter the server command: "java -Xms<amount of memory>G -Xmx

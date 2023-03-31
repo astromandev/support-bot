@@ -1,0 +1,4 @@
+Error: Error: "Server Is Not Starting Up Or Is Stuck In A Starting Loop."
+
+Solution: 1. Check if there are any errors displays in the server console. If there are any errors, try to resolve them first as they may be the reason why the server is not starting up.
+2. Make sure that the server configuration files are properly set up. Check the values of the RAM, CPU, and disk space allocated to the server. If the values are too high or too low, the

@@ -1,0 +1,5 @@
+Error: New Error: "Failed To Connect To Server: Connection Refused"
+
+Solution: 1. Check that the Pterodactyl panel server is running and is accessible from your computer.
+2. Make sure that the Minecraft server is running on the correct port number. You can check this in the Pterodactyl panel by going to the console and typing "netstat -ano | findstr :<port>" (replace <port> with the actual port number).
+3. Make sure that the

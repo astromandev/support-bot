@@ -1,0 +1,9 @@
+Error: Error: "Java Heap Space Out Of Memory Error" In Pterodactyl Panel Minecraft Server
+
+Solution: Step 1: Open the Pterodactyl Panel and log in to your server's console through SSH.
+
+Step 2: Stop the Minecraft server by running the command "stop" in the console.
+
+Step 3: Open the "server.properties" file located in your Minecraft server's root directory by running "nano server.properties" command.
+
+Step 4: Add the following

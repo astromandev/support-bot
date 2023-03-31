@@ -1,0 +1,15 @@
+Error: One Error That Can Occur On A Pterodactyl Panel Minecraft Server For Beginners Is:
+
+**Error:** "Failed At The Minecraft Installation Process. Error Running `/Home/Container/Server.Jar`" 
+
+**
+
+Solution: **
+
+1. Log in to your Pterodactyl panel and navigate to the affected server's dashboard.
+
+2. Click on "File Manager" in the left sidebar.
+
+3. Navigate to the "logs" folder and locate the file "subdomain.log."
+
+4. Open the

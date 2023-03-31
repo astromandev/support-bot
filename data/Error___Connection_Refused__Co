@@ -1,0 +1,5 @@
+Error: Error: "Connection Refused: Connect" While Trying To Connect To The Pterodactyl Panel Minecraft Server From The Minecraft Client.
+
+Solution: 1. Check if the Pterodactyl panel is actually up and running. You can do this by logging in to your server's terminal and running the following command: `sudo systemctl status wings`. If Wings (the Pterodactyl daemon service) is not running, start it with the following command: `sudo systemctl start wings`.
+
+2

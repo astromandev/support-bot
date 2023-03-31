@@ -1,0 +1,7 @@
+Error: One Pterodactyl Panel Minecraft Server Related Error That Commonly Occurs Is The "Connection Refused" Error, Which Can Prevent Players From Accessing The Server.
+
+Step-By-Step
+
+Solution: 1. Check if the server is running: Make sure the server is actually running and not stopped or crashed. You can do this by checking the server status on the Pterodactyl Panel or by accessing the server terminal.
+
+2. Verify Port Forwarding: Ensure that the server's port is correctly forwarded.

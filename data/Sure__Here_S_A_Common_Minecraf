@@ -1,0 +1,7 @@
+Error: Sure, Here'S A Common Minecraft Server Error That Beginners May Encounter:
+
+Error: "Java.Net.BindException: Address Already In Use" When Trying To Start Minecraft Server
+
+Solution: 1. Open your Task Manager (Ctrl + Alt + Delete), and go to the Processes tab to see if there is any other process that is using the same port as your Minecraft server. If there is, end that process.
+
+2. If you are using another Minecraft server instance or have another program running on that port

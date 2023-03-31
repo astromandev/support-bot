@@ -1,0 +1,7 @@
+Error: Error: "Failed To Allocate A Server With The Selected Allocation ID. Please Try Again Later Or Contact Support."
+
+Solution: This error usually occurs when the allocation ID you have selected is either currently occupied or has been recently used and not yet released. Here are the steps to fix this error:
+
+1. Wait for a while and try again later. The allocation ID may become available again, especially if it was recently used.
+
+2. If the error persists, login to your Pterodactyl panel

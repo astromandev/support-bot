@@ -1,0 +1,7 @@
+Error: Error: "Error: Database Migration Required! Run Php Artisan Migrate."
+
+Solution: Step 1: Log in to the Pterodactyl Panel and click on the "Console" button for the affected Minecraft server.
+ 
+Step 2: In console, run the command "php artisan migrate" and wait for it to complete. This command will update the database schema, which should resolve the issue.
+
+Step 3: Once the migration process is complete, restart the server and check if the error

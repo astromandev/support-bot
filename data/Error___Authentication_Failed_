@@ -1,0 +1,7 @@
+Error: Error: "Authentication Failed. Please Try Again" While Logging Into Pterodactyl Panel Minecraft Server For The First Time.
+
+Solution: Step 1: Visit your Pterodactyl panel login page from a web browser.
+
+Step 2: Click on the “Reset Password” button located next to the “Login” button.
+
+Step 3: Open the email client that is linked to your Pterodactyl account and find the email sent by Pterodactyl Panel.

@@ -1,0 +1,7 @@
+Error: Error: "Java.Security.AccessControlException: Access Denied (Java.Io.FilePermission <Filepath> Read)"
+
+Solution: This error occurs when the Minecraft server is not able to read from a certain file or directory due to a lack of permissions. Here's how to fix it:
+
+1. First, try to run the server as an administrator or superuser. This can sometimes resolve the issue.
+
+2. If that doesn't work, verify that the file or directory in question actually exists. If not,

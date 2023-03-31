@@ -1,0 +1,6 @@
+Error: New Error: "Your Server Failed To Start Because The Allocated Amount Of Memory Is Too Large Or Too Small For Your Server'S Operating System."
+
+Solution: 1. Log in to your Pterodactyl Panel.
+2. Click on the "Console" option for the affected server.
+3. Check the allocated RAM for the Minecraft server by typing "java -Xms" and press enter. This will show the minimum amount of RAM allocated for the server to start.
+4. Type "java -

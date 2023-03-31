@@ -1,0 +1,6 @@
+Error: Error: "Unable To Allocate Enough Memory To Start The Server"
+
+Solution: 1. Login to your Pterodactyl panel and go to the "Console" tab of your server.
+2. Run the command 'free -m' to check the available memory.
+3. If the available memory is less than the minimum required for the server, consider upgrading the server plan or reducing the server settings  in the "Startup" tab of your Pterodactyl panel.
+4. If the

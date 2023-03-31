@@ -1,0 +1,9 @@
+Error: Error: "The State Engine Was In Incorrect State STARTING And Was Reset". This Error Usually Occurs When Trying To Start Your Minecraft Server And The Startup Process Fails.
+
+Solution: 1. Stop the server and make sure all instances of the server are closed.
+
+2. Navigate to the server's directory and locate the "server.properties" file.
+
+3. Open the file in a text editor.
+
+4. Look for the line containing "level-name". Make sure the name matches the folder name where the world

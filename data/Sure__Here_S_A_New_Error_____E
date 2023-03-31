@@ -1,0 +1,25 @@
+Error: Sure! Here'S A New Error:
+
+**Error:** "Failed To Load Libsodium Library For Encryption."
+
+**Step-By-Step
+
+Solution: **
+
+1. Go to the panel and stop the server.
+
+2. Navigate to the "Console" tab in the panel.
+
+3. Type the following command in the console:
+
+```
+apt-get install libsodium-dev
+```
+
+4. After the installation is complete, type the following command in the console:
+
+```
+ldconfig
+```
+
+5. Start

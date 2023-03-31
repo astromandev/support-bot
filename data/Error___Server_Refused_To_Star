@@ -1,0 +1,9 @@
+Error: Error: "Server Refused To Start"
+
+Solution: 1. Check the server logs:
+   a. Login to your Pterodactyl Panel
+   b. Click on the 'Console' tab for the server that is having issues
+   c. Look for any error messages in the logs that might indicate why the server is not starting
+
+2. Check for conflicts:
+   a. Check if you are running any other server-related software on your system that may be conflicting with your Minecraft server

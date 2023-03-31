@@ -1,0 +1,5 @@
+Error: Java Minecraft Server Error: "Failed To Bind To Port: Address Already In Use"
+
+This Error Occurs When The Server Attempts To Connect To A Port That Is Already In Use By Another Application.
+
+Solution: 1. First, you need to identify which process is occupying the port. You can do this by running the command `lsof -i :<port number>` in the terminal. Replace `<port number>` with the port number that the Minecraft server is trying to bind to. This command will

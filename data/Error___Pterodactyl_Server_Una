@@ -1,0 +1,11 @@
+Error: Error: "Pterodactyl Server Unable To Start Due To "Error While Loading Shared Libraries""
+
+Solution: Step 1: SSH into your server using an SSH client like PuTTY or Bitvise SSH Client.
+
+Step 2: Once you are logged in, navigate to the following directory where your pterodactyl panel is installed:
+
+```
+cd /var/www/pterodactyl
+```
+
+Step 3: Run the following command to check if all necessary libraries

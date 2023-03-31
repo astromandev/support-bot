@@ -1,0 +1,7 @@
+Error: Error: "Could Not Connect To A Default Or Fallback Server: Unknown Host"
+
+Solution: 1. Make sure you have a stable internet connection.
+2. Check that the server address you typed is correct.
+3. Try connecting to a different server to verify that the problem is not specific to the server.
+4. If you're connecting to a server with a domain name, make sure that the domain is still active.
+5. If you are still unable to connect to any servers, try restarting your

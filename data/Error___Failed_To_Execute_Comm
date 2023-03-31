@@ -1,0 +1,9 @@
+Error: Error: "Failed To Execute Command 'Java' : No Such File Or Directory"
+
+Solution: 1. This error usually occurs when the system cannot find the Java installation path or the path is not properly set.
+2. First, check if Java is installed on your system or not by typing "java -version" command in the terminal.
+3. If Java is not installed, install the latest version of Java using the following command:
+   
+  ```
+   apt install default-jdk
+  ```

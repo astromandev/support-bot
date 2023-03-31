@@ -1,0 +1,6 @@
+Error: Error: "Connection Refused: The Server Is Offline Or Not Reachable."
+
+Solution: 1. Check your internet connection to ensure that it is stable and consistent.
+2. Verify that the server is up and running by checking the status of the server in your Pterodactyl panel. If the status is "offline," click the green "start" button to boot up the server.
+3. Confirm that the IP address and port number are correct in the server details section of the panel.
+4

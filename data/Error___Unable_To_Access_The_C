@@ -1,0 +1,4 @@
+Error: Error: "Unable To Access The Console For The Server One Or More Permissions Are Unset Or Wrongly Set" On Pterodactyl Panel Minecraft Server.
+
+Solution: 1. First, check if your server has the necessary permissions to access the console. You can do this by going to the "Roles" tab and checking if your server's user has the "Console" permission. If not, grant the permission by clicking on "Edit" and checking the "Console" permission box.
+2. Alternatively

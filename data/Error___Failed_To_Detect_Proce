@@ -1,0 +1,6 @@
+Error: Error: "Failed To Detect Process Unique Identifier"
+Explanation: This Error Occurs When The Pterodactyl Panel Is Unable To Detect The Process Unique Identifier Of The Minecraft Server, Which Is Required To Manage The Server.
+
+Solution: 1. Open the Pterodactyl Panel and navigate to your server dashboard.
+2. Click on "Console" and enter the following command: `pidof java`
+3. If the command returns a number, copy the number and proceed to step 5.

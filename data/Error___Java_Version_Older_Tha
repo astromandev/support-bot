@@ -1,0 +1,5 @@
+Error: Error: "Java Version Older Than 1.8.X Detected"
+
+Solution: 1. Open the Pterodactyl panel and click on the "Console" button for the server displaying the error.
+2. Type the command "java -version" followed by <Enter> to check the current Java version running on the server.
+3. If the Java version is older than 1.8.x, you need to update it to fix the error. To install Java 1.8.x

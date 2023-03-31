@@ -1,0 +1,8 @@
+Error: Error: "Java.Lang.OutOfMemoryError"
+
+Cause: This Error Occurs When The Minecraft Server Runs Out Of Memory Allocated To It And Is Unable To Continue Running.
+
+Solution: Step 1: Access the Pterodactyl control panel and login to your account.
+Step 2: Click on the "Console" tab for the server in question
+Step 3: Type the command "stop" to end the server's current session
+Step 4: Click on the "File Manager"

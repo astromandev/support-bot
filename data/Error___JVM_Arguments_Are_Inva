@@ -1,0 +1,9 @@
+Error: Error: "JVM Arguments Are Invalid"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel and go to your server dashboard.
+2. Click on "Console" and wait for the command prompt to appear.
+3. Type "stop" in the console to shut down the server.
+4. Go to the "Startup" tab and click on "JVM Arguments".
+5. Check if the arguments are valid by comparing them with the requirements of your server.

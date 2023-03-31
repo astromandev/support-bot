@@ -1,0 +1,6 @@
+Error: Issue: Uploading Custom Jar File Fails With "The Jar File Could Not Be Uploaded. Please Ensure It Is A Valid JAR File And Try Again."
+
+Solution: 1. Verify that the Jar file you are trying to upload is a valid Minecraft server Jar file.
+2. Check that the file extension is ".jar". If it's not, rename the file to have the ".jar" extension.
+3. Make sure that the file name doesn't include spaces or special characters.
+4. If you

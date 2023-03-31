@@ -1,0 +1,7 @@
+Error: New Error: Failed To Connect To The Server: Connection Refused
+
+Solution: 1. Verify that the server is online and running.
+2. Check that you have the correct IP address and port number entered in the server's configuration.
+3. Ensure any firewalls on your computer or network are not blocking the connection.
+4. Verify that the server's firewall is not blocking incoming connections on the port.
+5. Try connecting to the server using a different network or device to rule out any issues with your

@@ -1,0 +1,13 @@
+Error: Error: "Server Online Mode Must Be Disabled To Use Offline User"
+
+Solution: 1. Log in to your Pterodactyl Panel.
+
+2. Navigate to your Minecraft server's page and click on "Console" in the left-side menu.
+
+3. Stop your Minecraft server by entering the "stop" command in the console.
+
+4. Click on "File Manager" in the left-side menu.
+
+5. Open the file named "server.properties" in the file manager.
+
+6. Look for

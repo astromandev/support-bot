@@ -1,0 +1,11 @@
+Error: New Error: "Failed To Allocate RAM: -XX:+UseConcMarkSweepGC"
+
+Solution: Step 1: Login to your Pterodactyl panel and navigate to your server dashboard.
+
+Step 2: Click on the "Console" tab to open up the server console.
+
+Step 3: Type "nano /etc/sysctl.conf" and press Enter to open the system configuration file.
+
+Step 4: Add the following lines at the end of the file:
+
+vm.sw

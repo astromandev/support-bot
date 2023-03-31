@@ -1,0 +1,5 @@
+Error: Error: "Java Runtime 'Zulu 8.48.0.53-Win64' Is Not Installed Or Not Functional."
+
+Solution: 1. Visit the official website of Zulu Java Runtime and download the 64-bit Zulu Java Runtime for Windows. Make sure to select the version that matches the error message you received.
+2. Once the download is complete, open the downloaded file and follow the installation prompts.
+3. After installation, go to your Pterodactyl panel and navigate

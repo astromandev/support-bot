@@ -1,0 +1,7 @@
+Error: Error: "Cannot Allocate More RAM- Minecraft Server Keeps Crashing"
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to your Minecraft server dashboard.
+2. Click "Stop" to turn off the server.
+3. Click on "Console" and type "java -version" to check your Java version. If it's outdated, update to the latest version.
+4. Click on "File Manager" and navigate to the main server directory.
+5. Click the "+

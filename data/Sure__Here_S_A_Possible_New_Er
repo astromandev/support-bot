@@ -1,0 +1,13 @@
+Error: Sure! Here'S A Possible New Error And Its Solution:
+
+**Error:** When Starting Up A Minecraft Server On Pterodactyl Panel, You Get An Error Message That Says "The JAVA HOME Environment Variable Is Not Set" And The Server Fails To Start.
+
+**
+
+Solution: **
+
+STEP 1: Open the server console in the Pterodactyl panel.
+
+STEP 2: Type the following command to check the current value of the JAVA_HOME environment variable:
+```
+echo $JAVA_HOME

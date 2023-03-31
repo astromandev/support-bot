@@ -1,0 +1,9 @@
+Error: Error: "The Server Panel Is Unable To Create A New Minecraft Server Instance"
+
+Solution: 1. Check the available disk space on the server. Make sure that there is enough free space for the new server instance.
+
+2. Verify that the server's main process is running. If the process is not running, restart it.
+
+3. Make sure that the server allocation limits assigned to the panel are sufficient. If allocation limits are too low, the panel will be unable to create more server instances.
+
+4

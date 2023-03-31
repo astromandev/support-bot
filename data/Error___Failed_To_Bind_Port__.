@@ -1,0 +1,5 @@
+Error: Error: "Failed To Bind Port".
+
+Solution: 1. Check if the port you are trying to use is already occupied by another process. You can do this by running the command "netstat -ano" on the command prompt or terminal.
+2. If the port is occupied, change the server port in the Pterodactyl panel to a different one that is not being used.
+3. Make sure that the port you are using is not blocked by your firewall. You can do this

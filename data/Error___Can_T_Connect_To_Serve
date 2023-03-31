@@ -1,0 +1,5 @@
+Error: Error: "Can'T Connect To Server"
+
+Solution: 1. Check that you typed the server IP correctly: Double-check the server IP address, port number, and server name that you're trying to connect to. A simple mistake like a typo or swapping numbers can cause the error.
+
+2. Check that the server is online: Make sure that the server you're trying to connect to is actually online and not down for maintenance. You can try visiting the server website or checking in with the server owner

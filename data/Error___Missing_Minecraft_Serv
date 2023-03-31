@@ -1,0 +1,6 @@
+Error: Error: "Missing Minecraft Server Jar"
+
+Cause: This Error Can Occur When The Pterodactyl Panel Is Unable To Detect The Server JAR File, Or The JAR File Is Missing From The Server'S Configuration.
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to the "File Manager" tab. 
+2. Check if the server JAR file is present in the "Jar" folder. If it's not there, upload it to the server's

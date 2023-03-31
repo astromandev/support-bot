@@ -1,0 +1,9 @@
+Error: Error: "There Was An Error While Checking If This Server Can Be Installed. This May Be Due To A Lack Of Resources Or Another Installation Already In Progress."
+
+Solution: 1. Verify that the panel has enough resources to install the server. Check the available disk space, CPU usage, and RAM usage.
+
+2. Check if there are any other installations in progress. Wait for them to finish before attempting to install this server. 
+
+3. Restart the panel and try again. 
+
+4. If the

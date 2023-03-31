@@ -1,0 +1,9 @@
+Error: New Error: "Default Allocation In Node.Js Applications Not Functional After Installation On Pterodactyl Panel."
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to your Node.js server's manage page.
+
+2. Click on the "Startup" tab at the top of the page.
+
+3. Scroll down to the "Environment Variables" section and click on the "New Variable" button.
+
+4. In the "Name" field, provide "NODE_OPTIONS" as

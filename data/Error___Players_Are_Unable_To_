@@ -1,0 +1,5 @@
+Error: Error: "Players Are Unable To Connect To My Publicly Hosted Pterodactyl Minecraft Server."
+
+Solution: Step 1: Check to make sure that your server is actually listening to the correct IP address and port. In the Pterodactyl panel, navigate to the "Console" tab and type the command "curl ifconfig.co". This command will return your server's public IP address. Double-check that this address matches the one you've provided to players.
+
+Step 2: Check

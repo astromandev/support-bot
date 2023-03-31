@@ -1,0 +1,9 @@
+Error: Error: "Allocating More RAM To Minecraft Makes The Server Crash"
+
+Solution: 1. Log in to the Pterodactyl panel and select the Minecraft server that is experiencing the issue.
+
+2. Click on the "Console" section and stop the server if it is currently running. 
+
+3. Click on the "File Manager" section, then navigate to the "server.properties" file and click on it to open.
+
+4. Scroll down to the "Java Settings" section and locate

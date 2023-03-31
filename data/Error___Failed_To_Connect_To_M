@@ -1,0 +1,9 @@
+Error: Error: "Failed To Connect To MySQL: SQLSTATE[HY000] [2002] Connection Refused"
+
+Solution: 1. Verify that the MySQL credentials being used in the Pterodactyl panel are correct.
+
+2. Check the MySQL server is running by connecting to it using the MySQL command line tool.
+
+3. If MySQL server is not running, start it using the appropriate command for your operating system.
+
+4. Verify that the MySQL server is accepting requests from the Pterodactyl

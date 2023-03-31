@@ -1,0 +1,7 @@
+Error: Error: "The Server Has Ran Out Of Memory And Crashed."
+
+Solution: 1. Log in to your Pterodactyl control panel.
+2. Click on the "Console" button for the affected Minecraft server.
+3. Use the "top" command to check how much memory is being used by the server.
+4. If the server has indeed run out of memory, you will need to allocate more memory to it.
+5. To do this, click on the "File Manager" tab

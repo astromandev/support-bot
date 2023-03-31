@@ -1,0 +1,5 @@
+Error: Error: "Server Not Starting On Pterodactyl Panel"
+
+Solution: 1. Check the server's logs: Go to your panel, and then navigate to the Server > Console tab. This will show you the logs of your server startup, and any errors that might have occurred along the way.
+
+2. Check server configuration files: Make sure you have set up the server configuration files correctly, including the server.properties and any other relevant files. Check that the server jar file you have uploaded is

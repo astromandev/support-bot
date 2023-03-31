@@ -1,0 +1,9 @@
+Error: Error: "The Server Status Is Listed As Starting But Never Becomes Available."
+
+Solution: Step 1: Login to your Pterodactyl panel and navigate to your Minecraft server dashboard.
+
+Step 2: Navigate to the "Console" tab on the left side of the screen.
+
+Step 3: Check the console output for any error messages.
+
+Step 4: If there is an error message, try to debug it by researching the error message online. You can usually find helpful information on forums

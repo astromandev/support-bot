@@ -1,0 +1,5 @@
+Error: Error: "Invalid Jarfile Error On Pterodactyl Panel While Setting Up A Minecraft Server"
+
+Solution: 1. Firstly, check if the jar file you have uploaded is correct and working by uploading it again onto another server. You can also try re-downloading the server jar file.
+
+2. Check if the file permission of the jar file is correct. Make sure that the file has correct chmod permission to run by executing the command "chmod +x filename.jar" in your server terminal.

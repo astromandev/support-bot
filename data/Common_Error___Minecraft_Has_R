@@ -1,0 +1,9 @@
+Error: Common Error: "Minecraft Has Run Out Of Memory"
+
+Solution: 1. Exit Minecraft completely.
+2. Open the Minecraft launcher and click on "Launch options".
+3. Click on the profile you are using, then look for "JVM Arguments".
+4. Find the line that starts with "-Xmx".
+   - This is the amount of RAM allocated to Minecraft.
+5. Increase this number to allocate more RAM to Minecraft.
+   - For example, if it is set to "-Xmx

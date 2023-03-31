@@ -1,0 +1,6 @@
+Error: Error: "The Minecraft Server Has Stopped Responding. It'S Possible That It Is Not Running."
+
+Solution: 1. Check if the server is running by logging into the Pterodactyl Panel and going to the server console.
+2. If the server is not running, start it by clicking the "Start" button on the server console page.
+3. If the server is running, but not responding, try restarting it by clicking the "Restart" button on the console page.
+4. If

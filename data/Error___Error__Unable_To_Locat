@@ -1,0 +1,11 @@
+Error: Error: "Error: Unable To Locate Java Runtime Environment"
+
+Solution: 1. First, make sure that Java is installed on your server. You can check if Java is installed by running the following command:
+
+        java -version
+
+2. If Java is not installed, you can install it by running the following command:
+
+        sudo apt-get install default-jre
+
+3. Once Java is installed, you need to make sure that your server is using the correct version of Java. To do this,

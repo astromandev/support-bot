@@ -1,0 +1,5 @@
+Error: Error: "Unable To Communicate With Server. Please Try Again Later."
+
+Solution: 1. Check your internet connection: Make sure your internet connection is stable and strong enough to communicate with the server. 
+2. Check server status: Check if the server is currently online or offline. You can do it by navigating to the "Servers" section of the Pterodactyl panel and looking at the "Status" column.
+3. Check server logs: Check the server logs for any errors or warnings

@@ -1,0 +1,9 @@
+Error: Error: "Failed To Start Your Server. Check Your Logs For More Information."
+
+Solution: 1. Go to your Pterodactyl panel dashboard and navigate to the "Console" section.
+
+2. Check the console logs for any errors or warning messages that may indicate why the server failed to start.
+
+3. If you see any errors related to server configuration or missing mods/dependencies, review and fix them to ensure they are not causing the issue.
+
+4. Ensure that you have allocated sufficient resources

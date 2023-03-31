@@ -1,0 +1,5 @@
+Error: New Error: "Server Not Starting - Failed To Bind To Port 25565 Error"
+
+Solution: 1. Make sure that no other programs or applications are using port 25565. This can be checked by running the command "netstat -ano | findstr :25565" in Command Prompt (Windows) or Terminal (Mac or Linux).
+2. If another program is using that port, change your Minecraft server's port number to an unused port by editing the server.properties file.
+3.

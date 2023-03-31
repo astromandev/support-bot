@@ -1,0 +1,7 @@
+Error: One Common Error In Minecraft Server Is "The Server Requires Java 8 Or Later To Run".
+
+Solution: Step 1: Download and Install Java 8 or a later version on your computer.
+Step 2: Open the Minecraft Server folder and locate the start.bat file. Right-click on it and select Edit.
+Step 3: In the text editor, add the following line to the start.bat file:
+         java -version
+Step 4: Save the start.bat file and close the

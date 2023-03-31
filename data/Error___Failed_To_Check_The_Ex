@@ -1,0 +1,7 @@
+Error: Error: "Failed To Check The Existence Of The Minecraft Server Jar Or The Selected Jar Is Invalid."
+
+Solution: 1. First, check the file path that you have set for the Minecraft server jar. Make sure that the path is correct and there are no typos in the name.
+
+2. Check the file permissions. Make sure that you have the necessary read and write permissions to the server jar file.
+
+3. Check your server configuration. Make sure that the server type and the jar type are correct

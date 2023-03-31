@@ -1,0 +1,5 @@
+Error: Error: "Server Cannot Start Because Java Version Is Not Compatible."
+
+Solution: 1. Check the version of Java installed on your machine: To do this, open the command prompt and type "java -version". This will show you the current version of Java installed on your machine.
+
+2. Check the recommended version of Java for your server: Go to the Pterodactyl panel and check the recommended version of Java for your server. Make sure the version of Java on your machine is compatible with

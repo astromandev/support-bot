@@ -1,0 +1,13 @@
+Error: Sure. Here'S An Error That A Beginner Might Encounter While Using Pterodactyl Panel To Manage Their Minecraft Server: 
+
+**Error:** "Fatal Error During Server Start: Java.Lang.ExceptionInInitializerError"
+
+**
+
+Solution: **
+
+This error occurs when there's an issue with the Java JRE (Java Runtime Environment) version installed on the server. 
+
+Here's how you can fix it:
+
+1. First, check if you have installed the correct version of Java JRE required for your server

@@ -1,0 +1,5 @@
+Error: Error: Cannot Allocate Memory For JVM
+This Error Occurs When The Server Is Unable To Allocate Enough Memory To Run The Java Virtual Machine For Your Minecraft Server. It Can Happen If Your Server Has Too Little RAM Or If There Are Too Many Programs Running At The Same Time.
+
+Solution: 1. Log in to your server control panel and navigate to the "Startup" section.
+2. Under "Java Settings," look for the "-Xmx" flag. This flag sets the maximum amount of memory that the

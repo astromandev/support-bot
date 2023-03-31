@@ -1,0 +1,9 @@
+Error: Error: "Error Occurred During Initialization Of VM Could Not Reserve Enough Space For 1574912KB Object Heap"
+
+Solution: 1. Firstly, check your system requirements and increase the system's RAM if necessary. 
+
+2. Open the Minecraft server folder and locate the `start.bat` file.
+
+3. Right-click on the `start.bat` file and select 'Edit.'
+
+4. Add the following to the start of the text: `java -Xmx1024M -Xms1024

@@ -1,0 +1,5 @@
+Error: One Potential Error That May Occur When Setting Up A Minecraft Server Through The Pterodactyl Panel Is A "Server Unable To Start Due To Missing Or Corrupt Libraries" Error.
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server that is experiencing the error.
+2. Click on the "File Manager" tab and then navigate to the "libraries" folder located in the server's main directory.
+3. Check to see if any required libraries are missing or

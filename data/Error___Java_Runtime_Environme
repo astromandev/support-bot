@@ -1,0 +1,8 @@
+Error: Error: "Java Runtime Environment Not Found."
+
+Solution: Step 1:  Go to your computer's control panel.
+Step 2:  Open the section for "System" or "System Settings."
+Step 3:  Click on "Advanced system settings."
+Step 4:  Select the "Environment Variables" option.
+Step 5:  In the "System Variables" section, click on "New."
+Step 6:  In the "Variable name" field, type "JAVA

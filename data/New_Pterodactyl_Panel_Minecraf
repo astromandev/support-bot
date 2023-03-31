@@ -1,0 +1,9 @@
+Error: New Pterodactyl Panel Minecraft Server Error: SFTP Connection Failed
+
+This Error Occurs When The SFTP Connection To Your Server Fails, Usually Due To Incorrect Login Credentials Or Server Configuration Issues.
+
+Step-By-Step
+
+Solution: 1. Double-check your login credentials to ensure that they are correct. You can do this by logging into your server via SSH.
+
+2. Ensure that your server's firewall is not blocking connections to port 22 (SSH) or 2222 (SFTP). You

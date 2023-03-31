@@ -1,0 +1,7 @@
+Error: Error: "Java.Nio.File.DirectoryNotEmptyException" When Trying To Delete A Server From The Pterodactyl Panel
+
+Solution: 1. Log in to your Pterodactyl panel account and navigate to the 'Files' tab in the sidebar.
+2. Locate the server directory that you want to delete.
+3. Make sure that the server is stopped before attempting to delete it.
+4. Click on the server directory to highlight it.
+5. Click on the 'Delete' button in

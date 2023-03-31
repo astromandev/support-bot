@@ -1,0 +1,10 @@
+Error: Error:
+"Failed To Start The Panel: Unable To Listen On Any Of The Configured Ports"
+
+Solution: This error occurs when the Pterodactyl daemon is unable to start on any of the configured ports. To fix this issue, follow the steps below:
+
+1. Check your firewall settings to make sure that the port you are trying to use for your server is open.
+
+2. Check the configuration file for your panel and make sure that you have specified the correct port for your server.
+
+3

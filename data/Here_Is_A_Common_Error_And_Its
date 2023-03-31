@@ -1,0 +1,8 @@
+Error: Here Is A Common Error And Its Solution:
+
+Error: "Failed To Bind To Port"
+
+Solution: This error usually occurs when another process is already using the port that your Minecraft server wants to use. To fix this, you'll need to follow these steps:
+
+Step 1: Check for other applications using the port
+Use the command prompt or terminal to check if there are any other applications using the port that the server wants to use. Enter the following command: "netstat -ano | find

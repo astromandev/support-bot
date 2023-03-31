@@ -1,0 +1,9 @@
+Error: Error: "Failed To Authenticate With The Minecraft Account. Please Double-Check Your Username And Password."
+
+Solution: 1. Double check that you are using correct login credentials. This error commonly occurs due to incorrect login information.
+
+2. Ensure that you are using a Mojang account to log in, not a Microsoft account. Microsoft accounts do not work for authentication.
+
+3. Ensure that your server is using the latest version of Pterodactyl panel.
+
+4. Check that the server's firewall is not

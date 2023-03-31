@@ -1,0 +1,6 @@
+Error: Error: Failed To Start Your Minecraft Server Via The Pterodactyl Panel.
+
+Solution: 1. Check for any recent changes made to the server's configuration files.
+2. Check the server logs for any errors or warnings that may have occurred during the server startup process.
+3. Navigate to the Pterodactyl panel and click on the console option for your server.
+4. Once you are in the console view, type the command "systemctl status minecraft" to check the status of

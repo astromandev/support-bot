@@ -1,0 +1,7 @@
+Error: Error: "Server Not Starting After Updating The Pterodactyl Panel."
+
+Cause: This Error Usually Occurs When The Updated Pterodactyl Panel Has Not Automatically Updated The Server Files Correctly.
+
+Solution: Step 1: Check the server logs for any error messages that may be causing the issue. To access the server logs, click on the "Console" tab in the Pterodactyl panel.
+
+Step 2: If there are no clear errors, try manually updating the server files

@@ -1,0 +1,11 @@
+Error: One Error That A Beginner Might Encounter While Using Pterodactyl Panel For Their Minecraft Server Is:
+
+**Error:** "Server Console And Player Chat Are Not Displaying In The Panel"
+
+**
+
+Solution: **
+
+Step 1: Login to your Pterodactyl panel and navigate to the server management page.
+
+Step 2: Click on "Console" tab and check if you can directly access the console of the Minecraft server. If the console is working properly, then the error is related to the

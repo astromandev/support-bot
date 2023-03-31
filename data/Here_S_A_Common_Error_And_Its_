@@ -1,0 +1,9 @@
+Error: Here'S A Common Error And Its Solution:
+
+Error: "Failed To Verify Username/Disconnected."
+
+Solution: This error occurs when the server is unable to validate the Minecraft account you're using to connect to the server. It can be caused by issues with the authentication servers, or by a problem with your account.
+
+1. Firstly, try restarting both the Minecraft game and the server to ensure that it is not a temporary issue.
+
+2. If restarting the game and server does not work, try logging out

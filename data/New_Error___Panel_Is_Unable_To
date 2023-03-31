@@ -1,0 +1,7 @@
+Error: New Error: "Panel Is Unable To Connect To The Minecraft Server."
+
+Solution: Step 1: Check if the server is running.
+Make sure that your server is running and that you have configured your server correctly in the panel. If your server is not running, you can start it from the panel.
+
+Step 2: Ensure that the firewall is not blocking connections to the Minecraft server.
+Make sure that your firewall is not blocking connections to your server. To verify this, temporarily disable your firewall and

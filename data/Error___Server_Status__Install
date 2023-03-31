@@ -1,0 +1,11 @@
+Error: Error: "Server Status: Installation Failed. (Exit Code 1)"
+
+Solution: Step 1: Check the logs
+- Access the server's Console tab and check the logs for any errors.
+- Look for details on where the installation failed.
+
+Step 2: Verify the Java version
+- Make sure that the Java version is correct and compatible with the Minecraft server version. 
+- To check the Java version, run the command "java -version".
+
+Step 3: Check the server requirements

@@ -1,0 +1,6 @@
+Error: Error: "Insufficient Memory Allocation" When Trying To Start A Server In Pterodactyl Panel.
+
+Solution: 1. Login to your Pterodactyl panel and click on the "Servers" tab.
+2. Find the server in question and click on the "Manage" button next to it.
+3. Click on the "Startup" tab in the left-hand menu.
+4. Locate the "Server Startup Command" and ensure it includes the -Xms and -Xmx flags

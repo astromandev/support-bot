@@ -1,0 +1,6 @@
+Error: Error: "Server Specified In Environment Does Not Exist On This Node"
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Navigate to the "Nodes" section and select the node that the server is assigned to.
+3. Make sure that the server is actually located on the correct node. If not, you will need to move the server to the correct node.
+4. If the server is already located on the correct node, ensure that the environment variables for the server

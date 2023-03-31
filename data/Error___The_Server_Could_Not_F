@@ -1,0 +1,5 @@
+Error: Error: "The Server Could Not Find The Main Class: <Class Name>"
+
+Solution: 1. Check the file path: Make sure the file path for your Minecraft server is correct. The command to start your Minecraft server should reference the folder containing the Minecraft_server.jar file.
+2. Re-download the server file: If the Minecraft_server.jar file is missing or corrupt, try re-downloading the file from the official Minecraft website.
+3. Check for typos: Make sure there are no ty

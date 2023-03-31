@@ -1,0 +1,8 @@
+Error: Error: "Failed To Create Default Database! Please Check Your MySQL Settings And Try Again."
+
+Solution: This error occurs when the Pterodactyl panel is unable to create a default database during the installation process. Here's how to fix it:
+
+Step 1: Check MySQL settings
+Double-check that the MySQL database settings you've entered during the installation process are correct. Verify that you’re using the correct server address, port number, username, and password.
+
+Step 2: Create the

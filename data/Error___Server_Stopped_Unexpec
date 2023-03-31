@@ -1,0 +1,9 @@
+Error: Error: "Server Stopped Unexpectedly" 
+
+Cause: This Error Message Means That The Server Has Crashed For Some Reason, And Can No Longer Operate.
+
+Solution: 1. First, check the server logs by clicking the "Console" tab on the Pterodactyl Panel dashboard.
+
+2. Look for any error messages or warnings that might indicate what went wrong.
+
+3. If you see an error message related to the Minecraft version or a plugin, try updating the version or removing the plugin.

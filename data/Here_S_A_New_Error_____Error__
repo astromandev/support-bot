@@ -1,0 +1,12 @@
+Error: Here'S A New Error:
+
+**Error:** "Failed To Bind To Port"
+
+**Cause:** This Error Occurs When The Minecraft Server Is Not Able To Bind To The Port Specified In The Server.Properties File, Usually Because The Port Is Already In Use By Another Program Running On The Same Computer.
+
+**
+
+Solution: **
+
+1. Open the server.properties file in a text editor, such as Notepad or TextEdit.
+2. Locate the line that reads "server-port=25565" (or whichever port

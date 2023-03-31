@@ -1,0 +1,5 @@
+Error: New Error: "Failed To Start Server (Port 25565 Not Available)"
+
+Solution: 1. First, make sure that you have entered the correct port number in the Pterodactyl panel. Check that the number matches the one in the "server.properties" file in the Minecraft server directory on your computer.
+
+2. Check if the port is in use by another application or server. On a Linux system, you can check this by running the command: "sudo netstat -tulp

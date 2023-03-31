@@ -1,0 +1,9 @@
+Error: Error: "Server Exception: Could Not Bind To TCP Port".
+
+Cause: This Error Occurs When The Pterodactyl Panel Is Not Able To Bind To The TCP Port Specified In The Server Configuration Due To A Conflict With Another Process Already Using That Port.
+
+Solution: 1. Login to your Pterodactyl Panel and navigate to your server page.
+
+2. Click on the "Console" tab.
+
+3. Check for any error messages related to binding the TCP port. The error message will

@@ -1,0 +1,7 @@
+Error: Error: "Server Installation Failed Due To Missing Or Outdated Dependencies"
+
+Solution: 1. Open the Pterodactyl panel and navigate to the server's dashboard.
+2. Click on the "Terminal" tab to open the server console.
+3. Type the command: `sudo apt update` and hit Enter to update the package list.
+4. Next, run `sudo apt upgrade` to upgrade any outdated dependencies.
+5. If any necessary dependencies are still missing, install them with a command

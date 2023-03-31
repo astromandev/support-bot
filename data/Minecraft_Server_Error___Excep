@@ -1,0 +1,6 @@
+Error: Minecraft Server Error: "Exception In Thread "Main" Java.Lang.RuntimeException: Server Port 25565 Is Already In Use"
+
+Solution: 1. This error occurs because another program is already using the same port as your Minecraft server. To fix this error, you need to change the server port number.
+2. Open your Minecraft server folder and find the "server.properties" file.
+3. Open the "server.properties" file using a text editor such as Notepad.
+4. Find the

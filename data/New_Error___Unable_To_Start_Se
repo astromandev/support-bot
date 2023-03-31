@@ -1,0 +1,6 @@
+Error: New Error: "Unable To Start Server Due To Insufficient RAM"
+
+Solution: 1. Log in to your Pterodactyl Panel.
+2. Click the "Console" button on your server.
+3. Check how much RAM your server needs by typing the command "java -Xms2G -Xmx2G -jar server.jar". The values "2G" in the example represents the amount of memory being allocated to the server.
+4. If you see that the RAM value is

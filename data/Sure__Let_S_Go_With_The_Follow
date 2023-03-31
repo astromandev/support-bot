@@ -1,0 +1,15 @@
+Error: Sure, Let'S Go With The Following Error:
+
+**Error:** "Failed To Save Server Configuration: File Not Found /Tmp/(Random String)/Server.Properties"
+
+**Cause:** This Error Occurs When The Pterodactyl Panel Cannot Locate The Server.Properties File In The Designated Temporary Directory. 
+
+**
+
+Solution: **
+
+1. Login to your Pterodactyl panel and navigate to the "File Manager" section.
+
+2. Locate the file "server.properties" from the server root directory.
+
+3

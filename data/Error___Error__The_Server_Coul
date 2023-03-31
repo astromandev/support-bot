@@ -1,0 +1,4 @@
+Error: Error: "Error: The Server Could Not Confirm That Authentication Was Successful. This Could Be Caused By Invalid Credentials Or Network Issues. Please Confirm Your Username And Password And Try Again."
+
+Solution: 1. First, verify that you have entered the correct username and password. You can do this by logging into your Pterodactyl Panel account on the Pterodactyl website.
+2. If you've confirmed that your credentials are correct, check your network connection. Make sure that your connection is

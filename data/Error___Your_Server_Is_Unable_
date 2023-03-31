@@ -1,0 +1,6 @@
+Error: Error: "Your Server Is Unable To Start Because It Is Missing Some Required Files"
+
+Solution: 1. First, make sure that you have uploaded all of the necessary server files to your panel.
+2. Check that your server's jar file name is set correctly in the panel.
+3. Check the server's console logs to see if there are any specific errors or missing file paths that are causing the issue.
+4. If the issue persists, try manually uploading the server files using an FTP client and

@@ -1,0 +1,7 @@
+Error: Error: "Server Could Not Start. Are You Using The Correct Version? Server Stopped"
+
+Solution: 1. Check if you have downloaded the correct version of the server software. Make sure that it matches the version you have selected in the Pterodactyl control panel. 
+
+2. If you have already downloaded the correct version, then it is possible that there are missing required files in the server directory. Double-check your server files and make sure that all of the necessary files are present.
+
+3

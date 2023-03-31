@@ -1,0 +1,7 @@
+Error: Error: "The Server Is Using An Unsupported Version Of Java"
+
+Solution: 1. Open the Pterodactyl Panel and go to the "Startup" tab.
+2. Check that the "Server Type" is set to "Vanilla".
+3. Go down to the "Java Version" section and make sure it matches your server version.
+4. If it doesn't match, go to the "Settings" tab and click "Startup Parameters".
+5. Change the Java version to match the

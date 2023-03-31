@@ -1,0 +1,7 @@
+Error: Error: "Could Not Reserve Enough Space For [Number]KB Object Heap"
+
+Solution: Step 1: Open the file "server.properties" (located in the Minecraft server folder) with a text editor.
+
+Step 2: Find the line that says "Xmx1G" (this determines the maximum amount of memory that the server can use).
+
+Step 3: Change the "1G" to a lower value, such as "512M" (this allocates 512 megabytes

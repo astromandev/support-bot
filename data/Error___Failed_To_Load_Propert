@@ -1,0 +1,5 @@
+Error: Error: "Failed To Load Properties From File Server.Properties"
+
+Solution: 1. First, make sure that the server.properties file exists in the root directory of your server. If it doesn't, create a new file in a text editor and name it "server.properties."
+2. Open the server.properties file and make sure that all required fields are filled out correctly. Common fields include "server-ip", "server-port", "level-seed", and "max-players."
+3. Check the file

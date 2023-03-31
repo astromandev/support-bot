@@ -1,0 +1,6 @@
+Error: Error: "Failed To Validate Minecraft Authentication Token" 
+This Error Occurs When The Minecraft Server Is Unable To Validate The Player'S Authentication Token, Which Makes It Impossible To Login To The Server.
+
+Solution: 1. Verify that you have entered your username and password correctly, making sure that the email address associated with your account has not changed.
+2. If your account is a migrated account and you can still log in to Minecraft.net, try the following in Minecraft launcher: 
+   - Click "Edit Profile

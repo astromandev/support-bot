@@ -1,0 +1,11 @@
+Error: Sure, Here Is A New Error You May Encounter When Using The Pterodactyl Panel For Your Minecraft Server:
+
+**Error:** "Error Allocating Minecraft Server: No More ID Slots Are Available For This Server'S Node."
+
+**Cause:** This Error Occurs When You Have Reached The Maximum Number Of Servers That Can Be Created On The Node For Your Pterodactyl Panel Account.
+
+**
+
+Solution: **
+
+1. First, check if you have any unused or idle servers you can delete. If you

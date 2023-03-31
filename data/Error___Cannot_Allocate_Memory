@@ -1,0 +1,6 @@
+Error: Error: "Cannot Allocate Memory For The JVM"
+
+Solution: 1. Access your Pterodactyl Panel and log in to your server console.
+2. Type the command `free -h` to check the available memory in the server.
+3. Check to see if you have enough memory allocated to your Minecraft server. If not, you may need to upgrade your server plan to get more resources.
+4. Check your server's `startup parameters` for any issues. If you have too many

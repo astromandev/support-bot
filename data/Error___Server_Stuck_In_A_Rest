@@ -1,0 +1,7 @@
+Error: Error: "Server Stuck In A Restart Loop"
+
+This Error Occurs When Your Minecraft Server Restarted Continuously Without Fully Starting Up.
+
+Solution: 1. Firstly, login to your Pterodactyl panel and click on the "Console" option for the affected server.
+2. Check the console logs for any errors or messages that are preventing the server from starting correctly.
+3. If you notice that the server is failing during the startup process and is causing it to restart, you can try disabling any problematic

@@ -1,0 +1,9 @@
+Error: Sure! 
+
+Common Minecraft Error: "Internal Exception: Io.Netty.Handler.Codec.CorruptedFrameException"
+
+Solution: Step 1: Close Minecraft entirely.
+Step 2: In the Minecraft launcher, click the "Launch Options" tab.
+Step 3: Find the profile where you experience the error and click "Edit".
+Step 4: Click "More Options".
+Step 5: Replace any text in the "JVM Arguments" box with the following line: "-Dfml.ignoreInvalidM

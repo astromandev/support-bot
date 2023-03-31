@@ -1,0 +1,6 @@
+Error: Error: "Server Offline - Failed To Bind To Port"
+
+Solution: 1. Login to the Pterodactyl panel and navigate to the "console" section of your server.
+2. Type the command "netstat -tuln | grep :25565" (replace 25565 if you are using a different port number).
+3. Note down the PID (process ID) of the process which is using the same port.
+4. Type the command "kill <PID>" to

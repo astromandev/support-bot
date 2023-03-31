@@ -1,0 +1,10 @@
+Error: Error: "Cannot Allocate Enough Memory For The Java Virtual Machine"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel.
+2. Click on the Minecraft Server you want to configure.
+3. Click on the "Console" tab at the top of the page.
+4. Check the current memory allocation by running the command: "java -Xmx". 
+   The '-Xmx' flag sets the maximum amount of memory that the JVM will use.
+5. Allocate

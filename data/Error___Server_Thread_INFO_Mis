@@ -1,0 +1,12 @@
+Error: Error: "Server Thread/INFO Missing Texture Error" 
+Cause: This Error Occurs When A Block Or Item In Your Server Is Missing Its Texture File.
+
+Solution: 1. Stop your server and open your Minecraft server folder on your computer.
+
+2. Navigate to the folder named "assets".
+
+3. Search for the folder named "minecraft" and open it.
+
+4. Look for the folder named "textures" and open it.
+
+5. Search for the folder that contains the missing texture. For example,

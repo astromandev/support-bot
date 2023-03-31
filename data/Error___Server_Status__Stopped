@@ -1,0 +1,5 @@
+Error: Error: "Server Status: Stopped- The Server Didn'T Start."
+
+Solution: Step 1: Check if your server is up to date - this is a common reason why your server might not start. Go to the "Console" tab and try starting the server again.
+
+Step 2: Check the logs for any errors. Go to the "Console" tab and scroll up to see if there are any error messages. If there are, identify the error type and research how to fix it

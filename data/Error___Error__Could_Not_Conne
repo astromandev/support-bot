@@ -1,0 +1,9 @@
+Error: Error: "Error: Could Not Connect To Server." When Accessing The Pterodactyl Panel.
+
+Step-By-Step
+
+Solution: 1. Check your internet connection and ensure that it is stable and active.
+2. Check your firewall settings to ensure the Pterodactyl panel is not blocked.
+3. Clear your browser cache and try again.
+4. Double-check that you are using the correct URL for the Pterodactyl panel and that it is correctly spelled.
+5. Check

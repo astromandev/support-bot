@@ -1,0 +1,5 @@
+Error: Error: "Failed To Execute Goal Org.Codehaus.Mojo:Exec-Maven-Plugin:1.5.0:Exec (Default-Cli) On Project Wings. Caused By: Java.Lang.NullPointerException." This Error Occurs When Attempting To Launch A Minecraft Server On The Pterodactyl Panel.
+
+Solution: 1. First, make sure you have the latest version of Java installed on your system. You can check this by running the command "java -version" in your terminal.
+
+2. If

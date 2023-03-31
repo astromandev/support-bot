@@ -1,0 +1,5 @@
+Error: Error: "The Server Fails To Start And Shows: 'Unable To Start Server; There May Be Invalid Configurations Present In Your .Env File.'"
+
+Solution: 1. Log in to your Pterodactyl Panel and navigate to the server you would like to troubleshoot.
+2. Go to the 'Files' tab and click on 'Rename' for the `.env` file.
+3. Rename the `.env` file to something else (such as `.env_old`) and save the changes.

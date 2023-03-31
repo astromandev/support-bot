@@ -1,0 +1,13 @@
+Error: Here Is A New Error Related To Pterodactyl Panel:
+
+**Error:** Failed To Start The Server Because The Allocated Memory Is Too Low.
+
+**
+
+Solution: **
+
+1. Log in to your Pterodactyl Panel.
+2. Navigate to the "Startup" tab.
+3. Check the "Allocated Memory" setting for the server.
+4. Increase the allocated memory to a higher value (e.g. from 1 GB to 2 GB).
+5. Save the changes.

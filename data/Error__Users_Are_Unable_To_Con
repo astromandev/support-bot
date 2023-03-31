@@ -1,0 +1,6 @@
+Error: Error: Users Are Unable To Connect To The Minecraft Server Hosted On Pterodactyl Panel.
+
+Solution: 1. First, ensure that the server is running and is not in a suspended state.
+2. Check that the server's IP address is correct and matches the one specified in the Pterodactyl configuration file.
+3. Verify that the firewall settings are correct and allow incoming connections to the Minecraft server.
+4. Ensure that the server's port is open and not blocked by any other

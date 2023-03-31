@@ -1,0 +1,7 @@
+Error: Error: "Exception In Server Tick Loop"
+
+Solution: This error means that there is a problem with one or more of your plugins, world settings, or other Minecraft server configurations. To fix it, you can follow these steps:
+
+1. Identify the problematic plugin by disabling all plugins and re-enabling them one by one until the error occurs again. Remove or update the faulty plugin.
+
+2. Check the server log file for more detailed error messages that may provide a clue as to what is causing the

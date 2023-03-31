@@ -1,0 +1,5 @@
+Error: Error: "Connection Refused: No Further Information" When Trying To Connect To The Minecraft Server Through The Pterodactyl Panel.
+
+Solution: 1. Ensure that the server is running and active on Pterodactyl panel.
+2. Check the server's IP address and make sure it matches the IP address you are trying to connect to.
+3. Verify that the port number for the Minecraft server is correct in the Pterodactyl panel and that it matches the port number in

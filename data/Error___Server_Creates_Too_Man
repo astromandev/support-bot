@@ -1,0 +1,7 @@
+Error: Error: "Server Creates Too Many Temporary Files" In The Pterodactyl Panel
+
+Solution: 1. Log in to the Pterodactyl panel and stop the affected server.
+2. Click on the "File Manager" tab for the server.
+3. Navigate to the server directory and delete any unnecessary files or folders.
+4. Check your server's plugins or mods folder for large or duplicated files, and remove any through the "File Manager."
+5. If the issue persists,

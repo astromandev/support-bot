@@ -1,0 +1,7 @@
+Error: New Error: "Server Is Running, But Not Responding To HTTP Requests On The Assigned Port."
+
+Solution: 1. Check if the server is running: 
+To check if your server is running, login to your Pterodactyl panel and navigate to the 'Console' section of your server configuration. If you see server messages in the console section, then you know the server is running. If not, click the 'Start' button.
+
+2. Check the HTTP port: 
+Make sure that

@@ -1,0 +1,7 @@
+Error: Error: "HTTP Error 504 : Gateway Timeout" When Trying To Access The Pterodactyl Panel For Your Minecraft Server.
+
+Solution: Step 1: Confirm the Error
+- Check if you receive the "HTTP Error 504 : Gateway Timeout" error message while accessing the Pterodactyl panel for your server.
+
+Step 2: Wait for the Server to Restart
+- An HTTP error 504 may occur when the server is undergoing a process of restarting. In this case,

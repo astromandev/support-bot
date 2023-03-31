@@ -1,0 +1,5 @@
+Error: Error: "Server Not Starting Up After Installation On Pterodactyl Panel"
+
+Solution: 1. Check that the server JAR file is uploaded correctly to the Pterodactyl panel. It should be located in the /home/container directory.
+2. Make sure that the server.properties file is configured correctly according to the desired server settings.
+3. Check the logs in the panel for any indication of the error. You can find the logs in the "Console" tab of the Pter

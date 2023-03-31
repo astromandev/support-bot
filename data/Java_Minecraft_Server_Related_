@@ -1,0 +1,9 @@
+Error: Java Minecraft Server Related Error: "Failed To Bind To Port". 
+
+Step-By-Step
+
+Solution: 1. Check if the port is already in use: This can happen if the port on which you are trying to run the server is already being used by some other application. You can check if the port is already in use by running the following command in the command prompt: 
+
+   **Windows:** `netstat -aon | findstr <port_number>` 
+
+   **Linux & Mac

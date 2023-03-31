@@ -1,0 +1,7 @@
+Error: Error: "Could Not Connect To MySQL Database. Please Check Your Credentials And Try Again."
+
+Solution: 1. Check your MySQL credentials - Make sure that you are entering the correct username, password, and database name in your Pterodactyl panel's configuration file.
+
+2. Check your MySQL server - Make sure that your MySQL server is running and that it is accepting connections from your Pterodactyl panel. You can check this by logging into your MySQL server and checking its status.
+
+3

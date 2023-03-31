@@ -1,0 +1,6 @@
+Error: Error: "Server Encountered An Internal Error: Unable To Create A Directory"
+
+Solution: 1. Log in to your Pterodactyl Panel and click on the File Manager button on the left navigation menu.
+2. Navigate to the directory of the server where you are experiencing the error.
+3. Check if the directory already exists. If it does, make sure that the folder permissions allow the server to write to it.
+4. If the directory doesn't exist, create a new directory with the

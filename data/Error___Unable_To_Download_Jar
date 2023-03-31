@@ -1,0 +1,7 @@
+Error: Error: "Unable To Download Jar File"
+
+Solution: 1. Go to your Pterodactyl Panel and select the server you are having issues with.
+2. Click on "Console" and make sure the server is turned off.
+3. Once the server is turned off, run the command "rm -f /home/container/*.jar".
+4. This will remove any existing jar files in your server directory.
+5. Next, try reinstalling the server jar file. Check the server provider

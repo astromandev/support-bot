@@ -1,0 +1,9 @@
+Error: New Error: "The Server Has Not Started Up Yet."
+
+This Error Message Appears When You Try To Connect To Your Pterodactyl Minecraft Server, But The Server Has Not Started Up Yet.
+
+Solution: Step 1: First, ensure that you have started your server using the Pterodactyl panel.
+
+Step 2: Check the console logs of your Minecraft server to ensure that there are no errors that may be preventing it from starting up.
+
+Step 3: If there are no

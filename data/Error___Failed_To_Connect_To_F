@@ -1,0 +1,7 @@
+Error: Error: "Failed To Connect To Firewall: No Route To Host"
+
+Solution: Step 1: Make sure that your firewall settings are properly configured to allow access to your server. Add any necessary rules or exceptions to your firewall settings.
+Step 2: Check your server's IP address and make sure it is correct.
+Step 3: Restart both your server and your network router.
+Step 4: If the issue persists, contact your hosting provider or network administrator for further assistance.
+Step

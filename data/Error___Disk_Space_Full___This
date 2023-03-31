@@ -1,0 +1,6 @@
+Error: Error: "Disk Space Full" 
+This Error Occurs When Your Server Runs Out Of Disk Space And Is Unable To Write Or Save Any New Files.
+
+Solution: 1. Log into your Pterodactyl panel and go to the server management page for the affected server.
+2. Check the disk usage on the server by going to the "Statistics" tab.
+3. If the disk usage is at or near 100%, you will need to free up some space by deleting unnecessary files or increasing

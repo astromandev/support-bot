@@ -1,0 +1,5 @@
+Error: Error: "Server Error (Unable To Access Jarfile)"
+
+Solution: 1. First, make sure that the jar file exists in the server's root directory. If it doesn't, upload it to the root directory or create an empty jar file and rename it to the exact name specified in the start command.
+2. If the jar file exists, make sure that the start command in the Startup tab of the Pterodactyl panel is correct.
+3. Check if the permissions of the jar

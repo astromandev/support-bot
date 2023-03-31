@@ -1,0 +1,9 @@
+Error: Error: "Pterodactyl Panel Shows "512 MB" RAM Limit On Server Start"
+
+Solution: 1. Log in to your Pterodactyl panel using the provided credentials.
+
+2. Click on the "Servers" tab in the navigation bar and then click on the name of the affected server.
+
+3. Once on the server dashboard, click on the "Startup" tab.
+
+4. Scroll down to the "Server Resources" section and increase the RAM limit to your desired amount

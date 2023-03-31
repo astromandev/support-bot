@@ -1,0 +1,5 @@
+Error: Error: "Failed To Start The Server - 'Java' Is Not Recognized As An Internal Or External Command, Operable Program Or Batch File."
+
+Solution: 1. This error occurs when the location of the Java executable file is not set properly in the server's configuration.
+2. Go to the Pterodactyl panel and navigate to "Startup" in the left-hand menu.
+3. Under "Server Requirements," ensure that you have selected the correct Java version and architecture for your server. If

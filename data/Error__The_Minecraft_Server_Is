@@ -1,0 +1,7 @@
+Error: Error: The Minecraft Server Is Stuck In A Boot Loop And Won'T Start Properly.
+
+Solution: 1. Connect to your server's console through the Pterodactyl control panel.
+2. Stop the server by typing "stop" into the console command prompt.
+3. Navigate to the "File Manager" tab in the control panel.
+4. Open the "logs" folder and then open the latest log file in a text editor.
+5. Look for any error messages that could be causing the

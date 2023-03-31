@@ -1,0 +1,9 @@
+Error: New Error:
+
+"Failed To Bind To Port! Perhaps Another Server Is Already Running On This Port?"
+
+Solution: This error message typically indicates that the port your Minecraft server is trying to use is already in use by another program or process. Here are the steps to resolve this error:
+
+1. Open the Pterodactyl panel and navigate to your server dashboard.
+2. Click on "Console" to open the console window.
+3. Type "netstat -ano | findstr :portnumber

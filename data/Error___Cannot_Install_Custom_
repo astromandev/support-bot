@@ -1,0 +1,7 @@
+Error: Error: "Cannot Install Custom JRE On Pterodactyl Panel Minecraft Server"
+
+Solution: 1. Ensure that you have the necessary permissions to install a custom JRE on your Pterodactyl Panel Minecraft server.
+
+2. Check the Pterodactyl Panel server logs for any errors related to installing the custom JRE. This can help you pinpoint the issue and determine the root cause of the installation failure.
+
+3. Verify that the custom JRE you are attempting to install is

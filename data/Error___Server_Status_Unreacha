@@ -1,0 +1,7 @@
+Error: Error: "Server Status Unreachable" On Pterodactyl Panel
+
+This Error Occurs When The Pterodactyl Panel Is Unable To Connect To Your Minecraft Server. This Issue Can Be Caused By Various Reasons Such As Incorrect Credentials, Firewall Settings, And Incorrect IP Address.
+
+Solution: 1. Open your Pterodactyl Panel and navigate to your server dashboard.
+2. Confirm that the server's details such as IP address, username, and password are correct.
+3. Check your

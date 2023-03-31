@@ -1,0 +1,10 @@
+Error: Sure! Here'S A New Error You May Encounter When Setting Up A Minecraft Server On Pterodactyl Panel:
+
+**Error:** When Attempting To Start The Server, You Receive The Following Error Message: "Error: Could Not Find Or Load Main Class Net.Minecraft.Server.Main."
+
+**
+
+Solution: **
+
+1. Go to the "Startup" section of your server settings in the Pterodactyl panel.
+2. Check that the "JAR File" and "Server Type" fields are correctly

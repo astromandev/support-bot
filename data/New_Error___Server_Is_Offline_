@@ -1,0 +1,7 @@
+Error: New Error: "Server Is Offline And Cannot Be Reached."
+
+Solution: Step 1: Check server status: The first step should be to check if the server is actually online, the issue could be that your server is actually down.
+
+Step 2: Check Panel Power Status: If the server is online, you have to ensure that the panel is also online. Ensure that Pterodactyl Panel is running by going to the Pterodactyl URL.
+
+Step 3: Verify Connection

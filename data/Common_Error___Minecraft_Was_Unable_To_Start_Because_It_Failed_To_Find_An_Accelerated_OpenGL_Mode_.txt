@@ -1,0 +1,5 @@
+Error: Common Error: "Minecraft Was Unable To Start Because It Failed To Find An Accelerated OpenGL Mode"
+
+Solution: 1. Make sure your graphics card driver is up to date. Check the manufacturer's website for the latest version and download it.
+2. Try updating Java to the latest version. Go to java.com and download the latest version of Java if it's available.
+3. Check your computer's graphics settings. Make sure your graphics processor is set to "High performance" or "Nvidia/

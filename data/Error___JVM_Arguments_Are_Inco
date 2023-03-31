@@ -1,0 +1,6 @@
+Error: Error: "JVM Arguments Are Incorrect Or Missing."
+
+Solution: 1. Login to your Pterodactyl panel and go to the server console.
+2. Edit the server startup parameters by clicking on "Startup" in the left-hand menu and then going to "Editable Parameters."
+3. Scroll down to the "JVM Arguments" section and make sure that the arguments are correct and appropriate for your server.
+4. If there are missing arguments, ensure that they are added to the list.

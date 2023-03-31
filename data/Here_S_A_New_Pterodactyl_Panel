@@ -1,0 +1,13 @@
+Error: Here'S A New Pterodactyl Panel Minecraft Server Related Error:
+
+**Error:** "Error: Cannot Allocate Memory - Docker Container Failed To Start"
+
+**
+
+Solution: **
+
+This error message indicates that the Docker container is unable to allocate sufficient memory to the server. The following steps will help resolve the issue:
+
+1. Log into your Pterodactyl panel and navigate to the server page that is experiencing the error.
+
+2. Click on the "Settings" button in the left-hand panel and

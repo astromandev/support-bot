@@ -1,0 +1,7 @@
+Error: Error: "There Was An Error Creating The Server. Client Error: `POST Https://Panel.Example.Com/Api/Application/Servers` Resulted In A `422 Unprocessable Entity`"
+
+Solution: Step 1: Check the server name and server description. Make sure there are no special characters or symbols in them.
+
+Step 2: Ensure the server's allocated resources such as RAM, disk space and CPU are sufficient and not exceeding the server's resource limits.
+
+Step 3: Make sure all the required

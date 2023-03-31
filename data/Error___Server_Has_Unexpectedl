@@ -1,0 +1,6 @@
+Error: Error: "Server Has Unexpectedly Stopped"
+
+Solution: 1. First, log in to your Pterodactyl Panel and open the "Console" tab.
+2. Check the output in the console to see if there are any error messages or warnings.
+3. If there are no error messages, try restarting your server by clicking the "Restart" button.
+4. If the server continues to unexpectedly stop, try changing the server's JAR file to a different version or a different modpack

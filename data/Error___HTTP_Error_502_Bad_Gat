@@ -1,0 +1,6 @@
+Error: Error: "HTTP Error 502 Bad Gateway" When Accessing The Pterodactyl Panel.
+
+Solution: 1. Check if the server is running: Ensure that the server is running, and all the services needed for the panel to function are running.
+2. Refresh the page: The error may be caused by a temporary glitch, try refreshing the page.
+3. Clear your Browser's Cache: Clear the cache and cookies of your web browser, which may have stored faulty data.
+4. Check

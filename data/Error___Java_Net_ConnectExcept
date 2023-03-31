@@ -1,0 +1,4 @@
+Error: Error: "Java.Net.ConnectException: Connection Refused: No Further Information"
+
+Solution: Step 1: Check if you have entered the correct IP address and port number in the Pterodactyl panel.
+Step 2: Check if your Minecraft server is actually running by logging into the server's console through the Pterodactyl panel and typing "java -version". This should give you the version of Java installed on your server. If it doesn't, your Minecraft server may not be

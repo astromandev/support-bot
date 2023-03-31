@@ -1,0 +1,6 @@
+Error: Error: "Could Not Connect To Server. Connection Timed Out."
+
+Solution: 1. Check that you have a stable internet connection. You can check this by visiting any website in your browser.
+2. Make sure that the server you are trying to connect to is online and not undergoing maintenance or experiencing technical difficulties.
+3. Verify that you have the correct server address and port number. Double-check your entry for typos and errors.
+4. Check that your firewall or antivirus software is not blocking Minecraft connections

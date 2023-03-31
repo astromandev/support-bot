@@ -1,0 +1,5 @@
+Error: Error: "Server Not Starting" On Pterodactyl Panel
+
+Solution: 1. First, check if the server itself is functional by trying to start it from the command line. This can be done by running the command `cd /srv/daemon/games/minecraft && java -jar server.jar` in the terminal. If the server starts successfully, proceed to step 2. If not, troubleshoot the error messages received from the command line.
+
+2. Check the server's configuration

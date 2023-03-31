@@ -1,0 +1,11 @@
+Error: Sure, Here Is A New Error That A Beginner Might Encounter When Using The Pterodactyl Panel For Their Minecraft Server:
+
+**Error:** "The Server Is Unable To Start Due To A Missing Or Corrupted Jar File."
+
+**
+
+Solution: **
+
+1. Check if the jar file has actually been uploaded to the server. You can do this by logging into the server via FTP or using the File Manager in the Pterodactyl Panel.
+
+2. If the jar file is missing, locate it

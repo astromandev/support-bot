@@ -1,0 +1,5 @@
+Error: Error: "Failed To Download Server Jar: Https://Papermc.Io/Api/V2/Projects/Paper/Versions/1.16.5/Builds/548/Downloads/Paper-1.16.5-548.Jar"
+
+Solution: 1. Check the server jar URL: From the error message, it seems like the URL to download the server jar file is incorrect. Double-check that the URL you are using to download the server jar is correct.
+
+2. Check the Paper API: Visit the Paper

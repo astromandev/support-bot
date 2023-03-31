@@ -1,0 +1,5 @@
+Error: Error: "Failed To Create Firewall Rule. Please Ensure That This Panel’S IP Address Has Been Added To Your Server'S Firewall As An Allowed IP Address."
+
+Solution: Step 1: Log in to your server's Pterodactyl panel and click on the "Console" tab.
+
+Step 2: Type the command "sudo ufw allow from [panel_ip_address] to any port 25565" without quotes. Replace [panel_ip_address] with the IP address of your Pter

@@ -1,0 +1,7 @@
+Error: Error: "Java Is Not Recognized As An Internal Or External Command"
+
+This Error Occurs When Your Computer Cannot Find The Java Installation Or Cannot Recognize It As A Command. It Could Be Caused By Missing Or Corrupted Java Files, Or Incorrect Installation Of Java.
+
+Solution: 1. Check if Java is installed: Open the command prompt and type "java -version" without the quotes. If Java is not installed, download and install the latest version of Java from https://www.java.com/en/download/.
+
+2.

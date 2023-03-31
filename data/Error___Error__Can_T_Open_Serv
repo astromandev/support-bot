@@ -1,0 +1,9 @@
+Error: Error: "Error: Can'T Open Server Properties File"
+
+Solution: 1. Check the file path of your server properties file. Make sure it is in the correct directory.
+
+2. Make sure the file is named correctly. It should be named "server.properties" exactly.
+
+3. Check the permissions of the file. Make sure the user running the server has permission to access and modify the file.
+
+4. If you are using a hosting service, make sure the file has been uploaded correctly and is

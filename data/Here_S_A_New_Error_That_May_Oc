@@ -1,0 +1,15 @@
+Error: Here'S A New Error That May Occur In The Pterodactyl Panel:
+
+**Error:** The Server Is Marked As Having Crashed
+
+**
+
+Solution: **
+
+Step 1: Log in to your Pterodactyl panel and locate the server that has the error.
+
+Step 2: Click on the console icon located on the left side of the page to open the console.
+
+Step 3: Check the console for any error messages and take note of them.
+
+Step 4: Click on

@@ -1,0 +1,5 @@
+Error: Error: "Server Is Offline And Won'T Start Up In Pterodactyl Panel."
+
+Solution: 1. Verify that the server allocation has not expired, and that you are still able to log in to the panel.
+2. Look for any errors that may be marked in red, especially those related to the server's start. Try to see if there's a specific error message that can help you troubleshoot.
+3. Navigate to the `Console` panel and press the `Start` button

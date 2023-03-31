@@ -1,0 +1,6 @@
+Error: Error: Failed To Start Server: Unable To Bind To Any Available IP On This Machine
+
+Solution: 1. Log in to your Pterodactyl panel and select your Minecraft server.
+2. Click on the "Startup" tab.
+3. Ensure that the IP address in the "Server IP" field is set to 0.0.0.0, which means that the server will bind to any available IP. 
+4. If it is already set to 0.0.

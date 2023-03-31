@@ -1,0 +1,12 @@
+Error: Sure!
+
+Error: "502 Bad Gateway" Error When Accessing The Pterodactyl Panel.
+
+Solution: Step 1: Check if the error is limited to your device.
+
+  - Visit the Pterodactyl panel from a different device and see if it is accessible.
+  - If it is accessible from another device, then the issue may be with the first device.
+
+Step 2: Check if the error is limited to the Pterodactyl panel
+
+  - Check if

@@ -1,0 +1,4 @@
+Error: Error: "Failed To Initialize Dashboard. Please Try Again Later."
+
+Solution: 1. Check if the Pterodactyl panel is running on the server. To do this, run the command "systemctl status wings" in the terminal. If it's not running, start it with "systemctl start wings".
+2. Check the server's firewall settings. Make sure that the required ports (8080, 2022, 8081, and 8443) are open and not

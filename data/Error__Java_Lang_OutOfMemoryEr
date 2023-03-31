@@ -1,0 +1,13 @@
+Error: Error: Java.Lang.OutOfMemoryError: Java Heap Space
+
+This Error Occurs When The Minecraft Server Tries To Use More Memory Than Has Been Allocated To It.
+
+Solution: Step 1: Open the Minecraft server folder and locate the start command or server startup script (e.g. start.bat or start.sh).
+
+Step 2: Open the command or script with a text editor.
+
+Step 3: Add the following lines to increase the allocated memory:
+
+For Windows:
+```
+java -Xms

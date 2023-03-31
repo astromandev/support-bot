@@ -1,0 +1,5 @@
+Error: Error: "The Server Is Crashing Immediately Upon Startup."
+
+Solution: 1. Check the server logs: You can find the logs in the panel by navigating to the "Console" tab. Look for any errors or stack traces that indicate the cause of the crash.
+
+2. Update server software: Ensure that you're running the latest version of the server software. You can check for updates in the "Servers" tab of the panel. If there's an update available, try updating and restarting the server.

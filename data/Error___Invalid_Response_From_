@@ -1,0 +1,7 @@
+Error: Error: "Invalid Response From Server: 503"
+
+Solution: 1. Firstly, check if the server is running properly or not. If the server is not running, start it.
+2. Ensure that your server's firewall or any software that you are using is not blocking the incoming and outgoing connections.
+3. Verify if you have typed the correct server URL and port number.
+4. If the issue still persists, try restarting the Pterodactyl panel service.
+5. Check the logs

@@ -1,0 +1,6 @@
+Error: Error: "The Server Hasn'T Started Yet. Please Try Again In A Few Seconds."
+
+Solution: 1. Check your server logs to see if there are any errors preventing it from starting up properly. 
+2. If there are no errors, try restarting your server and giving it a few minutes to start up fully. 
+3. If the issue persists, make sure that your server resources (such as RAM and CPU) are sufficient for running the server. 
+4. You can also try

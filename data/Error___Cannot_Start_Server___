@@ -1,0 +1,6 @@
+Error: Error: "Cannot Start Server - JRE Could Not Be Found On This Machine"
+
+Solution: 1. Go to https://java.com/en/download/ and download the latest version of Java Runtime Environment (JRE).
+2. Once the download is complete, run the installation file and follow the prompts to install JRE on your machine.
+3. After the installation is complete, open the pterodactyl panel and navigate to the server that's giving you the error.
+4. Click on the

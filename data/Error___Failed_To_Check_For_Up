@@ -1,0 +1,5 @@
+Error: Error: "Failed To Check For Updates. Please Make Sure Your Panel URL Is Correct And That You Have An Internet Connection."
+
+Solution: 1. Double-check your Pterodactyl panel URL to ensure it has been entered correctly.
+2. Check your network connection to make sure that you are connected to the internet.
+3. Verify that your PteroUser is authorized to connect to the internet. You can do this by going to your server's console and typing "ping google.com". If there

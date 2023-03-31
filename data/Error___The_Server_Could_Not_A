@@ -1,0 +1,7 @@
+Error: Error: "The Server Could Not Allocate Enough Memory For The Startup. Please Check Your Startup Parameters."
+
+Solution: This error occurs when running the Minecraft server requires more memory than what is currently allocated. To fix this problem, follow these steps:
+
+1. Open your server directory and locate the startup script file.
+2. Edit the startup script file and add the following line of code:
+   java -Xmx<amount of memory> -Xms<amount of memory> -jar minecraft_server.jar nog

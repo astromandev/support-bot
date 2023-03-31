@@ -1,0 +1,7 @@
+Error: Error: Pterodactyl Panel Is Showing Server Status As Offline Even Though The Server Is Running.
+
+Solution: 1. Check the server's log files: Login to your server through SSH and look for any errors that might be causing the server to not properly communicate with the panel.
+
+2. Verify server settings: Verify the server settings in the Pterodactyl Panel. Confirm that the correct IP address and port number are set. 
+
+3. Check the firewall settings: Make sure that the

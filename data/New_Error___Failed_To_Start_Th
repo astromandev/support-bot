@@ -1,0 +1,4 @@
+Error: New Error: "Failed To Start The Minecraft Server. Java Could Not Reserve Enough Space For Object Heap."
+
+Solution: Step 1: Login to your Pterodactyl panel and navigate to the "Console" tab.
+Step 2: Check if you have allocated enough memory to your server. You can do this by running the command "java -Xmx<amount of memory>G -Xms<amount of memory>G -jar server.jar" (without quotes) where <amount of memory

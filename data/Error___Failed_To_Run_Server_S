@@ -1,0 +1,5 @@
+Error: Error: "Failed To Run Server Start Script" When Attempting To Start A Minecraft Server On Pterodactyl Panel.
+
+Solution: 1. First, verify that you have uploaded the correct server files. If you are unsure, try downloading them again from the source and upload them to your server.
+2. Check the startup command in the configuration. Make sure it is correct and without errors. If there is an error, correct it and save the changes.
+3. If the server is still not

@@ -1,0 +1,9 @@
+Error: Here'S A New Error That Could Occur On A Pterodactyl Panel Minecraft Server:
+
+Error: "Server Startup Failed: Error: Could Not Create The Java Virtual Machine."
+
+This Error Occurs When The Minecraft Server Is Unable To Start Due To Insufficient Memory Allocation.
+
+Solution: 1. First thing you need to do is stop the server from running.
+2. Log in to your Pterodactyl Panel Minecraft server's control panel and open the "Startup" settings.
+3. Under "

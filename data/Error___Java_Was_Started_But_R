@@ -1,0 +1,5 @@
+Error: Error: "Java Was Started But Returned Exit Code=1"
+
+Solution: This error occurs when there is a problem with the Java Virtual Machine (JVM). The problem could be due to incompatible Minecraft mods, incorrect Java version, or outdated drivers. Here is a step-by-step solution to solve this issue:
+
+1. First, check if your Java version is compatible with the Minecraft server. The Minecraft game needs Java 8 to function correctly. To check the Java version, open the command prompt

@@ -1,0 +1,7 @@
+Error: Error: "Server Not Starting And Task Failed Unexpectedly"
+
+Solution: 1. Check if the server jar/exe file or the script is located in the correct folder/directory. Make sure the file is not corrupted.
+2. Verify if the server and panel credentials are correct.
+3. Check if the allocated RAM for the server is not exceeding the maximum limit.
+4. Inspect if the disk space is sufficient for server to function.
+5. Check if the server is configured correctly in the P

@@ -1,0 +1,10 @@
+Error: Error: "Failed To Allocate Network"
+This Error Occurs When Your Server Is Unable To Assign A Network Port To The Minecraft Server.
+
+Solution: 1. Check if any other program or process is using the same network port as Minecraft.
+
+2. Stop and restart your Minecraft server, as sometimes the issue may just be temporary.
+
+3. If the above steps do not work, try restarting your server or shutting it down completely and then restarting it.
+
+4. If none of the above steps work, try uninstall

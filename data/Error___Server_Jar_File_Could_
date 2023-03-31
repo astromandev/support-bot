@@ -1,0 +1,5 @@
+Error: Error: "Server Jar File Could Not Be Found Or Is Unreadable" When Trying To Start The Server On Pterodactyl Panel.
+
+Solution: 1. Login to your Pterodactyl panel and navigate to the server that you are having issues with.
+2. Click on the "file manager" option to open the file manager for your server.
+3. Check if the server jar file exists in the /server directory. If it's not present, upload it using the "upload

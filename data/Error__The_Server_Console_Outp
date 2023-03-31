@@ -1,0 +1,6 @@
+Error: Error: The Server Console Outputs "Error: Could Not Find Or Load Main Class Jar" When Trying To Start The Minecraft Server Through The Pterodactyl Panel.
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Navigate to your server's file management section and locate the "startup.sh" script.
+3. Edit the script and remove any references to "jar" or "craftbukkit" in the command line.
+4. Save the changes to the script

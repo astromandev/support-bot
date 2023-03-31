@@ -1,0 +1,13 @@
+Error: Here'S A New Minecraft Server Related Error That Can Occur With Java:
+
+**Error:** "Failed To Bind To Port" Or "Address Already In Use"
+
+**Cause:** This Error Can Occur If Another Process Or Application Is Already Using The Same Port Number As Your Minecraft Server.
+
+**
+
+Solution: **
+
+1. First, check if there are any other applications running on the same port number by running the following command in the command prompt or terminal:
+
+   `netstat -aon | find ":<port

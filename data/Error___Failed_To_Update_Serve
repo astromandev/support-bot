@@ -1,0 +1,9 @@
+Error: Error: "Failed To Update Server Information From Panel. Please Try Again Later."
+
+Solution: 1. Check your internet connectivity and make sure you have a stable connection.
+
+2. Verify that you are using the correct login credentials for the Pterodactyl panel. Check for any typos or mistakes in the username and password.
+
+3. Ensure that the Pterodactyl panel is up and running properly. Check the status of the panel and verify if it is working fine.
+
+4. Check

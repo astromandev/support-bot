@@ -1,0 +1,8 @@
+Error: Error: "Server Status Not Updating On Pterodactyl Panel"
+
+Step-By-Step
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to the "Servers" page.
+2. Select the server experiencing the issue and click on the "Console" tab.
+3. Check if the server is displaying any error messages or if it has crashed.
+4. If the server is offline, try restarting it by clicking on the "Restart" button or using the command in

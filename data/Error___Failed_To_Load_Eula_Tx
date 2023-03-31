@@ -1,0 +1,11 @@
+Error: Error: "Failed To Load Eula.Txt"
+
+Solution: 1. Navigate to the directory where your server files are located.
+2. Find the "eula.txt" file.
+3. Open the file in a text editor.
+4. Locate the line that says "eula=false".
+5. Change "false" to "true".
+6. Save the changes to the file.
+7. Restart your server.
+
+Note: It's important to read and understand the Minecraft EULA before setting

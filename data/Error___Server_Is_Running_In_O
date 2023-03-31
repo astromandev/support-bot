@@ -1,0 +1,8 @@
+Error: Error: "Server Is Running In Offline Mode"
+
+Solution: 1. Go to the Pterodactyl panel login page and sign in.
+2. Click on the server you want to troubleshoot.
+3. Navigate to the "Console" tab on the left side of the panel.
+4. Click on the "Stop" button to stop the server.
+5. Once the server is stopped, click on the "File Manager" tab.
+6. In the file manager, find the "server

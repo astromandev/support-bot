@@ -1,0 +1,7 @@
+Error: New Error: "Connection Refused: No Further Information" When Trying To Connect To A Minecraft Server.
+
+Solution: 1. Check that the server is up and running, and that you have the correct IP address or hostname.
+2. Check that the server is not offline for maintenance or updates.
+3. Check your internet connection and make sure that you are not blocked by any firewalls or antivirus software.
+4. Try to connect to a different server or restart Minecraft to see if the error persists.
+5

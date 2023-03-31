@@ -1,0 +1,5 @@
+Error: Error: "The Server Jar File Could Not Be Found In The Specified Directory"
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the "File Manager" page.
+2. Check if the server jar file exists in the specified directory or not. If not, upload the server jar file to the directory where it should be located.
+3. If the server jar file exists, double-check the file name and make sure it matches the name specified in the startup command.

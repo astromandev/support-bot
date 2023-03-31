@@ -1,0 +1,6 @@
+Error: Error: Java.Net.BindException: Cannot Assign Requested Address
+Description: This Error Occurs When The Server Tries To Bind To A Specific IP Address Or Port And That Address Is Already In Use Or Not Available.
+
+Solution: Step 1: Check if all instances of Minecraft servers have been closed on your computer.
+Step 2: Verify that your server configuration file has a valid IP address and port configuration.
+Step 3: Verify that the IP Address you are trying to bind to is a reachable IP address

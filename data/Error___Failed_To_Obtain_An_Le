@@ -1,0 +1,7 @@
+Error: Error: "Failed To Obtain An Let'S Encrypt Certificate For The Server"
+
+Solution: 1. Login to your Pterodactyl panel and navigate to the "Console" section of your server.
+
+2. Type the following command: `sudo certbot certonly --non-interactive --agree-tos --email your-email-address --nginx -d yourdomain.com`.
+
+3. Replace `your-email-address` with your actual email address and replace `yourdomain.com` with your actual domain name.

@@ -1,0 +1,4 @@
+Error: Error: "Java Is Not Installed Or Could Not Be Found On Your System" When Trying To Start A Minecraft Server In Pterodactyl Panel.
+
+Solution: 1. Check if Java is installed on your system by running the command "java -version" in terminal or command prompt. If Java is not installed, download and install it from the official website.
+2. Open the Pterodactyl panel and navigate to the "Nests" option and select the "Minecraft"

@@ -1,0 +1,12 @@
+Error: Error: "Error: Failed To Connect To The Daemon: Dial Unix /Var/Run/Docker.Sock: Connect: Permission Denied"
+
+Solution: This error occurs when the daemon user does not have permission to access the docker daemon. To fix this error, follow the steps below:
+
+Step 1: Log in to the server using SSH.
+
+Step 2: Run the following command to add the Docker group:
+```
+sudo groupadd docker
+```
+
+Step 3: Run the following command to add your

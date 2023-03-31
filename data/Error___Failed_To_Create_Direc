@@ -1,0 +1,5 @@
+Error: Error: "Failed To Create Directory '/Mnt/Server/Configs'. Unable To Save Configuration Files."
+
+Solution: 1. Connect to your server using SSH. You can find the server's IP address and credentials in the Pterodactyl panel.
+2. Run the following command to create the necessary directory: "sudo mkdir -p /mnt/server/configs"
+3. Set the proper permissions on the directory by running: "sudo chown -R pterodactyl:pterodactyl

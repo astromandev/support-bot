@@ -1,0 +1,11 @@
+Error: New Error: "An Error Occurred While Starting The Server. Please Check The Logs For More Information."
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel account and select the server that is giving you the error message.
+
+2. Navigate to the "Console" tab located in the left-hand menu.
+
+3. Start the server and take note of any error messages that appear in the console. 
+
+4. If you see any specific error messages, Google them to find

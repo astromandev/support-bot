@@ -1,0 +1,5 @@
+Error: Error: "Java.Net.BindException: Address Already In Use: Bind"
+
+This Error Occurs When There Is Already Another Program Or Service Using The Port That Your Minecraft Server Is Trying To Use.
+
+Solution: 1. Check which program or service is using the port: Open a command prompt or terminal and enter the command "netstat -aon". Look for the line that shows the port number that your Minecraft server is trying to use (default port is 25565). Take note of the process ID

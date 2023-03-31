@@ -1,0 +1,7 @@
+Error: Error: "Failed To Login: Invalid Session".
+
+Solution: 1. First, try logging out and back in to the Minecraft launcher.
+
+2. If that doesn't work, delete your Minecraft launcher profile and create a new one. To do this, click on the "Launcher Options" button in the launcher, then click "Add New" under "Profiles". Give the new profile a name and select the version you want to play.
+
+3. If you're still having trouble, clear the game cache

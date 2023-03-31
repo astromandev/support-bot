@@ -1,0 +1,7 @@
+Error: Error: "Minecraft Server Keeps Crashing On Pterodactyl Panel"
+
+Solution: 1. Check if your server has enough disk space and RAM available to run Minecraft. You should have at least 4GB of RAM allocated to your Minecraft server.
+
+2. Check if your Minecraft server software is up-to-date. You can do this by checking the official Minecraft website or the Pterodactyl panel.
+
+3. Check the Minecraft server log files for any errors or warnings. You can do

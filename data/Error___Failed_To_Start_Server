@@ -1,0 +1,5 @@
+Error: Error: "Failed To Start Server" When Attempting To Start A Server On The Pterodactyl Panel.
+
+Solution: 1. Check the server logs for the error message that caused the server to fail. This can usually be found in the "Console" tab of the server's page.
+2. If the error message states that there's an issue with the Jar file, ensure that you have uploaded the correct Jar file and that it's named correctly.
+3. If the error message states that

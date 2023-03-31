@@ -1,0 +1,6 @@
+Error: Error: The Server Is Not Starting And An Error Message Saying "Unable To Access Jarfile" Is Displayed.
+
+Solution: 1. Check if the server's jarfile is named correctly and matches the command used to start the server.
+2. Ensure that the jarfile is located in the correct directory where the server is installed.
+3. Check if there are any typos or errors in the command used to start the server.
+4. If the jarfile is located in a different directory, provide the

@@ -1,0 +1,6 @@
+Error: Error: "Proxy Creation Failed: Unable To Fulfill Request" In Pterodactyl Panel When Trying To Start A Minecraft Server.
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server's console.
+2. Type the command "cd /mnt/server" to switch to the server directory.
+3. Type "rm -rf .proxy" to delete the proxy folder.
+4. Then, type "rm -rf /tmp/*" to clear the temp

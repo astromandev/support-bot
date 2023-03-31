@@ -1,0 +1,3 @@
+Error: Error: One Common Error That New Users Might Encounter On A Pterodactyl Panel Minecraft Server Is "Failed To Bind To Port" Error. This Error Occurs When The Minecraft Server Is Unable To Bind The Port It Is Trying To Use (25565) For Incoming Connections.
+
+Solution: 1. First, you need to ensure that no other applications are using the same port. You can use the command "netstat -ano | findstr :25565" to check if any other applications are

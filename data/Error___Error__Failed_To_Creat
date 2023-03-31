@@ -1,0 +1,8 @@
+Error: Error: "Error: Failed To Create Directory /Mnt/Server/Storage/Pterodactyl/Servers/E720848f: Permission Denied"
+Cause: The Error Occurs When The Server Is Unable To Create A Directory Due To Insufficient Permissions.
+
+Solution: Step 1: Login to your Pterodactyl Panel as the Admin user.
+
+Step 2: Navigate to the Servers page and select the affected server.
+
+Step 3: Click on the File Manager tab to open the server's file manager.

@@ -1,0 +1,7 @@
+Error: Error: "Cannot Create A New Minecraft Server In Pterodactyl Panel" 
+This Error Occurs When There Is An Issue In Creating A New Minecraft Server In The Pterodactyl Panel.
+
+Step-By-Step
+
+Solution: 1. First, make sure you have selected the correct game type (Minecraft) in the panel while creating the server.
+2. Check that the server owner has enough credits available to create the server. If not, you can either purchase additional credits or ask the server

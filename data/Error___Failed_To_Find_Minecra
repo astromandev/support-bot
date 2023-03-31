@@ -1,0 +1,11 @@
+Error: Error: "Failed To Find Minecraft Installation Directory"
+
+Solution: Step 1: Login into your Pterodactyl panel and navigate to your server page.
+
+Step 2: Click on the "File Manager" tab.
+
+Step 3: Navigate to the directory where your Minecraft files are stored.
+
+Step 4: Double-check that the files are located in the correct directory. If not, move them to the correct directory.
+
+Step 5: If the files are located in the correct directory,

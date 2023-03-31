@@ -1,0 +1,6 @@
+Error: Error: The Server Console Is Displaying A "Connection Timed Out" Error Message And Players Are Unable To Connect To The Minecraft Server Through The Pterodactyl Panel.
+
+Solution: Step 1: Check the server status
+- Log in to the Pterodactyl panel
+- Go to the 'Dashboard' tab and check the server status.
+- If the server is online, proceed to Step 2. If the server is offline, turn it on by clicking the 'Power' button

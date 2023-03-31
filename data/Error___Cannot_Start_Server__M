@@ -1,0 +1,8 @@
+Error: Error: "Cannot Start Server, Missing Files Or Incorrect Permissions"
+
+Solution: 1. Log in to your Pterodactyl panel
+2. Navigate to the file manager for the server in question.
+3. Check if all necessary files are present. Particularly, check if the jar file is present.
+4. If necessary files are missing, check if they are on the server.
+5. Try uploading the missing files via FTP client.
+6. Ensure the permissions for the files are set correctly.

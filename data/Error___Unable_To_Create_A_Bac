@@ -1,0 +1,15 @@
+Error: Error: "Unable To Create A Backup. Please Check Your Storage Settings."
+
+Solution: Step 1: Login to your Pterodactyl panel.
+
+Step 2: Click on the “Servers” tab.
+
+Step 3: Select the server experiencing the issue.
+
+Step 4: Click on the “Settings” tab.
+
+Step 5: Click on “Allocation” from the list on the left.
+
+Step 6: Scroll down and locate the “Disk Space” section.
+
+Step 7

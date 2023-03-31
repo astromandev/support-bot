@@ -1,0 +1,5 @@
+Error: One Possible Error That Can Occur In Pterodactyl Panel When Setting Up A Minecraft Server Is Related To The Java Version.
+
+Error: "Java Is Not Recognized As An Internal Or External Command, Operable Program Or Batch File."
+
+Solution: Step 1: Check Java installation: Make sure Java is installed on your device. Open the command prompt or terminal window and type "java -version". If it shows the Java version, then Java is correctly installed. Otherwise, download and install Java from

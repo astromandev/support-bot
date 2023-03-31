@@ -1,0 +1,7 @@
+Error: Error: "Task '***' Not Found" Displayed In Pterodactyl Panel When Attempting To Run A Task Command.
+
+Solution: 1. Navigate to your server dashboard in Pterodactyl Panel.
+2. Click on the "Tasks" tab on the left-hand side of the screen.
+3. Click on the "Create New Task" button to create a new task.
+4. Give the task a name (e.g. "test").
+5. In the "Commands" field

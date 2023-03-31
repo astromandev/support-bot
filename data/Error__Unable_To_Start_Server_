@@ -1,0 +1,6 @@
+Error: Error: Unable To Start Server After Clicking On The Start Button In The Pterodactyl Panel
+
+Solution: 1. Check the console log for error messages that may indicate the cause of the problem.
+2. Check that the jar file you are attempting to run is compatible with your server version and operating system.
+3. Ensure that your server has enough RAM allocated in the "Startup" settings section of the panel.
+4. Confirm that any server files or configurations are in the correct location and are

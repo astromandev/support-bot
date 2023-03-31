@@ -1,0 +1,13 @@
+Error: Here'S A New Java Minecraft Server Related Error And Its Solution:
+
+**Error:** Unable To Start Minecraft Server Due To "Address Already In Use" Error.
+
+**
+
+Solution: **
+
+1. Open your command prompt or terminal.
+2. Type in the command `netstat -ano | find "LISTEN"` and press Enter.
+3. Look for the line that has the same IP address and port number that your Minecraft server is using.
+4. Note the PID number on that line.
+5. Open

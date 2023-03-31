@@ -1,0 +1,5 @@
+Error: Error: The Server Is Experiencing Frequent Crashes And Restarts, Accompanied By Error Messages Such As "Heap Space Out Of Memory" Or "Java.Lang.Outofmemoryerror".
+
+Solution: 1. Increase the amount of memory allocated to the server by editing the "Startup" settings in the Pterodactyl panel. 
+   a. Navigate to the "Startup" tab on the left-hand side of the panel.
+   b. Click "Edit" next to the "Server Startup Command" field.

@@ -1,0 +1,5 @@
+Error: Error: "Daemon Failed To Start" When Attempting To Start A Server In The Pterodactyl Panel.
+
+Solution: 1. Verify that the Java version installed on the server is compatible with the Minecraft server software being used. Typically, Minecraft servers require Java 8 or newer.
+2. Check the server's disk space utilization. If the server's drive is nearly full, there may not be enough space for the server to start properly.
+3. Restart the server to ensure that any pending configuration

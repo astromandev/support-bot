@@ -1,0 +1,5 @@
+Error: Error: "Connection Failed: SSL Certificate Problem: Self Signed Certificate In Certificate Chain" When Trying To Connect To A Pterodactyl Minecraft Server.
+
+Solution: This error occurs when the SSL certificate used by the Pterodactyl panel is self-signed and not authenticated by a trusted certificate authority. To fix this error, follow these steps:
+
+Step 1: Download the SSL certificate from the Pterodactyl panel using your web browser. This can be done by navigating to the panel

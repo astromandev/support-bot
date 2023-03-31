@@ -1,0 +1,7 @@
+Error: One Error That May Occur With The Pterodactyl Panel For Minecraft Servers Is If The Server Console Output Is Not Updating Or The Server Logs Are Not Being Shown In The Panel.
+
+Solution: Step 1: First, check that the server is running correctly and displaying output in the Minecraft client.
+
+Step 2: Access the server console through SSH or SFTP to verify that logs are being generated.
+
+Step 3: If logs are not being generated, you may need to check the server

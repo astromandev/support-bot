@@ -1,0 +1,5 @@
+Error: Error: "Fatal Error: Out Of Memory"
+
+Solution: 1. The first step is to check your server's resources. Pterodactyl Panel usually shows the memory usage of the server on the dashboard. If the usage is constantly high or near the maximum allowed memory, it is an indication that the server needs more memory.
+  
+2. Log in to the Pterodactyl Panel dashboard and navigate to the "Startup" section in the "Settings" tab. Increase the allocated RAM

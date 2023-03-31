@@ -1,0 +1,8 @@
+Error: Error: "Out Of Memory Error"
+
+This Error Occurs When The Minecraft Server Runs Out Of Memory And Is Unable To Allocate More Memory To The Process.
+
+Solution: 1. Log in to your Pterodactyl Panel and stop the server.
+2. Click on the "File Manager" tab and navigate to the server's root directory.
+3. Open the "server.properties" file and scroll down to the "Advanced" section.
+4. Find the line that reads "nogui=false" and

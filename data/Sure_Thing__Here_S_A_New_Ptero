@@ -1,0 +1,8 @@
+Error: Sure Thing, Here'S A New Pterodactyl Panel Minecraft Server Related Error And Its Step-By-Step Solution:
+
+Error: "The Server Is Unable To Start Due To A 'Java.Lang.OutOfMemoryError' Error Message."
+
+Solution: 1. Access your Pterodactyl control panel and go to the "Console" section.
+2. Stop the server if it is currently running.
+3. Access the "Startup Parameters" section under the "Settings" tab.
+4. Locate the

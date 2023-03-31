@@ -1,0 +1,6 @@
+Error: New Error: "Failed To Check For Server Updates: The CURL Extension Is Not Installed."
+
+Solution: 1. Log in to your Pterodactyl control panel and click on the "Console" tab.
+2. Access the console of your Minecraft server by clicking on "Console".
+3. Once you are in the server console, type "php -m" and press enter. This will display a list of installed PHP extensions.
+4. Check the list for the "curl" extension.

@@ -1,0 +1,4 @@
+Error: Error: "Java Binary Not Found In PATH"
+
+Solution: 1. To fix this error, you need to ensure that Java is installed on your server. You can check whether Java is installed by running the command "java -version" on your Linux command line. If Java is not installed, please install the latest version of Java.
+2. Once Java is installed, you need to add the Java executable to your PATH. You can do this by running the command "export PATH=$PATH:/

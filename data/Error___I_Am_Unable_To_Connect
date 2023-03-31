@@ -1,0 +1,9 @@
+Error: Error: "I Am Unable To Connect To My Pterodactyl Minecraft Server Via FTP Using FileZilla."
+
+Solution: 1. First, make sure that Pterodactyl panel is properly configured to allow FTP connections. 
+
+2. To configure FTP access to your server, navigate to the Pterodactyl panel dashboard and click on 'Servers'.
+
+3. Click on the server that you want to configure FTP access for and navigate to the 'Configuration' tab. 
+
+4.

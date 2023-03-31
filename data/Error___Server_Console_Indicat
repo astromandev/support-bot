@@ -1,0 +1,7 @@
+Error: Error: "Server Console Indicate That Quota Limit Was Exceeded When Trying To Create A New World."
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the "Servers" page.
+2. Click on the affected Minecraft server and go to the "File Manager" tab.
+3. Open the "server.properties" file using the text editor.
+4. Scroll down to the "level-name" parameter and change the name of the world to a new name.
+5. Save

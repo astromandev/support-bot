@@ -1,0 +1,7 @@
+Error: Error: "There Was An Error Starting Your Server. Error Code: 255"
+
+Solution: Step 1: Check your server console for any error messages that give more information about what went wrong.
+
+Step 2: Verify that you have entered all of the required information into the Pterodactyl panel correctly, such as the server name, IP address, and port number.
+
+Step 3: Check that your server's configuration files are correct, particularly the server.properties file. Make sure

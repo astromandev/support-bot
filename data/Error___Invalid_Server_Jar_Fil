@@ -1,0 +1,9 @@
+Error: Error: "Invalid Server Jar File Detected On The Pterodactyl Panel."
+
+Solution: 1. Log in to the Pterodactyl Panel and navigate to the crashed server page.
+
+2. Click the "Console" tab at the top of the page.
+
+3. In the Console, type the command ls -la to list all the files present in the server directory and press enter.
+
+4. Check to see whether the server jar file is present in the directory. If not, you

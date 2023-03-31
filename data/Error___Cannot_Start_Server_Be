@@ -1,0 +1,6 @@
+Error: Error: "Cannot Start Server Because Port 25565 Is Already In Use"
+
+Solution: 1. Open the Pterodactyl panel and navigate to the Server Management page.
+2. Click on the "Console" tab to open the server console.
+3. Type in the command "netstat -ano | findstr :25565" and hit enter. This will show a list of any processes currently using port 25565.
+4. Take note of the process ID (PID) listed

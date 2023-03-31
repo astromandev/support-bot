@@ -1,0 +1,7 @@
+Error: Error: "Failed To Start Minecraft Server."
+
+Solution: Step 1: Check the server logs for any error messages. If there are any, make note of them.
+
+Step 2: Check that your server has enough allocated memory. To do this, navigate to the Pterodactyl control panel and select your server from the list of servers. Then select "Startup" from the left-hand menu and check the allocated memory to ensure it is sufficient for your server's needs.
+
+Step 3

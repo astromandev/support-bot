@@ -1,0 +1,8 @@
+Error: Error: "Internal Exception Java.Net.Socketexception Connection Reset"
+
+Solution: 1. Check your internet connection to ensure it is stable and strong.
+2. Ensure that both the server and the client are using the same Minecraft version.
+3. Disable firewall protection or add an exception for Minecraft in your firewall settings.
+4. Try restarting your router and any networking hardware you may be using.
+5. If you are still experiencing issues, try resetting your router/modem to its default settings.
+6. You

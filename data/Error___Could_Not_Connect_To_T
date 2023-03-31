@@ -1,0 +1,7 @@
+Error: Error: "Could Not Connect To The Minecraft Server Using The Pterodactyl Panel."
+
+Solution: 1. Check your server details: Double check to ensure that you have entered the correct server information, such as the IP address, port, and password.
+
+2. Firewall: Make sure that the firewall of the server or the host is not blocking the connection. Try disabling the firewall temporarily to see if that resolves the issue.
+
+3. Pterodactyl settings: Verify that the server settings

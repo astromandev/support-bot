@@ -1,0 +1,5 @@
+Error: Error: "Unable To Allocate X Amount Of Memory"
+
+Solution: 1. First, check how much RAM your server has by going to the "Server Configuration" tab in the Pterodactyl panel.
+2. Next, check how much RAM you have allocated to your Minecraft server by going to the "Startup" tab in the Pterodactyl panel.
+3. If you don't have enough RAM allocated, increase the amount by editing the value under the "JVM Arguments" section

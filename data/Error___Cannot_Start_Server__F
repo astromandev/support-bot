@@ -1,0 +1,4 @@
+Error: Error: "Cannot Start Server: Failed To Bind To Port"
+
+Solution: 1. First, make sure you are trying to bind the server to an available port on your machine. You can use a website like "Canyouseeme.org" to check if the port you are trying to use is available.
+2. Check if there are any other Minecraft servers running on the same port or if any programs are using the port. You can check this by running the command "netstat -ano |

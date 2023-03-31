@@ -1,0 +1,7 @@
+Error: Error: "File Not Found: ./Server.Properties"
+
+Solution: 1. Login to your Pterodactyl panel and navigate to your server dashboard.
+2. Click on the File Manager icon on the left-hand side.
+3. Check if there is a file named "server.properties". If not, create a new file with that name.
+4. If the file exists, click on it to open it. Make sure that the file path matches the Minecraft server directory.
+5. If the Minecraft

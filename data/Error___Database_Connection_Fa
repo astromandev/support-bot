@@ -1,0 +1,7 @@
+Error: Error: "Database Connection Failed" When Trying To Access The Pterodactyl Panel
+
+Solution: 1. Check your database credentials: Ensure that you have entered the correct database credentials in the `core.yml` file. Verify that the database name, username, and password are correct.
+
+2. Check your MySQL server: Verify that your MySQL server is running and accepting connections. If it is not running, start it and try accessing the Pterodactyl panel again.
+
+3. Check your

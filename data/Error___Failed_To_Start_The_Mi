@@ -1,0 +1,6 @@
+Error: Error: "Failed To Start The Minecraft Server. Please Check The Logs For More Information."
+
+Solution: 1. Log in to your Pterodactyl panel, navigate to your server's console, and click "Stop" to stop the server.
+2. Go to the "File Manager" section in the left-hand menu and navigate to the "/logs" directory.
+3. Look for the most recent log file with the prefix "latest.log" and click on it to open it.
+4.

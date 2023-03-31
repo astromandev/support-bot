@@ -1,0 +1,6 @@
+Error: Error: "Server Error: Failed To Bind To Address Tcp://0.0.0.0:25565: Address Already In Use"
+
+Solution: This error occurs when the server is unable to bind to the default Minecraft port. This is usually because another instance of the server is already running.
+
+1. Open the Pterodactyl panel and navigate to the "Console" tab on the left sidebar.
+2. Stop the server if it is currently running by entering the command "stop"

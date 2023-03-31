@@ -15,7 +15,7 @@ if (!fs.existsSync(dataFolder)) {
 }
 
 async function generateErrorSolution() {
-  const prompt = 'Give me a new common Minecraft error and its step-by-step solution for a beginner that were not mentioned before:';
+  const prompt = 'Give me a new  pterodactyl panel minecraft server related error and its step-by-step solution for a beginner that were not mentioned before:';
   const response = await sendPromptToGPT(prompt);
   return response;
 }
@@ -30,7 +30,7 @@ async function sendPromptToGPT(prompt) {
       },
       body: JSON.stringify({
         model: 'gpt-3.5-turbo',
-        messages: [{ role: 'system', content: 'You are a helpful AI that provides step-by-step solutions for common Minecraft errors.' }, { role: 'user', content: prompt }],
+        messages: [{ role: 'system', content: 'You are a helpful AI that provides step-by-step solutions for java  Minecraft servers related  errors.' }, { role: 'user', content: prompt }],
         max_tokens: 100,
       }),
     });
@@ -68,6 +68,12 @@ function formatErrorMessage(errorMessage) {
   // Return the formatted error message
   return errorMessage;
 }
+function limitFilenameLength(filename, maxLength) {
+  if (filename.length > maxLength) {
+    return filename.slice(0, maxLength);
+  }
+  return filename;
+}
 
 async function storeErrorAndSolution() {
   const response = await generateErrorSolution();
@@ -75,7 +81,11 @@ async function storeErrorAndSolution() {
   if (errorAndSolution.length === 2) {
     const errorText = formatErrorMessage(errorAndSolution[0].replace('Error: Sure! Here\'s a common error and its solution:', '').trim());
     const solutionText = errorAndSolution[1].trim();
-    const fileName = `${errorText.replace(/[^a-zA-Z0-9]/g, '_')}.txt`;
+    let fileName = `${errorText.replace(/[^a-zA-Z0-9]/g, '_')}.txt`;
+
+    // Limit filename length to a maximum value (e.g., 30 characters)
+    fileName = limitFilenameLength(fileName, 30);
+
     fs.writeFileSync(path.join(dataFolder, fileName), `Error: ${errorText}\n\nSolution: ${solutionText}\n`);
     console.log(`Stored error and solution in file: ${fileName}`);
   }
@@ -88,5 +98,5 @@ async function storeErrorAndSolution() {
   // Set an interval to generate errors and solutions continuously
   setInterval(async () => {
     await storeErrorAndSolution();
-  }, 2000); // Adjust the time interval as needed (in milliseconds)
+  }, 5000); // Adjust the time interval as needed (in milliseconds)
 })();

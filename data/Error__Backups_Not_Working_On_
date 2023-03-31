@@ -1,0 +1,7 @@
+Error: Error: Backups Not Working On The Pterodactyl Panel Minecraft Server
+
+Solution: Step 1: Check the backup settings of the server in the Pterodactyl panel. Make sure that the backup interval and retention period are correctly set.
+
+Step 2: Verify that the disk space in the server is sufficient to store the backups.
+
+Step 3: Check the backup logs in the Pterodactyl panel. This will give you an idea of what could be causing the

@@ -1,0 +1,7 @@
+Error: Error: "The Server Crashes After Startup And Produces An Error Message 'Java.Lang.OutOfMemoryError: Java Heap Space'".
+
+Solution: Step 1: Increase the amount of RAM allocated to the server by editing the 'startup parameters' configuration in Pterodactyl panel.
+ 
+Step 2: Log in to your Pterodactyl panel dashboard and navigate to your Minecraft server management page.
+ 
+Step 3: Click on the 'Startup' tab and scroll down to the '

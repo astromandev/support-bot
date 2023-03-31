@@ -1,0 +1,8 @@
+Error: Error: "Error Starting Your Server: Fatal Error Detected In The Java Runtime Environment"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server console.
+2. Type "java -version" to check the version of Java currently installed on the server.
+3. If the version is outdated, download and install the latest version of Java.
+4. Update the server startup script to use the new version of Java. To do this, navigate to

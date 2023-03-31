@@ -1,0 +1,4 @@
+Error: Error: "Failed To Connect To The Panel. Please Try Again Or Contact Support."
+
+Solution: 1. Check that the panel URL is correct and try accessing the panel from a different browser or device to ensure it is not a local issue.
+2. Verify that the Pterodactyl daemon (service) is running on the server by logging into the server's console or SSH and typing the command `systemctl status wings` or `service wings status` (depending on your operating system).

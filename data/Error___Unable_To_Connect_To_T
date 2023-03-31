@@ -1,0 +1,8 @@
+Error: Error: "Unable To Connect To The MySQL Database."
+
+Solution: 1. Login to your Pterodactyl Panel and go to the server's respective page.
+2. Click on the 'Database' tab and verify that the database details are correct.
+3. Check if the database username and password are correct.
+4. Make sure the hostname for the MySQL server is correct.
+5. Ensure that the port of your MySQL server matches the port in the Pterodactyl panel configuration.
+6

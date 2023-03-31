@@ -1,0 +1,7 @@
+Error: Sure, Here'S A New Common Minecraft Error And Its Solution:
+
+Error: "Failed To Login: Invalid Session (Try Restarting Your Game)"
+
+Solution: 1. Close Minecraft and the Minecraft launcher if they are open.
+2. Open your computer's file explorer and navigate to the folder where Minecraft is installed. This is typically located in the "AppData" folder on your computer, which can be accessed by typing "%AppData%" into the search bar.
+3. In the Minecraft folder, find and

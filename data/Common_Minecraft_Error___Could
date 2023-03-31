@@ -1,0 +1,8 @@
+Error: Common Minecraft Error: "Could Not Create The Java Virtual Machine" Error Message.
+
+Step-By-Step
+
+Solution: 1. Close Minecraft and any other programs currently running on your computer.
+2. Open your Minecraft launcher, and click on "Edit Profile."
+3. In the "Java Settings" section, ensure that the "Executable" option is set to "Java" and that the "JVM Arguments" field is empty.
+4. If the field contains any text, delete it and click "Save

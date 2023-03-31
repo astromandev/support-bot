@@ -1,0 +1,7 @@
+Error: New Error: "Unable To Allocate More RAM To Minecraft Server"
+
+Solution: Step 1: Access the Pterodactyl Control Panel and navigate to your Minecraft server. 
+
+Step 2: Click on "Console" and login to your server with your admin credentials. 
+
+Step 3: Type the command " java -XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap -Xmx<=RAM Value> -Xms<=RAM Value> -jar server.jar

@@ -1,0 +1,7 @@
+Error: Error: "The Server Jar Location Could Not Be Determined"
+
+Step-By-Step
+
+Solution: 1. Check your Pterodactyl panel settings and ensure that the jar file location is set correctly in the Server Configuration tab of the panel.
+2. If the jar file location is correct and the error still persists, try uploading the Minecraft server jar directly to the server via FTP.
+3. Once the jar file is uploaded, navigate to the Startup tab in the Pterodactyl panel and ensure

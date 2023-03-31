@@ -1,0 +1,8 @@
+Error: Here'S A New Error And Its Solution:
+
+Error: "Error Creating Server: Unable To Proceed With Installation: This Egg Requires That The Docker Container Be Running In Privileged Mode."
+
+Solution: 1. Log in to your Pterodactyl panel and go to your server's dashboard.
+2. Click on the "Startup" tab in the left-hand navigation menu.
+3. Scroll down to the "Docker" section and click on the "Edit" button.
+4. In the "Extra Variables

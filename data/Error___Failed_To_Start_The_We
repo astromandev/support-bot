@@ -1,0 +1,10 @@
+Error: Error: "Failed To Start The Web Server: Address Already In Use"
+
+Solution: 1. This error occurs when there is another service already using the same port that the Pterodactyl panel is trying to use. You will need to find out which service is using it and stop it.
+
+2. Use the following command to check which service is using the port:
+```
+sudo netstat -tulpn | grep LISTEN
+```
+
+3. This command will display all active ports

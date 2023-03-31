@@ -1,0 +1,8 @@
+Error: Error: "Connection Refused: Cannot Connect To Server" When Trying To Connect To The Pterodactyl Minecraft Server.
+
+Step-By-Step
+
+Solution: 1. Check that the Minecraft server is running.
+2. Make sure that the server IP and port are correct. The default port is 25565.
+3. Confirm that there are no firewall or Router issues blocking your connection.
+4. Verify that your server's network is properly configured. Check to see that the IP and port numbers are

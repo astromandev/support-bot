@@ -1,0 +1,9 @@
+Error: Error: "Failed To Check Server Status: Failed To Parse Server Query Response."
+
+Solution: Step 1: First, you need to ensure that the Pterodactyl Panel is running the latest version.
+
+Step 2: Verify if the Minecraft server is running and fully operational.
+
+Step 3: Check if the port used by the Minecraft server is properly opened in your firewall settings.
+
+Step 4: Make sure that the query port, usually 25565, is open to external connections.

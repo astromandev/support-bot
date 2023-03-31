@@ -1,0 +1,5 @@
+Error: Error: "Exception In Thread "Main" Java.Lang.UnsupportedClassVersionError: Org/Apache/Catalina/Startup/Bootstrap : Unsupported Major.Minor Version 52.0"
+
+Solution: 1. This error is caused when the Java version installed on your system is not compatible with the Java version required by the Pterodactyl panel Minecraft server.
+2. Check the Java version required by your Pterodactyl panel server in the server documentation or logs.
+3. Download and install the

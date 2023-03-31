@@ -1,0 +1,7 @@
+Error: Error: "Could Not Find Or Load Main Class Net.Minecraft.Server.MinecraftServer".
+
+Solution: 1. Verify that you have downloaded the correct version of Minecraft server for your operating system. The server software is available for Windows, Mac, and Linux.
+
+2. Ensure that you have correctly installed the Java Runtime Environment (JRE) on your system. To check if Java is installed, type "java -version" in the command prompt or terminal.
+
+3. If Java is installed, check its version

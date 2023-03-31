@@ -1,0 +1,5 @@
+Error: Error: "Server Status Is Stuck On 'Installing'"
+
+Solution: 1. Check the console logs of the server to see if there are any errors shown. This will give you a clue as to what may be causing the issue.
+2. Check the server's disk space to ensure that there is enough space for the server to be installed. If there isn’t enough space, delete unnecessary files to clear some space.
+3. Restart the server and see if the issue is fixed. To restart

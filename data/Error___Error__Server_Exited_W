@@ -1,0 +1,6 @@
+Error: Error: "Error: Server Exited With Code -1" When Trying To Start A Minecraft Server Through Pterodactyl Panel.
+
+Solution: 1. Login to Pterodactyl panel and navigate to the "Console" tab for your server.
+2. Type the "status" command to check if the server is currently running or not.
+3. If the server is not running, type the "logs" command to check the logs for any potential errors.
+4. Check the logs for

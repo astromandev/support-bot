@@ -1,0 +1,6 @@
+Error: Error: "The Server Status Is Stuck On "Starting" And Won'T Start."
+
+Solution: 1. Check the server log for any error messages that could be preventing the server from starting. 
+2. If there are no error messages, try rebooting the server from the Pterodactyl panel.
+3. If rebooting doesn't work, try stopping the server from the panel and then starting it again.
+4. If the server still won't start, try updating the server software and

@@ -1,0 +1,7 @@
+Error: Error: "Error Starting Server: Cannot Allocate Memory"
+
+Solution: 1. First, you need to check if your server has enough memory allocated to it. You can do this by logging in to your Pterodactyl panel and going to the "Console" tab on your server dashboard.
+
+2. In the console, type in the command "free -m" without quotes and press enter. This will show you how much memory your server currently has free.
+
+3. If your server is running

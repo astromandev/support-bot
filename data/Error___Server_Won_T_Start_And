@@ -1,0 +1,5 @@
+Error: Error: "Server Won'T Start And Shows An Error Message That Says 'Unable To Access Jarfile' In The Pterodactyl Panel"
+
+Solution: 1. First, make sure that you have uploaded the correct .jar file for your Minecraft server. You can do this by checking the name of the .jar file in the Pterodactyl Panel and comparing it with the file name on your server's FTP.
+
+2. If the file names match, check the permissions of the .

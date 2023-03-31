@@ -1,0 +1,3 @@
+Error: Error: "A Modpack Failed To Install Properly On My Pterodactyl Panel Minecraft Server And Now My Server Won'T Start."
+
+Solution: 1. Delete the modpack: First, you need to delete the modpack that you installed on your server. Log in to your Pterodactyl panel account and go to the "Files" section. From there, navigate to the location of the modpack (usually in the "mods" folder). Select the modpack and delete it

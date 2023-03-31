@@ -1,0 +1,6 @@
+Error: Error: "JVM File Not Found Or Server Is Not Installed"
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Go to the "Server Configuration" section of your Minecraft server.
+3. Scroll down to the "JVM Path" field and ensure that you have the correct file path for your server's Java installation.
+4. If you do not have Java installed on your server, you can install it via SSH by running the appropriate command for your Linux distribution

@@ -1,0 +1,8 @@
+Error: Error: "Cannot Create Server - Failed To Allocate Server."
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the "Servers" page.
+2. Click on the server that is showing the error.
+3. Click on the "Console" tab to view the server console.
+4. Look for any error messages that may explain the issue. If you see an error message like "Not enough memory allocated", then the issue could be related to memory

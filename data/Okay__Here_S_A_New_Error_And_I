@@ -1,0 +1,6 @@
+Error: Okay, Here'S A New Error And Its Solution.
+
+Error: "Server Jar File Does Not Exist" When Trying To Start A Minecraft Server In Pterodactyl Panel.
+
+Solution: 1. Login to your Pterodactyl Panel and go to the "File Manager" section.
+2. Navigate to the server files and make sure that the "server.jar" file exists. If it does not exist, download it from the official Minecraft website and upload it to the server using an FTP

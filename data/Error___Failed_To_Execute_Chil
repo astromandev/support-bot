@@ -1,0 +1,10 @@
+Error: Error: "Failed To Execute Child Process "/Usr/Local/Bin/Node" (No Such File Or Directory)"
+
+Step-By-Step
+
+Solution: 1. This error occurs when the Pterodactyl panel can't find the Node.js binary file in its expected location.
+2. Firstly, you need to check if Node.js has been installed on your system or not. To check, open your terminal and run the following command:
+   ```
+   node -v
+   ```
+   If it returns "command not

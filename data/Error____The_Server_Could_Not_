@@ -1,0 +1,9 @@
+Error: Error:
+
+"The Server Could Not Bind To The Port. Maybe Another Server Is Already Running On That Port?"
+
+Solution: This error occurs when another Minecraft server, or any other application is already using the same port that you have specified in the server.properties file. Here's how you can resolve the issue:
+
+1. Open the server.properties file in a text editor such as Notepad.
+
+2. Find the line that says "server-port=" and change the number to a different port number that is not in

@@ -1,0 +1,9 @@
+Error: Error: "Error Starting The Minecraft Server. Could Not Reserve Enough Space For 2097152KB Object Heap"
+
+Solution: Step 1: Firstly, log into your Pterodactyl panel account and click on your server tab.
+
+Step 2: Next, click on the ‘File Manager’ option that you see on the left side of the dashboard.
+
+Step 3: After that, click on the ‘New File’ button and create a new file called ‘.htaccess’.
+
+Step

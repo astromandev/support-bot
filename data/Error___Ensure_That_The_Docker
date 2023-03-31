@@ -1,0 +1,9 @@
+Error: Error: "Ensure That The Docker Interface IP Address (172.18.0.1) And The SFTP IP Address (172.18.0.4) Are Free And Allowed To Be Used By Docker."
+
+Solution: 1. Open the Pterodactyl panel and navigate to the server that is giving you the error.
+
+2. Click the "Console" button in the left-hand menu.
+
+3. Type the command "ifconfig" into the console and hit enter.
+
+4.

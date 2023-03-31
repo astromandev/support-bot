@@ -1,0 +1,6 @@
+Error: One Common Error That Can Occur When Using The Pterodactyl Panel For Your Minecraft Server Is The "Paper.Jar File Not Found" Error. This Error Occurs When The Server Panel Is Unable To Locate The Paper.Jar File, Which Is Required To Run A Paper Minecraft Server.
+
+Step-By-Step
+
+Solution: 1. Login to your Pterodactyl panel and navigate to the File Manager for your Minecraft server.
+2. Check to see if the paper.jar file is present in the server files

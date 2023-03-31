@@ -1,0 +1,6 @@
+Error: New Error: "Server Has Run Out Of Memory" During Startup On Pterodactyl Panel
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server console.
+2. Ensure that the server is completely turned off before proceeding with the fix.
+3. Locate and open the 'Startup' tab and select the 'Edit' button.
+4. Within the 'JVM Arguments' section, increase the amount of memory allocated to the server. For example,

@@ -1,0 +1,9 @@
+Error: New Error: "The Server Is Not Responding"
+
+Step-By-Step
+
+Solution: 1. Check Your Server Status: First, make sure the server is still running. If you are unsure, use the Pterodactyl panel to check its status.
+
+2. Check Your Internet Connection: Ensure that your internet connection is stable and not experiencing any issues. You can test this by trying to visit other websites.
+
+3. Restart Your Server: If the server is running but not responding, try restarting it

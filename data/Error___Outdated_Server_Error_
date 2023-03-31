@@ -1,0 +1,7 @@
+Error: Error: "Outdated Server Error" When Trying To Start The Server On A Pterodactyl Panel.
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Stop the server if it's running.
+3. Click on "File Manager" on the left-hand menu to navigate to your server files.
+4. Click on the gear icon next to the "server.properties" file to open the file in the text editor.
+5. Find the line that reads "

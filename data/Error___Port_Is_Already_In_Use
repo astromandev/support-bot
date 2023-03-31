@@ -1,0 +1,4 @@
+Error: Error: "Port Is Already In Use!" When Trying To Start A Minecraft Server On A Pterodactyl Panel.
+
+Solution: 1. First, ensure that the server is not already running. If it is, stop the server and try to start it again.
+2. If the server is definitely not running, check to see if another program is using the same port that the Minecraft server is trying to use. You can do this on a Linux server by running the command "sudo lso

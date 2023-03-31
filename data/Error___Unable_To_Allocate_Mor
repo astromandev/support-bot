@@ -1,0 +1,11 @@
+Error: Error: "Unable To Allocate More Memory: Increase -Xmx Argument"
+
+
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel.
+2. Click on the "Console" option for the server.
+3. Stop the server by typing "/stop" into the console and then hitting enter.
+4. Click on the "Startup Parameters" option and scroll down to find the "-Xmx" option.
+5. Increase the value of the "-Xmx" option to

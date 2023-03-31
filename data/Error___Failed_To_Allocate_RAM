@@ -1,0 +1,7 @@
+Error: Error: "Failed To Allocate RAM: Dlopen() Failed: Libjemalloc.So.2: Cannot Open Shared Object File: No Such File Or Directory"
+
+This Error Occurs When The Server Tries To Allocate RAM But Cannot Find The Required Library File.
+
+Solution: 1. Login to your server via SSH.
+2. Install the required library by running the following command: `sudo apt-get install libjemalloc2`
+3. Verify that the library installed successfully by running the command: `ls -l

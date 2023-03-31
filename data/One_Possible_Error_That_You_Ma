@@ -1,0 +1,5 @@
+Error: One Possible Error That You May Encounter When Using The Pterodactyl Panel For Your Minecraft Server Is An Issue With Server Jar Files Not Being Recognized. Here'S How You Can Fix This Error:
+
+Error: After Uploading A Server Jar File, The Pterodactyl Panel Is Not Recognizing The File And The Server Is Not Starting.
+
+Solution: Step 1: Check the file name and location - Make sure that the server jar file is named correctly and is in the correct location. The file

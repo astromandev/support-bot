@@ -1,0 +1,7 @@
+Error: New Error: "The Server Failed To Start. Please Check The Console Output."
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel and navigate to the "Console" section of your server.
+2. Check the console logs for any errors or warnings that may indicate why the server failed to start. These logs may contain information such as missing files, corrupted plugins, or syntax errors in your server files.
+3. Double-check that all required files and folders, including

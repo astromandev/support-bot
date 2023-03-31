@@ -1,0 +1,4 @@
+Error: Error: "Server Keeps Crashing With 'Internal Exception: Io.Netty.Handler.Codec.DecoderException: Java.Lang.IndexOutOfBoundsException: ReaderIndex(1) + Length(2) Exceeds WriterIndex(1): UnpooledHeapByteBuf(Ridx: 1, Widx: 1, Cap: 1)'"
+
+Solution: 1. Navigate to the "Settings" page of the Pterodactyl panel and select the "Startup" tab.
+2. Click on the "Edit Startup

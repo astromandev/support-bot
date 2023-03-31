@@ -1,0 +1,5 @@
+Error: Error: "The Server Is Not Responding"
+
+Solution: 1. Check your server status in the Pterodactyl panel. If it shows as "Offline," try restarting the server by clicking the "Restart" button.
+2. If the server is still unresponsive, try resetting the server by clicking the "Power" button and selecting "Reset Server."
+3. If the issue persists, try accessing the server console by clicking the "Console" button and entering the following command: "/etc/init

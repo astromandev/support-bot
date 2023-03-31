@@ -1,0 +1,7 @@
+Error: Error: "The Server Has Exceeded Its Memory Limit"
+
+Solution: 1. Log in to your Pterodactyl Panel and go to the "Servers" page.
+2. Click on the server that is experiencing the "exceeded memory limit" error.
+3. Click on "Console" to open the server console window.
+4. Review the console messages to confirm the specific error is caused by memory limit exceeded.
+5. Stop the server by typing "stop" and hitting enter on

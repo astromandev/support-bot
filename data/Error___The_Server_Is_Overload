@@ -1,0 +1,5 @@
+Error: Error: "The Server Is Overloaded And Is Shutting Down"
+
+Solution: 1. Check the server's current resources usage: To do this, go to your Pterodactyl panel and click on the "Console" option. This will bring up a terminal that you can use to check the server's current resource usage. Check the CPU and memory usage.
+
+2. Adjust server resources: Increasing the server's resources may help to resolve this issue. To do this, go to the "Resources"

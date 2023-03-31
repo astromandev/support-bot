@@ -1,0 +1,9 @@
+Error: Error: "The Server Is Unable To Startup Due To A Missing Or Corrupt Eula.Txt File."
+
+Solution: 1. Navigate to the root directory of your Minecraft server; This is the folder where the `server.jar` file is located.
+
+2. Create a new text file within the server's root directory and name it `eula.txt`.
+
+3. Open the `eula.txt` file and add the following line: `eula=true`
+
+4. Save and close the `eula.txt

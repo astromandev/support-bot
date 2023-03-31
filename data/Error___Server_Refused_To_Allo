@@ -1,0 +1,13 @@
+Error: Error: "Server Refused To Allocate Unsafe Memory" When Trying To Start The Minecraft Server In Pterodactyl Panel.
+
+Solution: 1.  Log in to your Pterodactyl Panel account and navigate to the server where you are experiencing the error.
+
+2.  Click on the 'Terminal' tab in the navigation panel.
+
+3.  Type the following command to navigate to your server files: 
+
+```
+cd /mnt/server
+```
+
+4.  Type the following command to

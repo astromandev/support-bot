@@ -1,0 +1,5 @@
+Error: Error: "Unable To Connect To Websocket At Ws://<Server IP>:8080/Socket/Websocket"
+
+Solution: 1. Make sure that the server has been started and is running correctly. If not, start it.
+2. Check to make sure that the server's IP address is correct.
+3. Check to ensure that the websocket is enabled in the Pterodactyl Panel. To do this, login to the panel, then click on "Servers" and select the server in question.

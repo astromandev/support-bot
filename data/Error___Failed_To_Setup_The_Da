@@ -1,0 +1,6 @@
+Error: Error: "Failed To Setup The Daemon Process - Error: Unable To Find A Javac Compiler"
+This Error Occurs When The Server Is Unable To Locate The Javac Compiler Needed To Run The Server.
+
+Solution: 1. Connect to your server through SSH.
+2. Install the JDK package on your server by running the following command: `sudo apt-get install openjdk-8-jdk`
+3. Once the installation is complete, navigate to the server directory by running the following command: `cd /

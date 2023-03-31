@@ -1,0 +1,6 @@
+Error: Error: "Server Will Not Start And Displays The Error Message 'Cannot Allocate Memory.'"
+
+Solution: This error message indicates that the server does not have enough RAM (Random Access Memory) to allocate to Minecraft. To resolve this error, you can increase the amount of RAM allocated to the server. Here's how:
+
+Step 1: Log in to your Pterodactyl panel and navigate to the server overview page.
+Step 2: Click on the "File Manager" option and navigate to the

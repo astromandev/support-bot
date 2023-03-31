@@ -1,0 +1,9 @@
+Error: Error: "Panel Is Not Connected Or Connection Has Been Lost."
+
+Step-By-Step
+
+Solution: 1. Check your network connection to make sure you are connected to the internet.
+2. Check if the Pterodactyl panel is down by visiting the website's status page or contacting support.
+3. Check if your server is powered on and has a stable internet connection.
+4. Try restarting your server via the Pterodactyl panel.
+5. If the issue persists, try uninstalling

@@ -1,0 +1,7 @@
+Error: Error:
+
+"Server Stopped Unexpectedly" Message In The Pterodactyl Panel While Trying To Start A Minecraft Server.
+
+Solution: 1. First, check if the server has enough memory allocated to it. To do this, go to the server's Configuration section in the Pterodactyl Panel and make sure that the Memory option is set to an appropriate value, depending on how much memory is available on the server.
+
+2. If the server has enough memory, the next step is to check

@@ -1,0 +1,6 @@
+Error: Error: "Failed To Bind To The Port" When Starting A Minecraft Server.
+
+Solution: 1. Open the Minecraft server properties file (server.properties).
+2. Find the line that says "server-port" and make sure it matches the port number you are trying to use.
+3. Check that no other program is currently using the same port. To do this, open the command prompt and type "netstat -a" to view a list of all open ports.
+4. If you find that

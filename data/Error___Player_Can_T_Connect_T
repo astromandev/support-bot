@@ -1,0 +1,5 @@
+Error: Error: "Player Can'T Connect To The Server After The Server Has Been Started On The Pterodactyl Panel."
+
+Solution: 1. Verify the server's status: Check if the server is online and available with the correct IP address and port. You can do this by going to the Pterodactyl panel's dashboard and verifying the server's status. Ensure that the server is up and running.
+
+2. Check if the firewall is blocking the connection: Verify if the server's firewall

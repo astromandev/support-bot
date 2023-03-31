@@ -1,0 +1,5 @@
+Error: Error: "Plugin X Is Not Working On My Pterodactyl Panel Minecraft Server And Crashes My Game"
+
+Solution: 1. First, make sure that the plugin is compatible with the server's version of Minecraft. Check the plugin's documentation or website to see if it supports the version that your server is running.
+2. If the plugin is compatible, try disabling and re-enabling it on your server. This can often fix any issues that the plugin may have had.
+3. If the

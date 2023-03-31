@@ -1,0 +1,5 @@
+Error: Error: The Server Refuses To Start And Gives An Error Message "Error: Could Not Find Or Load Main Class" In The Pterodactyl Panel.
+
+Solution: 1. Check the Java version: Make sure that you have Java installed on your server and it is up to date. You can check the Java version by running the command "java -version" in the terminal.
+
+2. Check the jar file: Make sure that the jar file you are trying to run exists in the correct directory

@@ -1,0 +1,9 @@
+Error: Error: "Exception In Thread "Server Thread" Java.Lang.NoClassDefFoundError: Com/Google/Gson/Gson"
+
+Solution: Step 1: Download the latest version of Gson from the official website (https://github.com/google/gson/releases)
+
+Step 2: Extract the downloaded .zip file and save it to your computer.
+
+Step 3: Open your server directory, locate the "lib" folder and place the extracted Gson jar file into that folder.
+
+Step 4: Restart your
