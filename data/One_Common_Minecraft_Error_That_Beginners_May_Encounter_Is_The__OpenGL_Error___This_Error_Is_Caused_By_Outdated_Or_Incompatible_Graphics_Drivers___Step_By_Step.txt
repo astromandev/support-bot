@@ -1,0 +1,8 @@
+Error: One Common Minecraft Error That Beginners May Encounter Is The "OpenGL Error." This Error Is Caused By Outdated Or Incompatible Graphics Drivers.
+
+Step-By-Step
+
+Solution: 1. Press the Windows key + R to open the Run dialogue box.
+2. Type "dxdiag" in the dialogue box and click "OK."
+3. In the DirectX Diagnostic Tool window that opens, go to the "Display" tab.
+4. Check if your graphics card name and driver date are listed. If not, update your

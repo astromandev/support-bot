@@ -1,0 +1,8 @@
+Error: Error: "Unable To Locate Java Runtime Environment" When Trying To Launch Minecraft.
+
+Solution: 1. Open your web browser and visit the Java website.
+2. Click on the "Java Download" button to download the latest version of Java.
+3. Once the download is complete, double-click on the downloaded file to start the installation process.
+4. Follow the on-screen instructions to install the Java Runtime Environment (JRE) on your computer.
+5. Restart your computer if necessary.
+6. Launch

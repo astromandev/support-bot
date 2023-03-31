@@ -1,0 +1,7 @@
+Error: One Common Minecraft Error That Beginners May Encounter Is The "Failed To Login: Invalid Session (Try Restarting Your Game)" Error. 
+
+Step-By-Step
+
+Solution: 1. First, make sure that your password is correct. Go to the official Minecraft website and try logging in there to verify your password. 
+2. If your password is correct, try logging out and then logging back in to your Minecraft launcher. 
+3. If that doesn't work, try restarting your computer and then logging back into

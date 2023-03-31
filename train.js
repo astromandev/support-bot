@@ -1,46 +1,24 @@
-// main.js
-
+// train.js
 import fetch from 'node-fetch';
 import dotenv from 'dotenv';
+import fs from 'fs';
+import path from 'path';
 
 dotenv.config();
 
-import fs from 'fs';
-
-async function main() {
-  try {
-    const data = 'Hello, world!';
-    await fs.promises.appendFile('file.txt', data);
-    console.log('Data written to file successfully');
-  } catch (error) {
-    console.error('Error writing data to file:', error);
-  }
-}
-
-main();
 const apiKey = process.env.OPENAI_API_KEY;
-const modelName = 'text-davinci-002';
-const openaiUrl = `https://api.openai.com/v1/completions`;
+const openaiUrl = `https://api.openai.com/v1/chat/completions`;
 
-const previousPromptsFile = 'previous_prompts.txt';
-let previousPrompts = new Set();
-if (fs.existsSync(previousPromptsFile)) {
-  previousPrompts = new Set(fs.readFileSync(previousPromptsFile, 'utf-8').split('\n'));
+const dataFolder = 'data';
+if (!fs.existsSync(dataFolder)) {
+  fs.mkdirSync(dataFolder);
 }
 
-async function generatePrompts() {
-  const prompt = 'Give me a list of 5 new common Minecraft errors and their step-by-step solutions for a beginner that were not mentioned before:';
+async function generateErrorSolution() {
+  const prompt = 'Give me a new common Minecraft error and its step-by-step solution for a beginner that were not mentioned before:';
   const response = await sendPromptToGPT(prompt);
-  const questions = response
-    .split('\n')
-    .filter(q => q.trim() !== '' && !previousPrompts.has(q));
-
-  fs.appendFileSync(previousPromptsFile, questions.join('\n') + '\n');
-  return questions;
+  return response;
 }
-
-let totalPrompts = 0;
-let totalTokens = 0;
 
 async function sendPromptToGPT(prompt) {
   try {
@@ -51,11 +29,9 @@ async function sendPromptToGPT(prompt) {
         'Authorization': `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        model: modelName,
-        prompt: `${prompt}\n\nSolution:`,
-        max_tokens: 1000,
-        n: 1,
-        temperature: 0.8,
+        model: 'gpt-3.5-turbo',
+        messages: [{ role: 'system', content: 'You are a helpful AI that provides step-by-step solutions for common Minecraft errors.' }, { role: 'user', content: prompt }],
+        max_tokens: 100,
       }),
     });
 
@@ -66,64 +42,51 @@ async function sendPromptToGPT(prompt) {
 
     const result = await response.json();
 
-    if (result.choices && result.choices.length > 0 && result.choices[0].text) {
-      const text = result.choices[0].text.trim();
-      totalTokens += text.split(' ').length;
-      totalPrompts += 1;
-      return text;
+    if (result.choices && result.choices.length > 0 && result.choices[0].message) {
+      return result.choices[0].message.content.trim();
     } else {
-      console.error('Error during GPT-3.5-Turbo API call:', result);
+      console.error(`Error during GPT-3.5-turbo API call: ${result}`);
       return '';
     }
-    
+
   } catch (error) {
-    console.error('Error during GPT-3.5-Turbo API call:', error);
+    console.error(`Error during GPT-3.5-turbo API call: ${error}`);
     return '';
   }
 }
 
-fs.writeFileSync('dataset.csv', 'Error,Step-by-Step Solution\n');
+function formatErrorMessage(errorMessage) {
+  // Replace any underscores with spaces
+  errorMessage = errorMessage.replace(/_/g, ' ');
 
-const popularMods = [
-  'How to install OptiFine for Minecraft?',
-  'How to install Minecraft Forge?',
-  'How to install Fabric Loader for Minecraft?',
-  // Add more mod names here
-];
+  // Capitalize the first letter of each word
+  errorMessage = errorMessage.replace(/\b\w/g, firstLetter => firstLetter.toUpperCase());
 
-async function storePromptsAndResponses() {
-  const prompts = await generatePrompts();
+  // Replace any backslashes with forward slashes
+  errorMessage = errorMessage.replace(/\\/g, '/');
 
-  for (const prompt of prompts) {
-    const response = await sendPromptToGPT(prompt);
-    fs.appendFileSync('dataset.csv', `"${prompt}","${response}"\n`);
-  }
-
-  for (const mod of popularMods) {
-    const response = await sendPromptToGPT(`${mod} Provide a step-by-step guide for a beginner.`);
-    fs.appendFileSync('dataset.csv', `"${mod}","${response}"\n`);
-  }
-
-  console.log('Dataset has been created successfully.');
+  // Return the formatted error message
+  return errorMessage;
 }
 
-setInterval(async () => {
-  const costPerToken = 0.002 / 1000;
-  const amountSpent = totalTokens * costPerToken;
-  console.log(
-    `Total prompts: ${totalPrompts}\nTotal tokens: ${totalTokens}\nAmount spent: $${amountSpent.toFixed(2)}`
-  );
-
-  const prompts = await generatePrompts();
-  for (const prompt of prompts) {
-    const response = await sendPromptToGPT(prompt);
-    fs.appendFileSync('dataset.csv', `"${prompt}","${response}"\n`);
+async function storeErrorAndSolution() {
+  const response = await generateErrorSolution();
+  const errorAndSolution = response.split('Solution:');
+  if (errorAndSolution.length === 2) {
+    const errorText = formatErrorMessage(errorAndSolution[0].replace('Error: Sure! Here\'s a common error and its solution:', '').trim());
+    const solutionText = errorAndSolution[1].trim();
+    const fileName = `${errorText.replace(/[^a-zA-Z0-9]/g, '_')}.txt`;
+    fs.writeFileSync(path.join(dataFolder, fileName), `Error: ${errorText}\n\nSolution: ${solutionText}\n`);
+    console.log(`Stored error and solution in file: ${fileName}`);
   }
+}
 
-  for (const mod of popularMods) {
-    const response = await sendPromptToGPT(`${mod} Provide a step-by-step guide for a beginner.`);
-    fs.appendFileSync('dataset.csv', `"${mod}","${response}"\n`);
-  }
+(async () => {
+  // Run the function once before starting the interval
+  await storeErrorAndSolution();
 
-  console.log('Dataset has been updated successfully.');
-}, 30000);
+  // Set an interval to generate errors and solutions continuously
+  setInterval(async () => {
+    await storeErrorAndSolution();
+  }, 2000); // Adjust the time interval as needed (in milliseconds)
+})();

@@ -1,0 +1,7 @@
+Error: Sure, Here'S A New Error And Its Solution:
+
+Error: "Failed To Login: Invalid Session (Try Restarting Your Game)"
+
+Solution: 1. Close Minecraft and reopen it. This will sometimes fix the issue and allow you to log back in.
+2. Reset your internet connection. Disconnect from the internet and then reconnect to see if this clears up the issue.
+3. Restart your computer. This will clear out any caches or temporary files that may be interfering with Minecraft's ability to connect to servers

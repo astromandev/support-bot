@@ -1,0 +1,9 @@
+Error: Here'S A New Common Minecraft Error And Its Step-By-Step Solution For A Beginner:
+
+Error Message: "Can'T Connect To Server"
+
+Solution: 1. Check that you are connected to the internet. If you're not connected, you won't be able to connect to a server.
+
+2. Make sure the server address is correct. Double check that you have entered the correct server address in the Multiplayer menu. If you are joining a friend's server, ask them for the correct address.
+
+3

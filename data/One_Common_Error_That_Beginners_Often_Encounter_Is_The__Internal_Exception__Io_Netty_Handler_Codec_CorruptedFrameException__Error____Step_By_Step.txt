@@ -1,0 +1,9 @@
+Error: One Common Error That Beginners Often Encounter Is The "Internal Exception: Io.Netty.Handler.Codec.CorruptedFrameException" Error. 
+
+Step-By-Step
+
+Solution: 1. Check your internet connection - this error is often caused by a weak or unstable internet connection.
+
+2. Try restarting your modem and router - This can help refresh your connection and fix any errors.
+
+3. Clear your Minecraft's cache - Go to the Minecraft launcher and click on the "Launch Options" tab. Under the version you are using

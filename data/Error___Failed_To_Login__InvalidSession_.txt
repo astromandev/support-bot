@@ -1,0 +1,7 @@
+Error: Error: "Failed To Login: InvalidSession"
+
+Solution: 1. Check if the Minecraft servers are down. You can check the status of the Minecraft servers on the official Minecraft Server Status page.
+2. Clear your browser cache and cookies. Invalid sessions are often caused by corrupted or outdated cookies.
+3. Restart your Minecraft launcher, making sure to fully close the application before restarting.
+4. Verify your account credentials. Your account might have been compromised, or your login details might have been changed.
+5
