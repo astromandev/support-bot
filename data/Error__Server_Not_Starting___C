@@ -1,0 +1,7 @@
+Error: Error: Server Not Starting / Crashing On Startup With Error "Error: Unable To Access Jarfile"
+
+Solution: 1. Check if the server jarfile exists: 
+   - Login to your Pterodactyl panel and go to the "File Manager" of the server.
+   - Check if the server jarfile exists in the main directory or in the server's specified jarfile directory.
+2. Check if the server jarfile has been renamed:
+   - Look at the main directory or jar

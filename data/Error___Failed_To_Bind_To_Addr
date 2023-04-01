@@ -1,7 +1,7 @@
-Error: Error: "Failed To Bind To Address": This Error Occurs When The Minecraft Server Is Unable To Bind To The IP Address And Port Specified In The `Server.Properties` File.
+Error: Error: "Failed To Bind To Address X.X.X.X:XXXXX: Address Already In Use"
 
-Solution: 1. Check that the IP address and port specified in the `server.properties` file are correct.
+This Error Occurs When There Is Already A Process Using The Same Port Number As Your Minecraft Server In The Specified IP Address. This Can Happen When Either Another Minecraft Server Is Running On The Same IP Address Or Some Other Program Is Using The Same Port.
 
-2. Ensure that the IP address specified is the same as the IP address of the server.
+Solution: 1. First, you need to identify the program that is using the port which is preventing Minecraft from binding the address. 
 
-3. Check if there is any other application or service running on the same port. If so, either shut down that
+   For Windows

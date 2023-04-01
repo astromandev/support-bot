@@ -1,0 +1,8 @@
+Error: Here Is A Possible New Pterodactyl Panel Minecraft Server Related Error And Its Solution:
+
+Error: "Failed To Start Minecraft Server: Error: Unable To Access Jarfile Server.Jar"
+
+Solution: 1. Log in to the Pterodactyl Panel as an administrator.
+2. Click on the server that is experiencing the error.
+3. Click on the "Console" tab to access the command line interface.
+4. Type "cd /home/container" to navigate to the server's directory

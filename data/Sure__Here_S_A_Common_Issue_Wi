@@ -1,0 +1,9 @@
+Error: Sure, Here'S A Common Issue With Pterodactyl Panel For Minecraft Servers:
+
+**Error:** "Server Startup Failed. SpawnEgg Cannot Be Cast To Class Org.Bukkit.Material."
+
+**Cause:** This Error Occurs When A Plugin Or Configuration Attempts To Use A SpawnEgg As A Material Object, But It'S Not Compatible With The Version Of Minecraft You'Re Running.
+
+**
+
+Solution: ** There are several ways to fix this error, depending on what's causing it. Here's a step-by-step

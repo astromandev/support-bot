@@ -1,0 +1,5 @@
+Error: Error: "The Minecraft Server Failed To Start. Please Try Again Later Or Contact An Administrator If This Error Persists."
+
+Solution: 1. Check the server logs - The server logs can provide insight into the possible causes of the error. In the Pterodactyl panel, navigate to the server's console, and review the logs to identify any errors or warnings.
+
+2. Check the allocated memory - If the allocated memory isn't sufficient for the server to start, it may encounter this error. Ensure

@@ -1,0 +1,6 @@
+Error: Error: Failed To Bind To Address [::]:25565: Permission Denied (Your IP Address).
+
+Solution: Step 1: Open a command prompt or terminal window on your PC.
+Step 2: Type `ipconfig` on Windows or `ifconfig` on Linux to find your local IP address. 
+Step 3: Go to your Pterodactyl control panel and select "Servers" from the sidebar menu. 
+Step 4: Select your Minecraft server and click on

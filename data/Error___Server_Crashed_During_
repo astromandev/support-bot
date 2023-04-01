@@ -1,0 +1,5 @@
+Error: Error: "Server Crashed During Start Up"
+
+Solution: 1. Log into the Pterodactyl panel and navigate to the "Console" tab for the affected server.
+2. Look for any error messages related to the crash. A common cause of server crashes is a lack of available memory. Check to see if the server is maxing out its allocated RAM.
+3. Try increasing the server's RAM allocation in the "Configuration" tab, by adjusting the "Server Memory" field value

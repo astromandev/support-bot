@@ -1,5 +1,6 @@
-Error: Error: "Server Cannot Start Because Java Version Is Not Compatible."
+Error: Error: "Server Cannot Start Because Of A Memory Allocation Error."
 
-Solution: 1. Check the version of Java installed on your machine: To do this, open the command prompt and type "java -version". This will show you the current version of Java installed on your machine.
-
-2. Check the recommended version of Java for your server: Go to the Pterodactyl panel and check the recommended version of Java for your server. Make sure the version of Java on your machine is compatible with
+Solution: 1. Log in to your Pterodactyl panel and navigate to your server's dashboard.
+2. Click on the "Console" tab.
+3. Enter the following command to see how much memory is currently allocated to the server: "java -XX:+PrintFlagsFinal -version | grep -iE '(max|heapsize|permsize)'"
+4. Check the output to see how much memory is currently

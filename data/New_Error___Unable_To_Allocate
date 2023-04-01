@@ -1,7 +1,9 @@
-Error: New Error: "Unable To Allocate More RAM To Minecraft Server"
+Error: New Error: "Unable To Allocate Minecraft Server Instance, No Nodes Have The Minecraft Service Installed"
 
-Solution: Step 1: Access the Pterodactyl Control Panel and navigate to your Minecraft server. 
+Solution: Step 1: Log in to your Pterodactyl panel and click on the "Nodes" tab on the sidebar.
 
-Step 2: Click on "Console" and login to your server with your admin credentials. 
+Step 2: Next, click on the "Add New" button and enter the necessary information to add a new node.
 
-Step 3: Type the command " java -XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap -Xmx<=RAM Value> -Xms<=RAM Value> -jar server.jar
+Step 3: After adding the new node, click on the "Configuration" button for the node you just created.
+
+Step 4:

@@ -1,15 +1,5 @@
-Error: One Error That Can Occur On A Pterodactyl Panel Minecraft Server For Beginners Is:
+Error: One Error That Can Occur On A Pterodactyl Panel Minecraft Server Is A "Server Unable To Start" Error.
 
-**Error:** "Failed At The Minecraft Installation Process. Error Running `/Home/Container/Server.Jar`" 
+Solution: 1. First, make sure that you have allocated enough resources to the server. Check if the server has enough RAM, CPU cores, and disk space. You can do this by going to the "Configuration" tab and checking the resources allocated to the server.
 
-**
-
-Solution: **
-
-1. Log in to your Pterodactyl panel and navigate to the affected server's dashboard.
-
-2. Click on "File Manager" in the left sidebar.
-
-3. Navigate to the "logs" folder and locate the file "subdomain.log."
-
-4. Open the
+2. Check the server logs for any errors. You can do this by going to the "Console"

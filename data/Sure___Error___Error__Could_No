@@ -1,0 +1,11 @@
+Error: Sure!
+
+Error: "Error: Could Not Initialize Proxy - No Session"
+
+Solution: Step 1: Log in to your Pterodactyl panel dashboard and select your Minecraft server.
+
+Step 2: Navigate to the "Startup" tab.
+
+Step 3: Scroll down to the "Server JAR File" section and confirm that the correct server .jar file is selected and the correct version is set.
+
+Step 4: Check if the "Server JAR Arguments" field is empty,

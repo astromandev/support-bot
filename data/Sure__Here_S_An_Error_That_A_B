@@ -1,13 +1,13 @@
-Error: Sure. Here'S An Error That A Beginner Might Encounter While Using Pterodactyl Panel To Manage Their Minecraft Server: 
+Error: Sure, Here'S An Error That A Beginner Might Encounter While Using The Pterodactyl Panel For Their Minecraft Server:
 
-**Error:** "Fatal Error During Server Start: Java.Lang.ExceptionInInitializerError"
+**Error:** Server Crashes With The Error "Native Transport Has Failed To Initialize Even Though Cassandra Is Running."
 
 **
 
 Solution: **
 
-This error occurs when there's an issue with the Java JRE (Java Runtime Environment) version installed on the server. 
+Step 1: Log in to your server using SSH or the File Manager in your hosting panel.
 
-Here's how you can fix it:
+Step 2: Navigate to the directory where the Minecraft server is installed.
 
-1. First, check if you have installed the correct version of Java JRE required for your server
+Step 3: Open the **server.properties** file using a text editor

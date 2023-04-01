@@ -1,0 +1,8 @@
+Error: Error: "Server Unable To Connect To Database" 
+
+Step-By-Step
+
+Solution: 1. Go to your Pterodactyl panel and login to your account.
+2. Navigate to "Servers" and click on  the server which is facing this issue.
+3. Click on "Database" tab and verify the database host, database name, database user and password are correctly entered.
+4. Make sure the database server is running, and that the server is able to connect to it by p

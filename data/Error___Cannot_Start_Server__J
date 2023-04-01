@@ -1,0 +1,4 @@
+Error: Error: "Cannot Start Server: Java Version Misconfigured. Please Check Your Java Installation."
+
+Solution: 1. First, check that Java is installed on the server. To do this, run the command "java -version" in the terminal window. If Java is installed, the version number will be displayed.
+2. Check that the correct version of Java is installed. The recommended version for Minecraft servers is Java 8 (JRE 8). To install Java 8, run the command:

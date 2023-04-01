@@ -1,0 +1,7 @@
+Error: Error: "The Server Jar Provided By Pterodactyl Is Empty Or Missing Files"
+
+Solution: 1. First, make sure you have selected the correct server jar in the Pterodactyl panel. You can do this by going to the "Startup" tab and checking that the server jar is correct.
+
+2. If the correct jar is selected, try restarting the server from the "Console" tab. Sometimes the server may just need a restart to fix this issue.
+
+3. If

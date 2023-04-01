@@ -1,0 +1,5 @@
+Error: Error: "MySQL Has Gone Away" In Pterodactyl Panel While Managing The Minecraft Server Database.
+
+Solution: Step 1: Check the MySQL Connection Settings: You need to ensure that your MySQL connection settings in your panel are correct. Go to your panel's "Administration" page and verify that the "Database Host" and "Database Port" are correct. You may also need to check the "Database Username" and "Database Password" settings.
+
+Step 2: Increase "wait_timeout

@@ -1,7 +1,5 @@
 Error: Sure, Here'S One:
 
-Error: "Failed To Load Resource: Net::ERR CONNECTION REFUSED" When Trying To Access The Pterodactyl Panel.
+Error: "Failed To Bind To Port," Which Occurs When Your Pterodactyl Panel Minecraft Server Is Unable To Bind To The Required Port.
 
-Solution: Step 1: Check if your server is running. If it is not running, start it.
-
-Step 2: Check if your server has enough resources available. If your server is out of memory, it may not be able to serve requests. You can increase the amount of memory available to your server by editing the launch
+Solution: 1. Check if the port you are trying to bind to is already in use. You can use the "netstat -ano | findstr <port number>" command in the command prompt to check for any active connections on that port. If there is an active connection, you should terminate the process or change

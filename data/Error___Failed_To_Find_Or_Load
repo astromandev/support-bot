@@ -1,0 +1,5 @@
+Error: Error: "Failed To Find Or Load The Main Class: Pterodactyl.Jar"
+
+Solution: 1. The first step is to ensure that you have downloaded the Pterodactyl panel correctly from the official website of the Pterodactyl panel.
+2. Check whether the filename of the downloaded Pterodactyl panel file is Pterodactyl.jar. If not, then try downloading the correct file from the official website.
+3. Ensure that you have installed the

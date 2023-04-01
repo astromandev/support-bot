@@ -1,0 +1,4 @@
+Error: Error: "Cannot Establish Connection To The Database. Please Check Your Credentials And Try Again."
+
+Solution: 1. Check your database credentials: username, password, and database name. Make sure they are correct and match with the ones you entered in the Pterodactyl panel.
+2. Verify that your database has been fully created and set up properly. You may want to check the database server logs for any errors, make sure the database user has appropriate permissions, and that the database schema has been

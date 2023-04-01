@@ -1,7 +1,7 @@
-Error: Error: "Failed To Download File The Contents Of The File Are Missing"
+Error: Error: "Failed To Download File. The File Contents Differ From What Was Expected. Name: Server.Jar"
 
-Solution: 1. Log into your Pterodactyl panel and navigate to the affected server.
-2. Go to the "File Manager" option and look for the file with the missing contents.
-3. Right-click on the file and select "Delete" from the drop-down menu.
-4. Return to the main Pterodactyl panel and click on "Settings."
-5. Scroll down to the "Server Type
+Solution: 1. Check the server version: Ensure that you have selected the correct server version in the Pterodactyl panel. Some versions are not compatible with certain mods or plugins, so double-check that you're using the right version.
+
+2. Delete the server.jar file: Go to your server’s root directory from the console and delete the server.jar file.
+
+3. Download new

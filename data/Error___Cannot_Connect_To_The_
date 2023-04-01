@@ -1,7 +1,5 @@
-Error: Error: "Cannot Connect To The Minecraft Server Using Pterodactyl Panel."
+Error: Error: "Cannot Connect To The Server After Creating A New Minecraft Instance In The Pterodactyl Panel."
 
-Solution: 1. Check the server status - Make sure the server is online and running smoothly. You can do this by checking the server status on the Pterodactyl panel dashboard.
-
-2. Verify the server IP address - Make sure the IP address you are using to connect is correct. Check for typos and make sure it matches the IP address listed under the Server tab.
-
-3. Check firewall settings -
+Solution: 1. Check if the server is online and running by going to the Pterodactyl panel and selecting the "Console" tab.
+2. In the console, type "systemctl status minecraft" to see if the server is running. If it is not running, start the server by typing "systemctl start minecraft" in the console.
+3. Check the server

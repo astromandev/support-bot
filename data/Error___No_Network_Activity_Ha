@@ -1,0 +1,11 @@
+Error: Error: "No Network Activity Has Been Detected In The Past Few Minutes."
+
+Solution: This error occurs when your Minecraft server has been inactive for a certain period of time. The Pterodactyl panel monitors network activity and will give you a warning if it detects no network activity.
+
+Follow these steps to solve the problem:
+
+1. Log in to the Pterodactyl panel and navigate to your server's dashboard.
+
+2. Click on the console tab to access the server console.
+
+3.

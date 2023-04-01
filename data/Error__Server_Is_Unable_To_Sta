@@ -1,0 +1,9 @@
+Error: Error: Server Is Unable To Start After Updating The Server Jar File.
+
+Solution: Step 1: In the Pterodactyl Panel, go to the server and select 'File Manager' from the left menu.
+
+Step 2: Navigate to the 'minecraft' directory and locate the 'server.jar' file.
+
+Step 3: Delete the new 'server.jar' file that was uploaded.
+
+Step 4: Click 'Upload' from the top menu to upload the old 'server.jar'

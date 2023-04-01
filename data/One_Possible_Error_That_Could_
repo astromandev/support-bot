@@ -1,0 +1,13 @@
+Error: One Possible Error That Could Occur In A Pterodactyl Panel Minecraft Server Is:
+
+**Error:** "Server Not Starting After Changing The Server Jar File."
+
+**Step-By-Step
+
+Solution: **
+
+1. First, make sure you have uploaded the correct version of the server jar file into the server directory using the File Manager option in the Pterodactyl panel.
+
+2. Next, try restarting the server and check if it starts successfully.
+
+3. If the server still does not start,

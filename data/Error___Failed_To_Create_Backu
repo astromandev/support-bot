@@ -1,0 +1,6 @@
+Error: Error: "Failed To Create Backup For Server"
+
+Solution: 1. Navigate to the Pterodactyl panel and login with your admin credentials.
+2. From the dashboard, select the server on which you are facing this issue.
+3. Click on the "File Manager" tab and navigate to the "Backups" folder.
+4. Check if the folder has enough space to create a backup of the server. If the folder is full, you will need to delete some old backups to create

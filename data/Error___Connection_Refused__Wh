@@ -1,5 +1,4 @@
-Error: Error: "Connection Refused" While Trying To Connect To A Pterodactyl Panel Minecraft Server.
+Error: Error: "Connection Refused" When Trying To Connect To The Pterodactyl Panel
 
-Solution: 1. Check the server status: First, check if your server is up and running. You can do this by using the server status feature on your panel. If the status is offline, start the server and try again.
-
-2. Check the server IP address: Make sure that you are trying to connect to the correct server IP address. Sometimes, the IP address may change,
+Solution: 1. Check your internet connection to ensure that it is stable and working properly.
+2. Verify that the Pterodactyl panel server is running and listening on the correct port. You can do this by checking the panel logs or by running the command "netstat -tulpn | grep LISTEN" on the server terminal to see if the panel is listening on the correct port.

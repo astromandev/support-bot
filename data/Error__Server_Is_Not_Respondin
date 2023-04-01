@@ -1,0 +1,6 @@
+Error: Error: Server Is Not Responding
+
+Solution: 1. Check if the server is actually offline or just experiencing delays by checking the server status page.
+2. Check the server logs for any errors that may indicate a problem with the server.
+3. Restart the server through the Pterodactyl panel by clicking on "Restart" and waiting for a few minutes.
+4. If the server still does not respond, try rebuilding or reinstalling the server from scratch through the Pterodactyl panel

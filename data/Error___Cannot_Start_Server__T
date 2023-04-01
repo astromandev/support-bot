@@ -1,0 +1,10 @@
+Error: Error: "Cannot Start Server. The Allocated RAM Exceeds The Maximum Amount Allowed."
+
+Solution: 1. Log into your Pterodactyl control panel and navigate to the "Schedules" section.
+2. Select the "Task Manager" option.
+3. Click the "Create" button to create a new task.
+4. Fill out the task form with the following:
+   - Task Name: Restart Server
+   - Action: Send command
+   - Command: stop
+   - User:

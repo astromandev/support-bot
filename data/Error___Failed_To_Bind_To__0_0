@@ -1,0 +1,7 @@
+Error: Error: "Failed To Bind To /0.0.0.0:25565: Address Already In Use"
+
+Solution: 1. This error message means that another program or process is already using the port 25565 that your Minecraft server is trying to use. To fix this, you will need to identify the other program or process and stop it.
+
+2. Open a terminal window and type the following command:
+
+   `sudo netstat -tlnp | grep 25565`

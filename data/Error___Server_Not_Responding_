@@ -1,0 +1,7 @@
+Error: Error: "Server Not Responding" Or "Connection Refused"
+ 
+This Error Can Occur When Trying To Connect To A Minecraft Server Through The Pterodactyl Panel. It Is Usually Caused By Either A Firewall Issue Or Incorrect Server Settings.
+
+Solution: 1. Check that the server is actually running by logging in to the Pterodactyl panel.
+2. If the server is running, try connecting to it from a different device or from a different network to rule out firewall issues.
+3.

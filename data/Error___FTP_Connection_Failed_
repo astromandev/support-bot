@@ -1,0 +1,5 @@
+Error: Error: "FTP Connection Failed" While Using The Pterodactyl Panel For Your Minecraft Server.
+
+Solution: 1. Check that your FTP server is properly configured and running. This can be done using a command-line FTP client or a web-based FTP client. Make sure that you can connect to your FTP server using the same credentials you provided in the Pterodactyl panel.
+
+2. Verify that the hostname you entered in the panel for your server's FTP details is correct. Make sure

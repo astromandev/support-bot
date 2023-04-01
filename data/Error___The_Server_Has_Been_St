@@ -1,0 +1,7 @@
+Error: Error: "The Server Has Been Stopped. Please Contact Your Server Administrator If This Error Persists."
+
+Solution: 1. Log in to your Pterodactyl panel account.
+2. Click on the "Servers" tab and locate the server that is experiencing the issue.
+3. Click on the server name to access the server management dashboard.
+4. From here, click on the "Console" tab to open the server console.
+5. Check the console for any error messages or notifications. It may

@@ -1,0 +1,13 @@
+Error: Here Is A Common Error That Can Occur In Pterodactyl Panel Minecraft Servers And Its Step-By-Step Solution:
+
+**Error**: "Failed To Start The Daemon Process. This Problem Might Be Caused By Incorrect Configuration Of The Daemon. For Example, An Unrecognized Jvm Option Is Used."
+
+**
+
+Solution: **
+
+1. Log in to your server using the SSH protocol.
+
+2. Go to your Minecraft server directory by running the command: `cd /home/container`.
+
+3. Enter the command `nano

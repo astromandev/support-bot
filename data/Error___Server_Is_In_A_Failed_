@@ -1,0 +1,4 @@
+Error: Error: "Server Is In A Failed State" When Trying To Start A Minecraft Server On The Pterodactyl Panel.
+
+Solution: 1. Go to the "Console" section of the server in the Pterodactyl panel and check the error message that is being displayed. This will help identify the exact issue with starting the server.
+2. If the error message says "Error: Could not reserve enough space for object heap", increase the server's memory allocation by going to "Settings

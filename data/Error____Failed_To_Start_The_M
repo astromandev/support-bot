@@ -1,0 +1,11 @@
+Error: Error:
+
+"Failed To Start The Minecraft Server. No Further Information Available."
+
+Solution: This error can occur due to various reasons, including incorrect server configuration or configuration files. Here's how to solve this error:
+
+1. Go to the Pterodactyl panel and navigate to the 'Console' tab of the server.
+
+2. Check the logs for any errors or warnings that may be causing the issue.
+
+3. If there are errors, try looking for solutions online, or check the server configuration

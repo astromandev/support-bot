@@ -1,7 +1,7 @@
-Error: Error: "Failed To Verify Username! The Authentication Servers Are Currently Down For Maintenance."
+Error: Error: "Failed To Verify Username: This Session Has Been Invalidated". This Error Occurs In The Pterodactyl Panel When Trying To Start Up A Minecraft Server.
 
-Solution: Step 1: Check the status of the Minecraft authentication servers by visiting the Mojang Status page (https://help.mojang.com/).
+Step-By-Step
 
-Step 2: If the status shows that the authentication servers are down for maintenance, there's nothing you can do but wait until they're back up.
+Solution: 1. Stop the server and wait a few minutes. This error sometimes occurs due to ongoing issues with the Minecraft authentication servers. Waiting a few minutes can often resolve this issue.
 
-Step 3: If the status shows that the authentication servers are up and running, try restarting your server
+2. Check that the Minecraft user's account is in good standing. This error can also occur if the Minecraft account has been

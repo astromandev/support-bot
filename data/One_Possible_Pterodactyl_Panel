@@ -1,6 +1,11 @@
-Error: One Possible Pterodactyl Panel Minecraft Server Related Error That A Beginner Might Encounter Is The "Server Unable To Connect To MySQL Database" Error. This Error Occurs When The Server Is Unable To Connect To The MySQL Database, Which Is Necessary For The Pterodactyl Panel To Function.
+Error: One Possible Pterodactyl Panel Minecraft Server Related Error That A Beginner May Encounter Is:
 
-Step-By-Step
+**Error:** "Failed To Start The Server. Please Try Again Later."
 
-Solution: Step 1: Check the MySQL database settings
-- Verify that the MySQL database settings are correct by going to the "Settings" tab in the Pterodactyl panel
+**
+
+Solution: **
+
+1. Check the server logs for any error messages that indicate the cause of the problem. To do this, go to the Pterodactyl panel and click on the server name to access the dashboard. Then, click on "Console" to view the server logs.
+
+2. Look for any error messages

@@ -1,5 +1,6 @@
-Error: Error: "502 Bad Gateway" Message When Accessing The Pterodactyl Panel.
+Error: Error: "502 Bad Gateway" Message When Trying To Access The Pterodactyl Panel For A Minecraft Server.
 
-Solution: 1. First, check if the error message is specific to your server, or if it is affecting other users as well. If it's only affecting you, try clearing your browser's cache and cookies, and then try accessing the panel again.
-
-2. If the problem persists, check to see if the Pterodactyl service is running on your server. You can do this by logging into
+Solution: 1. Check if the Pterodactyl daemon is running by running the command `sudo systemctl status wings`.
+2. If the daemon is not running, start it by running the command `sudo systemctl start wings`.
+3. If the daemon is already running, restart it by running the command `sudo systemctl restart wings`.
+4. Check if the panel is accessible by

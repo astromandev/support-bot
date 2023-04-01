@@ -1,0 +1,10 @@
+Error: Here'S A Potential New Error And Its Solution:
+
+**Error**: "Unable To Install Server: There Was An Error While Downloading The Minecraft Server JAR File."
+
+**
+
+Solution: **
+
+1. Ensure that your server node has enough disk space available to download and store the server JAR file. You can check your available disk space by logging in to your Pterodactyl panel and navigating to the "Server Configuration" tab.
+2. Check that you have specified the correct version of Minecraft in the

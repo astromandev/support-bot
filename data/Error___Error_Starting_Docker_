@@ -1,0 +1,6 @@
+Error: Error: "Error Starting Docker Container: 403 Client Error"
+
+Solution: 1. First, make sure that your Pterodactyl panel is updated to the latest version.
+2. Check the Docker engine version on your server by running the command "docker version" via SSH.
+3. If your Docker version is outdated, follow the steps provided by your hosting provider to update Docker to the latest version.
+4. If your Docker version is already up-to-date, try clearing your browser cache and

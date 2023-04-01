@@ -1,0 +1,4 @@
+Error: Error: "Server Status Is Not Changing To 'Started' In Pterodactyl Panel"
+
+Solution: 1. Check if the server process is actually running. You can do this by connecting to your server with an SSH client and checking the running processes using the command `ps aux | grep java`.
+2. Make sure the startup command in your Pterodactyl panel is correct and matches the server startup command. You can check the startup command in your control panel under “Settings” and

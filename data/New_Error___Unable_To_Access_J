@@ -1,0 +1,5 @@
+Error: New Error: "Unable To Access Jarfile"
+
+Solution: 1. Check that the server jar file name in the pterodactyl panel matches the actual name of the file on the server. If they are not the same, change the filename in the panel to match the actual name of the file on the server.
+
+2. Check that the server jar file is located in the correct directory. By default, the server files are located in "/home/container/" on the server. If the jar

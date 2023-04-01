@@ -1,5 +1,9 @@
-Error: New Error: "Server Not Starting - Failed To Bind To Port 25565 Error"
+Error: New Error: "Server Not Starting After Installing A Plugin Through The Pterodactyl Panel"
 
-Solution: 1. Make sure that no other programs or applications are using port 25565. This can be checked by running the command "netstat -ano | findstr :25565" in Command Prompt (Windows) or Terminal (Mac or Linux).
-2. If another program is using that port, change your Minecraft server's port number to an unused port by editing the server.properties file.
-3.
+Solution: 1. Firstly, log in to your Pterodactyl panel and go to the server dashboard for the server facing the issue.
+
+2. Go to the file manager by clicking on the "File Manager" tab.
+
+3. Once you are in the file manager, navigate to the "/plugins" folder, and look for the plugin file that you recently installed. 
+
+4. Check if

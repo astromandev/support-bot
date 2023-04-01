@@ -1,0 +1,5 @@
+Error: Error: "Server Not Starting, Getting Stuck On 'Starting'"
+
+Solution: 1. Check your server logs for any errors or warnings. Look for any messages that may indicate what is causing the server to get stuck on starting. You can access the server logs through the pterodactyl panel.
+2. Check if there is enough RAM allocated to the server. You can adjust the amount of RAM in the Server Startup Parameters section of the panel.
+3. Make sure that your server jar file

@@ -1,0 +1,7 @@
+Error: Error: "Java Virtual Machine Is Not Installed"
+
+Solution: Step 1: Check if Java is installed on your server by running the command "java -version" in the terminal/command prompt.
+
+Step 2: If Java is not installed, you can install it by running the command "sudo apt-get install openjdk-8-jre" on Ubuntu or "yum install java-1.8.0-openjdk" on CentOS.
+
+Step 3: After installation, check if Java has been

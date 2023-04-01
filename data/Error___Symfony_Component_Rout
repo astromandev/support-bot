@@ -1,0 +1,7 @@
+Error: Error: "Symfony/Component/Routing/Exception/RouteNotFoundException: Unable To Generate A URL For The Named Route "Server.Console" As Such Route Does Not Exist."
+
+Solution: 1. Login to your Pterodactyl Panel.
+2. Navigate to "Servers" → "Your Server" → "File Manager".
+3. Click on the "Upload" button.
+4. Upload the .env file located in the main directory of your server.
+5. Edit the file .env in order to correct or add

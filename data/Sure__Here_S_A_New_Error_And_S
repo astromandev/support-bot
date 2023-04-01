@@ -1,11 +1,11 @@
-Error: Sure, Here'S A New Error And Solution:
+Error: Sure, Here'S A New Error And Solution For You:
 
-**Error:** "Failed To Bind Port: Address Already In Use"
+**Error:** "Failed To Start The Server: Exit Code: 1 / Unable To Find A Valid Main Class To Launch"
 
 **
 
 Solution: **
 
-This error occurs when the port that your Minecraft server is trying to use is already occupied by another service or program. To fix this error, you'll need to change the port that your server is using. Here are the steps to do it:
-
-1. Log in to your Pterodactyl panel and click on the "Console" button for your Minecraft
+1. Log in to your Pterodactyl Panel and select the affected Minecraft server.
+2. From the left-hand side menu, click on "File Manager" and navigate to the "settings" folder.
+3. Find a file named "eula.txt" and open it by

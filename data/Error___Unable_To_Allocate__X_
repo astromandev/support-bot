@@ -1,0 +1,5 @@
+Error: Error: "Unable To Allocate [X] MB Of RAM: Your Computer May Not Have Enough Memory Available."
+
+Solution: 1. First, try shutting down all unnecessary applications and processes running in the background of your computer to free up more memory.
+2. If the error still persists, check your Java version. Ensure you are using a 64-bit Java version if you have a 64-bit operating system, as this allows you to allocate more RAM to your Minecraft server.
+3. Adjust the server

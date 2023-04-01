@@ -1,0 +1,10 @@
+Error: Error: 500 Internal Server Error When Trying To Access The Pterodactyl Panel
+
+Solution: 1. Check if the server is actually running by connecting to it through ssh.
+
+2. Check if the panel installation is complete by running the following command: `cd /var/www/pterodactyl && php artisan p:environment:check`
+
+3. Check if the panel configuration is correct by making sure that the following are set in `.env` file:
+```
+APP_KEY=
+APP

@@ -1,0 +1,11 @@
+Error: Here'S An Error That You May Encounter While Installing A Minecraft Plugin On Pterodactyl Panel:
+
+**Error:** "Plugin XYZ Failed To Load On Server"
+
+**
+
+Solution: **
+
+1. First, check if the plugin is compatible with the server version you are using. If the server version is not supported, you may need to find a different version of the plugin or update your server to match the plugin requirements.
+
+2. Make sure that the plugin is installed in the correct directory. The plugin

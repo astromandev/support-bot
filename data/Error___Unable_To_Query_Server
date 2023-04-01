@@ -1,0 +1,9 @@
+Error: Error: "Unable To Query Server Info For Invite URL: Connect Timed Out"
+
+Solution: 1. Check if the server is running and accessible. You can do this by attempting to join the server manually through Minecraft.
+
+2. Check that the server IP and port in the Pterodactyl panel are correct.
+
+3. Verify that the server's firewall is not blocking connections to the IP and port.
+
+4. Ensure that the Pterodactyl panel has proper permissions to query the

@@ -1,0 +1,8 @@
+Error: Here'S One:
+
+Error: "The Server Is Running In Offline Mode. Authentication Is Disabled And Linkage Against User Premiums Is Impossible."
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server page that is showing the error.
+2. Click on “Startup” on the left-hand menu.
+3. Find the “Server Jar” section and ensure the correct version of Minecraft is selected.
+4. Scroll down to the “JVM Arguments” section and delete everything in

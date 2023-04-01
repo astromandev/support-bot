@@ -1,5 +1,5 @@
-Error: Error: "Unable To Connect To MySQL Database"
+Error: Error: "Unable To Connect To MySQL Database Server. MySQL Said: Can'T Connect To MySQL Server On 'Localhost' (111)"
 
-Solution: 1. Check if the MySQL server is running on the same machine as the panel. If not, make sure that the host and port of the MySQL server are correctly specified in the configuration file.
-2. Check the username and password for the MySQL server. Make sure they are spelled correctly and are authorized to access the database.
-3. Ensure that the MySQL version being used by the panel is compatible with the version running on the server. If
+Solution: 1. Check if the MySQL service is running. Type the command `systemctl status mariadb` to check if the service is running.
+2. If the service is not running, start it by typing `sudo systemctl start mariadb`.
+3. Check whether the MySQL service is set to start automatically on system boot. Type `sudo systemctl enable mariadb

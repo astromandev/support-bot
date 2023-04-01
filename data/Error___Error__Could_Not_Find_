@@ -1,5 +1,9 @@
-Error: Error: "Error: Could Not Find Or Load Main Class Com.Mojang.Authlib.Yggdrasil.YggdrasilMinecraftSessionService"
+Error: Error: "Error: Could Not Find Or Load Main Class Jar"
 
-This Error Message Usually Indicates That There Is An Issue With The Server.Jar File Or Its Dependencies, Which Is Preventing Minecraft From Starting Up Properly.
+Solution: Step 1: Check if the jar file path is correct. 
+- Open the file manager and navigate to the jar file location.
+- Check if the jar file name is spelled correctly with the proper uppercase and lowercase letters.
 
-Solution: 1. First, you'll need to check that the server.jar file is present in the correct location on your server. If it's not, download it from the Minecraft official website and upload it
+Step 2: Check if Java is installed properly. 
+- Open the terminal and enter: java -version
+- If Java is not installed, download and install Java from the official Java website

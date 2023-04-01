@@ -1,0 +1,8 @@
+Error: Error:
+One Common Error That Beginners May Face With Their Pterodactyl Panel Minecraft Server Is Being Unable To Access The Server Console Through The Pterodactyl Web Interface.
+
+Solution: Here are the steps to resolve this issue:
+
+1. Log in to your Pterodactyl panel and navigate to your server's dashboard.
+2. Click on the "Console" button on the left-hand side of the screen.
+3. Make sure that the console is not already open in another browser

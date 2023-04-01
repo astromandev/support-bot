@@ -1,0 +1,6 @@
+Error: Error: "Failed To Load Native Library 'Libcrypto.So'"
+
+Solution: 1. Log in to your Pterodactyl Panel account and navigate to your Minecraft server console.
+2. Type the command "ldd --version" to check if the dynamic linker works correctly. 
+3. If there is an error, you need to install the missing library using the command "sudo apt-get install libssl-dev" 
+4. Once the installation is complete, type "ls /usr/lib

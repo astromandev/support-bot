@@ -1,0 +1,7 @@
+Error: Error: "Not Enough RAM Allocated To The Minecraft Server In Pterodactyl"
+
+Solution: 1. Log in to your Pterodactyl control panel and navigate to the server you're experiencing this issue with.
+2. Click on the "Console" button on the left-hand sidebar.
+3. In the console window, type the following command and press enter:
+   `java -XshowSettings:vm -version`
+4. Take note of the maximum amount of RAM that can be

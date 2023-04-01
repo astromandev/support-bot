@@ -1,0 +1,7 @@
+Error: Error: "You Cannot Access The Server Console As It Is Currently Locked."
+
+Solution: 1. Log in to your Pterodactyl panel dashboard.
+2. Click on the "Console" tab on the left-hand side of the screen.
+3. Look for the "Unlock Console" button and click it.
+4. A pop-up will appear, asking for confirmation to unlock the console. Click "Unlock" to proceed.
+5. Once the console has been unlocked, you should be able to

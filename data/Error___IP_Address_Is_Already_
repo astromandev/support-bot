@@ -1,0 +1,7 @@
+Error: Error: "IP Address Is Already In Use By Another Server."
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to the server page giving the error.
+2. Click on the "Stop" button to turn off the server.
+3. Return to the server page and click on the "Server Settings" tab.
+4. Scroll down to the "Docker Container" section and click on "Rebuild" to deploy a new container with a fresh IP address.
+5

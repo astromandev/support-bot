@@ -1,7 +1,8 @@
-Error: Error: "Failed To Execute Start: The Container For This Server Could Not Be Created. Please Try Again Later."
+Error: Error: "Failed To Execute Startup Command" When Starting A Server On Pterodactyl Panel
 
-Solution: 1. Check if your server has enough disk space and memory available.
-2. Make sure that your server is updated to the latest version of Pterodactyl.
-3. Try restarting your server and see if this error persists.
-4. Check if the server's service container is running properly. If not, restart it.
-5. If none of the above solutions work
+Cause: This Error Occurs When The Startup Script For The Server Is Either Missing Or Incorrect, Which Prevents The Server From Starting Up Properly.
+
+Solution: Follow the steps below to fix this error:
+
+1. Login to your Pterodactyl panel and navigate to the "Startup" section of your server settings.
+2. Look for the "Startup Command" option and ensure that the command specified is

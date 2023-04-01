@@ -1,8 +1,5 @@
-Error: Error: "The Server Is Still Starting! Please Try Again In A Few Seconds."
+Error: Error: "The Server Is Still Starting Up. Please Wait Before Performing This Action."
 
-Solution: This error can occur when the server is still loading and is not yet ready to accept connections. To resolve this issue, you can try the following steps:
+Cause: This Error Occurs When You Try To Perform An Action On The Minecraft Server While It Is Still In The Process Of Starting Up, Such As Trying To Access The Console Or Upload A New File.
 
-Step 1: Wait for the server to finish loading
-The server needs some time to load all the necessary files and settings before it can accept connections. Wait for a few minutes and try to connect again.
-
-Step 2: Restart the server
+Solution: 1. Check the server status: Before performing any action on the server, make sure that it is completely started up first. You can check the server status on the Pterodactyl panel dashboard.

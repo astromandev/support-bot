@@ -1,0 +1,6 @@
+Error: Error: "Can'T Download Server Jar" On A Pterodactyl Panel Minecraft Server.
+
+Solution: 1. Log in to your Pterodactyl panel and go to the server dashboard.
+2. Click on "Console" and wait for the console window to open.
+3. Type the command "rm -rf /mnt/server/*" (without quotes) to clear any existing server files.
+4. Type the command "wget <URL of server jar file>" to download the server

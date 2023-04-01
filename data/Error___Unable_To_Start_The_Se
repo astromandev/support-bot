@@ -1,6 +1,9 @@
-Error: Error: "Unable To Start The Server: Unable To Bind To TCP Port 25565: Address Already In Use"
+Error: Error: "Unable To Start The Server. Error 1006: Connection Refused"
 
-Solution: 1. Open the Pterodactyl panel and navigate to your server.
-2. Click on the "Console" tab and check if any errors are present.
-3. If there are no errors present, run the command "netstat -ano | findstr :25565" in the console.
-4. This command will display the process ID (PID) using
+Solution: Step 1: Check server status
+- Go to your Pterodactyl panel and check if your server is running or stopped.
+- If the server is stopped, try starting it again to see if the error resolves.
+
+Step 2: Check firewall settings
+- Login to your server and check if the firewall settings allow connections to the server.
+- You can use the following command on Linux

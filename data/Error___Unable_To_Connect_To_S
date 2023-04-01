@@ -1,6 +1,7 @@
-Error: Error: "Unable To Connect To Server: Failed To Login: Invalid Session (Try Restarting Your Game)"
+Error: Error: "Unable To Connect To Server Using Pterodactyl Panel"
 
-Solution: 1. Exit Minecraft completely and wait for a few seconds then reopen the game.
-2. Check if you are using the correct login information for the Minecraft account that you are trying to log in with. 
-3. Make sure that you have a stable internet connection.
-4. Check if your Minecraft account has been migrated to a Mojang account. If yes, then use your email address
+Solution: Step 1: Check if server is running
+Make sure that your Minecraft server is running properly. You can do this by checking the console output to see if there are any errors or warnings.
+
+Step 2: Check server status in Pterodactyl panel
+Log in to the Pterodactyl panel and check the status of the server. Make sure that the server is not marked as "

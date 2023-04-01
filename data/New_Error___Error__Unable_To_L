@@ -1,0 +1,4 @@
+Error: New Error: "Error: Unable To Locate Java Executable. Aborting Startup."
+
+Solution: 1. First, check if Java is installed on your server. You can do this by running the command `java -version` in the terminal. If Java is installed, you should see the version number printed to the console.
+2. If Java is not installed, you can install it by running the command `sudo apt-get install default-jre` (for Ubuntu) or `yum install java-1

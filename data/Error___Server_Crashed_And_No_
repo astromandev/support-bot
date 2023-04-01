@@ -1,0 +1,8 @@
+Error: Error: "Server Crashed And No Longer Appears In Pterodactyl Panel."
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel and click on the server that crashed.
+2. Click on the "Console" tab and scroll up to see the error message that caused the crash.
+3. If the error message indicates that the server ran out of memory, click on the "File Manager" tab and open the "server.properties" file.
+4. Change

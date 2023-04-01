@@ -1,0 +1,7 @@
+Error: Error: "Unable To Retrieve Jarfile" When Trying To Start A Minecraft Server On Pterodactyl Panel.
+
+Solution: 1. First, make sure that the jarfile name in your Pterodactyl panel matches the actual name of the server jarfile you uploaded to your server.
+
+2. Check that you have uploaded the server jarfile to the correct directory on your server. You can refer to the official Minecraft installation instructions for guidance on where to upload the server jarfile.
+
+3

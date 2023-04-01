@@ -1,5 +1,7 @@
-Error: New Error: "Unable To Start The Server: The Managed Server Exited With An Error"
+Error: New Error: "Unable To Start The Server: Not Enough RAM"
 
-Solution: Step 1: Check the server logs for any specific error messages. To do this, navigate to the server control panel and click on the "Console" tab.
-Step 2: Look for any error messages highlighted in red or yellow. This will give you an idea of what might be causing the issue.
-Step 3: If you see an error message related to a specific plugin or mod,
+Solution: 1. Log in to your Pterodactyl panel and go to your server dashboard.
+2. Click on the "Console" tab.
+3. Stop your server if it is currently running.
+4. Click on the "Startup" tab and ensure that the correct amount of RAM is allocated to your server.
+5. If you have already allocated the maximum amount of RAM allowed by your hosting plan, consider upgrading to

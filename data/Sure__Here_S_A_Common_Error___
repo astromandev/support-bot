@@ -1,0 +1,11 @@
+Error: Sure, Here'S A Common Error:
+
+**Error:** "Task Failed To Start. Contact A Server Administrator If This Happens Repeatedly."
+
+**Cause:** This Error Occurs When The Minecraft Server Has Failed To Start Due To A Misconfiguration Or Issue With The Server Files.
+
+**
+
+Solution: **
+
+Step 1: Check the server logs for any errors or warnings that may point to the cause of the issue. In Pterodactyl Panel, you can view the server logs by clicking on the "Console"

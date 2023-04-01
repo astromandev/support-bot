@@ -1,0 +1,7 @@
+Error: Error: "The Server.Log File Is Extremely Large, Causing Performance Issues And Hampering Troubleshooting"
+
+Solution: 1. Access the server files through FTP or the Pterodactyl panel.
+2. Navigate to the server's main directory and locate the server.log file.
+3. Delete the server.log file or rename it to something else (e.g. server_old.log).
+4. Create a new empty file named server.log in the same directory.
+5. Restart the server to allow it to

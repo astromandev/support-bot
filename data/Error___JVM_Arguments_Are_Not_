@@ -1,0 +1,11 @@
+Error: Error: "JVM Arguments Are Not Saving In Pterodactyl Panel"
+
+Solution: Step 1: Log in to Pterodactyl Panel with your credentials.
+
+Step 2: Navigate to your server and click the "console" button.
+
+Step 3: Create a new text document on your computer and name it "jvm-arguments.txt".
+
+Step 4: Open the "jvm-arguments.txt" file and copy your custom JVM arguments into it.
+
+Step 5

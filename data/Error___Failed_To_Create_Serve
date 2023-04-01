@@ -1,3 +1,7 @@
-Error: Error: "Failed To Create Server: Unable To Allocate Port. Port 25565 May Already Be In Use Or Require Administrator Access."
+Error: Error: "Failed To Create Server (System Exception): Undefined"
+This Error Message Typically Indicates An Issue With The Server'S Configuration.
 
-Solution: 1. Check if another program or Minecraft server is using the same port as your server is trying to use (default is 25565). You can do this by running the command "netstat -ano | findstr :25565" in Command Prompt or Terminal. If another program is using the port, you can either terminate the program or change your
+Solution: 1. Navigate to the "Startup" tab in the Pterodactyl panel for your server.
+2. Check that your server's configuration options are correct, including the server type, server JAR file, and server version.
+3. Ensure that the server JAR file is uploaded to the correct folder on your server.
+4. Verify that the file

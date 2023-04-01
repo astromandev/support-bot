@@ -1,10 +1,9 @@
-Error: Sure! Here'S A New Error You May Encounter When Setting Up A Minecraft Server On Pterodactyl Panel:
+Error: Sure, Here'S A New Error You Might Encounter With Pterodactyl Panel:
 
-**Error:** When Attempting To Start The Server, You Receive The Following Error Message: "Error: Could Not Find Or Load Main Class Net.Minecraft.Server.Main."
+Error: "Failed To Connect To The Daemon: X509: Certificate Signed By Unknown Authority"
 
-**
-
-Solution: **
-
-1. Go to the "Startup" section of your server settings in the Pterodactyl panel.
-2. Check that the "JAR File" and "Server Type" fields are correctly
+Solution: 1. Open your Pterodactyl Panel Dashboard in a web browser.
+2. Click on the "Admin" dropdown menu and select "Nodes".
+3. Select the node that is giving you this error.
+4. Click on the "Settings" tab.
+5. Scroll down to the "Daemon

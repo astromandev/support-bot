@@ -1,0 +1,9 @@
+Error: Here'S An Error That Some Beginner Minecraft Server Owners May Encounter On The Pterodactyl Panel:
+
+Error: "Server Not Starting Up After Changing The JAR File."
+
+Solution: 1. Login to your Pterodactyl panel and go to your server dashboard.
+
+2. Navigate to the "Startup" tab and make sure that the JAR file that you are trying to use is compatible with your server's version of Minecraft.
+
+3. If the JAR file is compatible, try deleting

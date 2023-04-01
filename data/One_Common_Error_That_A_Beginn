@@ -1,0 +1,5 @@
+Error: One Common Error That A Beginner May Encounter With A Pterodactyl Panel Minecraft Server Is "File Not Found" Error While Uploading A Custom World.
+
+Solution: 1. First, make sure that the custom world file is in the correct format and located in the correct directory. Usually, custom world files should be in a ZIP format and located in the '../../storage/servers/{SERVER_UUID}/import' directory.
+
+2. Next, check that the file name matches exactly with the name of the world

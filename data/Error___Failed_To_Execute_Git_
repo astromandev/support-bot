@@ -1,0 +1,9 @@
+Error: Error: "Failed To Execute Git Clone."
+
+Solution: 1. First, check if the git clone URL is correct by going to your Pterodactyl Panel, navigate to the server and click on the "Console" tab.
+
+2. Once there, type the command "git clone" followed by the repository URL.
+
+3. If the URL is correct, ensure that Git is installed on your server. You can do this by running the command "git" in the console.
+
+4. If

@@ -1,0 +1,7 @@
+Error: Error: "The Server Is Refusing Connections"
+
+Solution: This error occurs when the Minecraft server is not up and running properly. Follow the steps below to fix this error:
+
+1. Make sure that the server is started: Check if the server has been started and hasn’t shut down due to any reason. If the server is not running, start the server again.
+
+2. Check the server port: Verify that the server is running on the correct port. Pterodactyl panel by default uses

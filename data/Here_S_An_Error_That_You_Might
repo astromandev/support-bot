@@ -1,0 +1,13 @@
+Error: Here'S An Error That You Might Encounter While Using A Pterodactyl Panel For Minecraft Server Management:
+
+**Error:** "The Server Console Is Not Responding."
+
+**Possible Cause:** This Error Can Occur Due To Various Reasons Such As Plugin Conflicts, Corrupted Files, Insufficient RAM Allocation, Or An Outdated Server Version.
+
+**
+
+Solution: **
+ 
+Step 1: Check the server status: 
+- Go to your Pterodactyl panel dashboard and select the server where the error occurred.
+- Check

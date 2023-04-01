@@ -1,0 +1,7 @@
+Error: Error: "Failed To Establish WebSocket Connection"
+
+Step-By-Step
+
+Solution: 1. Check the status of your firewall: A typical cause of this error is firewall settings blocking outgoing connections. Check the control panel of your firewall software and ensure that connections to the affected IP address and port are being allowed.
+
+2. Verify that the panel and daemon versions match: Ensure that you are using the latest versions of the Pterodactyl panel and daemon. If they don't match, upgrade them to the same

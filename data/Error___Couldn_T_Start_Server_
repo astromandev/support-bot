@@ -1,0 +1,8 @@
+Error: Error: "Couldn'T Start Server. Unable To Bind To 0.0.0.0:25565: Address Already In Use"
+
+Solution: This error occurs when the default Minecraft port (25565) is already in use by another program on your server. Here's how to fix it:
+
+1. Log in to your server's console through your hosting provider or through SSH.
+
+2. Type the command: lsof -i :25565. 
+This will show you which process

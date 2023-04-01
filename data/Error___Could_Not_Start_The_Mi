@@ -1,0 +1,6 @@
+Error: Error: "Could Not Start The Minecraft Server. Java.Nio.File.NoSuchFileException: Path/To/Server.Jar"
+
+Step-By-Step
+
+Solution: 1. Firstly, check if the server.jar file exists in the directory mentioned in the error message. If it doesn't exist, you'll need to upload or drag and drop the server.jar file to your panel's file manager or FTP client.
+2. If the server.jar file exists but there's still an issue, check the name and location of the file to

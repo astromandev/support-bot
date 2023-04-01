@@ -1,0 +1,5 @@
+Error: New Error: "The Server Is Encountering Issues With FTP Connection"
+
+Solution: Step 1: Verify that the correct FTP credentials are entered in Pterodactyl panel. To do this, navigate to the Server Dashboard > Configuration > Startup > scroll down to the “Server Startup Parameters” section and confirm that the FTP details are accurate.
+
+Step 2: Check if the firewall or antivirus software is blocking the FTP port. If the FTP port is blocked, the server will not be able to connect

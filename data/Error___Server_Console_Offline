@@ -1,0 +1,7 @@
+Error: Error: "Server Console Offline"
+
+This Error Can Occur When The Pterodactyl Panel Is Unable To Establish A Connection To Your Minecraft Server'S Console, Rendering You Unable To View Logs, Manage Plugins, Or Input Commands. If The Server Console Is Offline Or Unavailable, You Won'T Be Able To Modify Or Monitor Your Server, Which Can Be Frustrating For Minecraft Server Owners.
+
+Solution: 1. First, ensure that your Minecraft server is online and operational. 
+
+2. Check to see whether the

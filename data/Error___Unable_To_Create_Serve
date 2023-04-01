@@ -1,0 +1,6 @@
+Error: Error: "Unable To Create Server - The Server Name Is Already In Use"
+
+Solution: 1. Check whether a server with the same name already exists in the panel or not.
+2. If the server already exists, then try renaming or deleting it to free up the name.
+3. If the server does not exist or you have renamed/deleted it already, then check whether any residual files or directories of the previous server are present on your system.
+4. If any residual files or directories exist

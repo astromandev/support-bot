@@ -1,0 +1,4 @@
+Error: Error: "Client Unable To Connect To Server" On Pterodactyl Panel Minecraft Server.
+
+Solution: 1. Check the server status: Ensure that the server is online and running. You can check this in the panel by going to "Console" and seeing if there are any errors or if the server is stopped.
+2. Check the server IP and port: Ensure that the IP and port you are using to connect to the server are correct. You can find this information in the panel under

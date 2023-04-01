@@ -1,0 +1,7 @@
+Error: Error: "The Server Is Taking A Long Time To Start Up Or Crashed During Startup."
+
+Solution: 1. Check the server logs for any errors or messages that indicate what is causing the issue. These logs are located in the "Console" section of the Pterodactyl panel.
+
+2. If there are no obvious errors in the logs, try restarting the server to see if that resolves the issue.
+
+3. If the server continues to have issues starting up, try creating a new server instance

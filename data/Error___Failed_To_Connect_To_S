@@ -1,4 +1,7 @@
-Error: Error: "Failed To Connect To Server: Failed To Authenticate Your Connection" When Trying To Join The Server Through The Minecraft Client Using Pterodactyl Panel.
+Error: Error: "Failed To Connect To Server, Connection Refused"
 
-Solution: 1. Check that your Minecraft client is up to date and that you are using the correct version for the server. 
-2. Make sure that you are using the correct server IP and port number to connect to the server. You can find this information in the Pterodactyl panel under the "Server Settings" tab
+Solution: 1. Check that your server is running by logging into your Pterodactyl panel
+2. Check that your IP address and port are set up correctly in the server configuration
+3. If using a firewall, ensure that the Minecraft port (default is 25565) is open
+4. Check that your internet connection is stable and that your ISP is not blocking the connection
+5. Try restarting your server and router

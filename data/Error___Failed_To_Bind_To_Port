@@ -1,5 +1,7 @@
-Error: Error: "Failed To Bind To Port: Address Already In Use (Bind Failed)"
+Error: Error: "Failed To Bind To Port" When Trying To Start A Minecraft Server Through Pterodactyl Panel.
 
-Solution: 1. Check if there are any other applications running on the same port as your Minecraft server. You can do this by using the command "netstat -aon" in the Command Prompt (Windows) or Terminal (Mac/Linux).
-2. Once you have identified the process using the port, you can either stop the process or change the port that your Minecraft server is using.
-3. To change the
+Step-By-Step
+
+Solution: 1. Navigate to your Pterodactyl Panel dashboard and click on the console tab of your Minecraft server.
+2. Look for any error message similar to "Failed to bind to port." This error occurs when the Minecraft server is unable to start due to a port conflict.
+3. Edit the server properties file by clicking on the "File Management

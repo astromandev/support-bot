@@ -1,0 +1,9 @@
+Error: New Error: "Failed To Load Server Properties"
+
+Step-By-Step
+
+Solution: 1. Login to your Pterodactyl Panel and navigate to the server that you are experiencing the error with. 
+2. Click on the "File Manager" tab in the left-hand side panel.
+3. Navigate to the directory where your server properties file is located (/home/container/server.properties).
+4. Right-click on the server properties file and select "Edit" to open the file editor.
+5. Check

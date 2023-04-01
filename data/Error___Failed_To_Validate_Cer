@@ -1,0 +1,7 @@
+Error: Error: "Failed To Validate Certificate. The Certificate May Be Expired, Invalid, Or Missing."
+
+Solution: 1. Access the Pterodactyl panel and log in with your credentials.
+2. Navigate to the server console and check if the system time is correct.
+3. If the system time is incorrect, update it using the command: 
+   `timedatectl set-time 'YYYY-MM-DD HH:MM:SS'`   
+   where YYYY-MM-DD is the current date and

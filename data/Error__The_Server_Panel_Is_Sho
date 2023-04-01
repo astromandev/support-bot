@@ -1,0 +1,5 @@
+Error: Error: The Server Panel Is Showing A "Java Is Not Recognized As An Internal Or External Command" Error Message While Trying To Start The Minecraft Server.
+
+Solution: 1. Check that Java is properly installed on your system. You can do this by opening your command prompt or terminal and typing "java -version". If it returns the java version, then it's installed correctly. If not, then you need to install Java JDK (Java Development Kit) on your system.
+
+2. Make sure you have

@@ -1,0 +1,9 @@
+Error: Error: "Error Setting Up Server: Maximum Heap Size Cannot Be Larger Than The Physical Memory."
+
+Solution: 1. Open the Pterodactyl panel and navigate to the "Startup" tab.
+2. Scroll down to "Server Settings" and click "Edit"
+3. Change the value in the "Server JAR Arguments" field to "-Xmx1G" or a lower value if necessary.
+4. Save the changes and reboot the server.
+
+Explanation:
+This error occurs when the maximum

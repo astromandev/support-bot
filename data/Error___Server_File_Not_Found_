@@ -1,0 +1,6 @@
+Error: Error: "Server File Not Found"
+
+Solution: 1. First, check to make sure that the server file exists in the correct location on your computer. If the file is not in the correct location, move it to the correct folder.
+2. Next, try restarting the server and check if the error still persists. 
+3. Double-check the file name and make sure that it matches the name specified in the Pterodactyl Panel server settings.
+4. If the error still persists,

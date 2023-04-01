@@ -1,5 +1,7 @@
-Error: Error: "Failed To Load Server Properties". This Error Usually Occurs When The Pterodactyl Panel Is Unable To Locate Or Read The Server Properties File Of Your Minecraft Server.
+Error: Error: "Failed To Load Server Jar: Error Executing Child Process"
 
-Solution: 1. Log in to the Pterodactyl panel and navigate to the server that is encountering the error.
-2. Click on the "File Manager" tab and browse to the "Server Properties" file.
-3. Check if the name of the file is "server.properties", if not, rename it
+Solution: 1. First, make sure that the server jar file exists in the correct directory. You can do this by navigating to the directory where you have saved the server jar in the Pterodactyl panel.
+
+2. Check if the server jar is compatible with your server version. If not, download a compatible version of the server jar from the official Minecraft website.
+
+3. Check if your server has enough RAM allocated to

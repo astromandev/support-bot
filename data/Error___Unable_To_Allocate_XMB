@@ -1,6 +1,9 @@
-Error: Error: "Unable To Allocate XMB Of RAM. Exiting."
+Error: Error: "Unable To Allocate XMB Of RAM For JVM"
 
-Solution: 1. Log in to your Pterodactyl panel and navigate to your server.
-2. Click on the "File Manager" tab and then open the "server.properties" file.
-3. Locate the line that says "memory." It will look something like this: "memory=1024M."
-4. Increase the amount of memory allocated to the server by changing this line to a higher value. For example,
+This Error Can Occur When A Pterodactyl Minecraft Server Is Unable To Allocate Enough Memory To The Java Virtual Machine (JVM).
+
+Solution: 1. Log in to the Pterodactyl panel and go to the "Startup" section of your Minecraft server.
+
+2. Scroll down to the "JVM Arguments" section and increase the "Xmx" value to allocate more memory to the server.
+
+3. You can

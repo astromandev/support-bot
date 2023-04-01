@@ -1,0 +1,6 @@
+Error: Error: "Could Not Bind To TCP Port 25565: Address Already In Use"
+
+Solution: This error message means that another program or service is already using the Minecraft server's default port of 25565. To fix this issue, follow these steps:
+
+1. Open the task manager/panel and look for any other Minecraft server processes that might be running or using the same port. If found, end those processes.
+2. If you cannot find any other Minecraft server processes running, try changing

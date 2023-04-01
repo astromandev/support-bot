@@ -1,9 +1,9 @@
-Error: Error: "Failed To Connect To MySQL: SQLSTATE[HY000] [2002] Connection Refused"
+Error: Error: "Failed To Connect To MySQL: Access Denied For User 'Pterodactyl'@'Localhost' (Using Password: YES)"
 
-Solution: 1. Verify that the MySQL credentials being used in the Pterodactyl panel are correct.
+Solution: 1. Open the Pterodactyl panel and navigate to the server page.
 
-2. Check the MySQL server is running by connecting to it using the MySQL command line tool.
+2. Click the "Database" tab and ensure that the MySQL server details are correct.
 
-3. If MySQL server is not running, start it using the appropriate command for your operating system.
+3. Click the "Reset Password" button to reset the password for the 'pterodactyl' user.
 
-4. Verify that the MySQL server is accepting requests from the Pterodactyl
+4. Open your terminal and connect to your server via

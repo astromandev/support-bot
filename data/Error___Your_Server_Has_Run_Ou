@@ -1,0 +1,5 @@
+Error: Error: "Your Server Has Run Out Of Memory And Crashed"
+
+Solution: 1. First, you'll need to increase the amount of memory allocated to your Minecraft server. Login to your Pterodactyl Panel and navigate to the "Startup" section.
+2. In the "JVM Arguments" field, locate the line that specifies the amount of memory that's allocated to your server (e.g. "-Xmx1G").
+3. Increase the memory allocated to your server by editing that

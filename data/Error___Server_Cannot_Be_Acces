@@ -1,0 +1,6 @@
+Error: Error: "Server Cannot Be Accessed Through The Panel Or Minecraft Client"
+
+Solution: 1. Check if the server is running by logging in to the Pterodactyl panel and checking the server status.
+2. Access the server console and check if the server is running and if there are any error messages.
+3. Check if the firewall settings are configured properly and if the ports required for Minecraft are open (Port 25565 by default).
+4. Verify that the server address in the Minecraft client

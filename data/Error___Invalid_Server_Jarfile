@@ -1,0 +1,9 @@
+Error: Error: "Invalid Server Jarfile" When Trying To Start A Server On Pterodactyl Panel.
+
+Solution: 1. Go to the "Files" section of the Pterodactyl Panel.
+
+2. Check that the server.jar file exists in the root directory.
+
+3. If the server.jar file is missing, you will need to upload the correct server file by clicking on the "Upload" button located on the top right corner of the "Files" page.
+
+4. Once the

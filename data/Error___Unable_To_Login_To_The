@@ -1,0 +1,5 @@
+Error: Error: "Unable To Login To The Pterodactyl Panel With The Correct Credentials"
+
+Solution: Step 1: Check your login credentials - Make sure you are using the correct email and password to login to the Pterodactyl panel. Double-check that you type it in correctly and that there are no extra spaces. 
+
+Step 2: Reset your password - If you're unsure if you're using the correct password, try resetting it. Click on the "Forgot Password" link

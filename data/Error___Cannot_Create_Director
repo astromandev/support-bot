@@ -1,0 +1,6 @@
+Error: Error: "Cannot Create Directory: /Mnt/Server/Plugins"
+This Error Typically Occurs When Attempting To Upload Or Install A Plugin On A Pterodactyl Minecraft Server.
+
+Solution: 1. Connect to your server using an FTP client like FileZilla.
+2. Navigate to the /mnt/server/ directory.
+3. Right-click on the "plugins" folder, select "File permissions," and set the numeric value to "777" (make sure to select the "Recurse into subdirectories

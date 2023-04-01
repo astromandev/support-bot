@@ -1,0 +1,5 @@
+Error: Error: "Unable To Connect To Pterodactyl Panel Minecraft Server"
+
+Solution: 1. Check if the server IP and port number are correct: The IP and port number entered in the game client should match the one in the pterodactyl panel.
+2. Check if the server is online: The server might be undergoing maintenance or may have been shutdown. Check the status of the server from the pterodactyl panel to confirm.
+3. Check your network connection: Make

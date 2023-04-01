@@ -1,0 +1,13 @@
+Error: Error:
+
+"Error: Mysqlnd Is Not Installed. Please Consult The Documentation For Assistance With Installing Mysqlnd."
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server that is experiencing the error.
+
+2. Click on the "File Manager" tab.
+
+3. Navigate to the directory where your server files are located.
+
+4. Find the "php.ini" file and open it with the built-in text editor.
+
+5. Look for the line that reads "extension

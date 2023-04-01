@@ -1,0 +1,6 @@
+Error: Error: "The Allocated Memory For The Minecraft Server Is Not Enough, And The Server Is Crashing Frequently."
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to the "Console" section for your Minecraft server.
+2. Stop the server by typing "stop" in the console and pressing enter.
+3. Click on the "File Manager" tab and open the "server.properties" file.
+4. Locate the "memory" setting and increase the allocated memory. For example

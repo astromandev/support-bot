@@ -1,0 +1,8 @@
+Error: Error: "The Server Has Too Many Mods And Cannot Start Up"
+
+Solution: 1. Log in to the Pterodactyl panel and navigate to your server dashboard.
+2. Click on the "File Manager" tab and navigate to the folder where your server files are located.
+3. Locate the mods folder and open it.
+4. Identify any mods that are not necessary or duplicates of other mods.
+5. Remove any unnecessary mods by deleting them from the mods folder.
+6. If necessary

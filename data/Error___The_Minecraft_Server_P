@@ -1,0 +1,6 @@
+Error: Error: "The Minecraft Server Process Terminated Unexpectedly"
+
+Solution: Step 1: Access the console of your Pterodactyl panel.
+Step 2: Click on the "Logs" tab and select "latest.log". 
+Step 3: Look for any error messages mentioned in the log file.
+Step 4: If the log file mentions an error like "Can't keep up! Is the server overloaded?", it means that your server may not have enough resources to handle the load. You

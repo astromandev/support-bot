@@ -1,10 +1,9 @@
-Error: Error: "Unable To Allocate Memory: JVM Could Not Reserve Enough Space For Object Heap."
+Error: Error: "Unable To Allocate Memory"
 
-Solution: 1. Log in to your Pterodactyl panel and navigate to the "Files" section.
-2. Open the "server.properties" file and add the following line at the end of the file:
+Explanation: This Error Occurs When The Minecraft Server Has Insufficient Memory To Operate Properly.
 
-- Xmx=2G
-
-(Note: the "2G" value can be adjusted based on your server's available memory)
-3. Save the file and restart your server.
-4.
+Solution: 1. Login to the Pterodactyl Panel
+2. Click on the server that is experiencing the error
+3. Click on the "Console" tab at the top of the page
+4. Type the following command: `cat /proc/meminfo | grep MemAvailable`
+5. Note the amount of available memory listed (e.g. 2

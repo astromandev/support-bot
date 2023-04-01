@@ -1,0 +1,6 @@
+Error: Error: "Server Resource Pack Not Working In Pterodactyl Panel"
+
+Solution: 1. Check that the resource pack is properly installed on the panel by going to the "Server Settings."
+2. Verify that the resource pack is not corrupted or is missing files by using a separate Minecraft client.
+3. Check the server logs for any errors related to the resource pack.
+4. If the resource pack is not being properly applied, try re-uploading it to the panel and restarting the server.

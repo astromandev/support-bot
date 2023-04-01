@@ -1,6 +1,5 @@
-Error: Error: "Server Failed To Start After Update On Pterodactyl Panel"
+Error: Error: "Server Failed To Start Due To Invalid Java Version."
 
-Solution: 1. First, make sure that you have made a backup of your server files before making any changes.
-2. Check the server logs and look for any error message that might be causing the issue.
-3. If you have made any changes to the server configuration files, ensure that they are correct and have not caused any errors.
-4. Verify that your server’s Java version is compatible with the Minecraft version
+Solution: 1. Check what version of Java is installed on your system by typing "java -version" into the command prompt or terminal.
+2. If the installed Java version is not compatible with the Minecraft server software, download and install the correct version. You can find the compatible versions on the Minecraft website or the Pterodactyl panel.
+3. Once you've installed the compatible version of Java, go to the server's

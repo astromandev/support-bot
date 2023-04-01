@@ -1,0 +1,6 @@
+Error: Error: "JVM Could Not Be Started On Minecraft Server"
+
+This Error Typically Occurs When The Server Is Unable To Start The Java Virtual Machine (JVM) Because Of Memory Allocation Issues. It Usually Happens When You Have Allocated Too Much RAM To The Minecraft Server, And The JVM Is Unable To Start.
+
+Solution: 1. Access the Pterodactyl panel and navigate to the "Startup" tab under "Settings" for your server.
+2. Scroll down to the "Java Settings"

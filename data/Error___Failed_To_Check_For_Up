@@ -1,5 +1,4 @@
-Error: Error: "Failed To Check For Updates. Please Make Sure Your Panel URL Is Correct And That You Have An Internet Connection."
+Error: Error: "Failed To Check For Updates. Please Check The Logs For More Details." When Trying To Update The Server Using The Pterodactyl Panel.
 
-Solution: 1. Double-check your Pterodactyl panel URL to ensure it has been entered correctly.
-2. Check your network connection to make sure that you are connected to the internet.
-3. Verify that your PteroUser is authorized to connect to the internet. You can do this by going to your server's console and typing "ping google.com". If there
+Solution: 1. Check the logs in the panel to get more details about the error. The logs can be found under the "Logs" tab in the panel.
+2. Ensure that the server is running the latest version of Pterodactyl. If not, update Pterodactyl by following the instructions on the official P

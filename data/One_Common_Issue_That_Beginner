@@ -1,0 +1,5 @@
+Error: One Common Issue That Beginners May Face When Using The Pterodactyl Panel To Manage Their Minecraft Server Is Not Being Able To Connect To The Server After Setting It Up. Here Is The Step-By-Step Solution That You Can Provide:
+
+Error: Unable To Connect To Minecraft Server After Setting It Up On Pterodactyl Panel.
+
+Solution: 1. Check the server status in the Pterodactyl panel to ensure that the server is running. If it is not running, start the server

@@ -1,0 +1,7 @@
+Error: Error: "Server Offline: The Requested Server Has Been Stopped!"
+
+Solution: 1. Check if the server was intentionally stopped by the user or if it stopped due to an error/crash. If it stopped due to an error/crash, try to identify the cause and address it.
+
+2. If the server was intentionally stopped by the user, try restarting the server through the Pterodactyl panel. 
+
+3. If restarting the server does not work, check if the server

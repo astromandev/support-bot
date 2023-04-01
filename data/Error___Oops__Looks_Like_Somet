@@ -1,0 +1,9 @@
+Error: Error: "Oops! Looks Like Something Went Wrong While Trying To Start Your Server."
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel account and navigate to the "Console" tab for the affected server.
+
+2. Check the console logs to see if there are any error messages that indicate what the problem might be.
+
+3. If there are no visible error messages, try restarting the server to see if that fixes the issue by selecting the "Restart" option from the

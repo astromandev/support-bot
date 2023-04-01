@@ -1,0 +1,5 @@
+Error: Error: "The Server I Started Through The Pterodactyl Panel Isn'T Appearing On The Minecraft Server List."
+
+Solution: 1. Verify that the server is running and active within the Pterodactyl Panel.
+2. Check that the server's firewall is set up correctly and not blocking incoming traffic on the server port (default port is 25565).
+3. Ensure that the "server-ip" option is set to the correct IP address in the "server.properties" file. This

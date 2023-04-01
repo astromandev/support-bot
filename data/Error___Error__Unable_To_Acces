@@ -1,8 +1,6 @@
-Error: Error: "Error: Unable To Access Jarfile Server.Jar" When Starting A Minecraft Server On The Pterodactyl Panel.
+Error: Error: "Error: Unable To Access Jarfile Server.Jar" When Trying To Start A Minecraft Server Through The Pterodactyl Panel.
 
-Step-By-Step
-
-Solution: 1. Log in to your Pterodactyl panel.
-2. Click on "File Manager" to access your server's files.
-3. Check to make sure that the name of the server jar file matches the command line in the startup settings.
-4. If the name of the server jar file is correct, try deleting the
+Solution: 1. Login to your Pterodactyl panel.
+2. Go to your server's "Startup" tab.
+3. Under "Startup Command," make sure that the command is set to "java -jar server.jar".
+4. If the command is already set to "java -jar server.jar", try redownloading the server.jar

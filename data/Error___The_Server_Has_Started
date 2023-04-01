@@ -1,0 +1,5 @@
+Error: Error: "The Server Has Started, But I Cannot Connect To It. The Error Message Says, 'Java.Net.ConnectException: Connection Timed Out.'"
+
+Solution: 1. Make sure that the server is running: Check the Pterodactyl panel and make sure that the server is running. If it is not running, start the server.
+
+2. Check the server IP address: Verify that the server IP address is correct. You can check this by looking at the server information in the Pter

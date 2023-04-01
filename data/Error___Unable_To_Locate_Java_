@@ -1,0 +1,4 @@
+Error: Error: "Unable To Locate Java Executable In Path"
+
+Solution: 1. First, verify that you have Java installed on your system. To do this, open a command prompt (Windows) or terminal (Mac/Linux) and type "java -version" without the quotes. This will display the version of Java that is currently installed on your system. If Java is not installed, download and install it from the official website.
+2. Once you have installed Java, check the path variable in your operating

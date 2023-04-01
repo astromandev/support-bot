@@ -1,0 +1,5 @@
+Error: Error: "Unable To Connect To Daemon: Dial Tcp I/O Timeout"
+
+Solution: 1. Check if the daemon is running using the following command in the terminal: "sudo systemctl status wings.service". If you see that the daemon is not running, then proceed to step 2, otherwise, skip to step 4.
+2. Start the daemon by typing the following command: "sudo systemctl start wings.service".
+3. Check the status of the daemon again to make sure it is running: "

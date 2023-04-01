@@ -1,0 +1,8 @@
+Error: Error: "Memory Limit Has Been Exceeded" When Launching A Minecraft Server On Pterodactyl Panel.
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Go to the server dashboard and stop the Minecraft server if it is currently running.
+3. Click on the "File Manager" tab and locate the `startup.sh` or `start.sh` file.
+4. Right-click on the file and select "Edit" to open it in the editor

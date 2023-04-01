@@ -1,7 +1,9 @@
-Error: Error: "Server Connection Failed: Too Many Failed Attempts."
+Error: Error: "Server Connection Failed: Bad Proxy Data"
 
-Solution: 1. Check your server's firewall settings: Ensure the server’s firewall is not blocking incoming connections. You can do this by accessing your VPS server's control panel and checking if the firewall has been disabled.
+Solution: Step 1: First, try checking your internet connection. Make sure you have a stable and fast internet connection.
 
-2. Check Game Port Settings: Verify that the game port is set correctly. The default Minecraft port is 25565. You can change this from your server configuration file. 
+Step 2: If your internet connection is stable, then you should check your firewall settings. Make sure the firewall is not blocking any connections to or from the Minecraft server.
 
-3. Verify Websocket Settings: Check
+Step 3: Check your server IP address and make sure it is correct. Sometimes a typo in the IP address can cause this error.
+
+Step

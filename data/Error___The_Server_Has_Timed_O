@@ -1,0 +1,5 @@
+Error: Error: "The Server Has Timed Out While Attempting To Authenticate With Minecraft'S Authentication Servers."
+
+Solution: 1. Check the Pterodactyl Panel to make sure all required fields have been filled in correctly, including the Minecraft version and server type.
+2. Verify that the server is able to access Minecraft's authentication servers by opening up a web browser, navigating to "https://authserver.mojang.com/", and making sure the website loads without any errors.
+3. Try restarting the server and

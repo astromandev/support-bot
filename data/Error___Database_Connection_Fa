@@ -1,7 +1,5 @@
-Error: Error: "Database Connection Failed" When Trying To Access The Pterodactyl Panel
+Error: Error: "Database Connection Failed: SQLSTATE[HY000] [1045] Access Denied For User 'Pterodactyl'@'Localhost' (Using Password: YES)"
 
-Solution: 1. Check your database credentials: Ensure that you have entered the correct database credentials in the `core.yml` file. Verify that the database name, username, and password are correct.
-
-2. Check your MySQL server: Verify that your MySQL server is running and accepting connections. If it is not running, start it and try accessing the Pterodactyl panel again.
-
-3. Check your
+Solution: 1. First, verify that your database username, password, and hostname are correct. 
+2. Check that the 'pterodactyl' user has the necessary privileges to create and modify tables in the database. 
+3. Make sure that the MySQL/MariaDB service is running and listening on the

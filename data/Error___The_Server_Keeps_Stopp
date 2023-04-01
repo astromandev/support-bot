@@ -1,0 +1,8 @@
+Error: Error: "The Server Keeps Stopping Unexpectedly And Startup Failed Error Is Shown In The Console Log Of The Pterodactyl Panel."
+
+Step-By-Step
+
+Solution: 1. Check the console log for the specific reason why the server is failing to start up.
+2. Often, this error occurs due to RAM limitations. Increase the RAM limits from the server settings to fix this issue.
+3. Sometimes, the server files may be corrupt. Try reinstalling the server files from the panel.
+4.

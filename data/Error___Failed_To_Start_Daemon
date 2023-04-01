@@ -1,0 +1,3 @@
+Error: Error: "Failed To Start Daemon: Unsupported Java Version: Unable To Find A Compatible Java Runtime. You May Need To Install A New Java Runtime."
+
+Solution: 1. Check your Java version: First, see if Java is installed on your system by opening a command prompt or terminal window and typing in `java -version`. If Java is installed, you will see output indicating your current Java version. If it is not installed or the version is outdated, download and install the latest version of Java.

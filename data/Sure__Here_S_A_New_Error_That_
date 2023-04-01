@@ -1,10 +1,7 @@
-Error: Sure, Here'S A New Error That Can Occur On Pterodactyl Panel Minecraft Servers:
+Error: Sure, Here'S A New Error That Can Occur On A Pterodactyl Panel Minecraft Server:
 
-**Error:** "Failed To Bind To Port! You Need To Assert That The Server Process Is Allowed To Bind To The Appropriate Port. Try Running This Command: `Setcap 'Cap Net Bind Service=+Ep' /Path/To/Java`".
+Error: "Failed To Verify Username!" When A Player Attempts To Join The Server.
 
-**
+Solution: Step 1: Verify that the player's Minecraft username is correct. Sometimes players enter their username incorrectly, so make sure that they have entered it correctly.
 
-Solution: **
-
-1. Login to your server's console. 
-2. Check whether the port is already in use by running the following command:
+Step 2: Check that the player's account is valid. If the player's account has been suspended, they will not be able to join

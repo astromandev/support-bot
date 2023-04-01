@@ -1,0 +1,11 @@
+Error: Error: "Error: The Specified Allocation ID Is Invalid"
+
+Solution: Step 1: Log in to your Pterodactyl panel dashboard and navigate to the server's page.
+
+Step 2: Check if the server is assigned a valid allocation ID.
+
+Step 3: If the allocation ID is invalid, navigate to the server's "Settings" page.
+
+Step 4: Scroll down to the "Allocation" section and check if the allocation ID is correct.
+
+Step 5: If the

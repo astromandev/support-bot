@@ -1,7 +1,5 @@
-Error: Error: "Java Is Not Recognized As An Internal Or External Command"
+Error: Error: "Java Is Not Recognized As An Internal Or External Command, Operable Program Or Batch File" When Starting A Minecraft Server On Pterodactyl Panel
 
-This Error Occurs When Your Computer Cannot Find The Java Installation Or Cannot Recognize It As A Command. It Could Be Caused By Missing Or Corrupted Java Files, Or Incorrect Installation Of Java.
-
-Solution: 1. Check if Java is installed: Open the command prompt and type "java -version" without the quotes. If Java is not installed, download and install the latest version of Java from https://www.java.com/en/download/.
-
-2.
+Solution: 1. Log in to the Pterodactyl panel and open the console of the server.
+2. Type "java -version" to see if Java is installed on your server. If Java is not installed, you need to install Java runtime environment (JRE) or Java development kit (JDK).
+3

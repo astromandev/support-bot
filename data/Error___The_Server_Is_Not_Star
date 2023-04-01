@@ -1,11 +1,4 @@
-Error: Error: "The Server Is Not Starting Up And Displays An Error Message About A Missing Or Invalid EULA.Txt File."
+Error: Error: "The Server Is Not Starting Up And Showing A 'Timed Out' Error Message"
 
-Solution: 1. Locate the EULA.txt file in the server files.
-2. Open the file in a text editor.
-3. Change the value of "eula=false" to "eula=true".
-4. Save the changes and close the text editor.
-5. Restart the server.
-
-If the issue persists, try the following:
-
-1. Check that the server is using
+Solution: 1. Check that the allocated RAM is sufficient for the server. If the server requires more RAM allocation, increase the amount of RAM allocated to the server.
+2. Make sure that the server jar file is correctly set. Pterodactyl panel requires that the correct jar file must be selected/added to the server in order for it to function correctly. Ensure that the server jar file

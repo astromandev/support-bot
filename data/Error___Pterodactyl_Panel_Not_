@@ -1,0 +1,7 @@
+Error: Error: "Pterodactyl Panel Not Showing Minecraft Server Status"
+
+Solution: 1. First, check if the server is running by SSH-ing into your server using your terminal.
+2. If the server is running, go to the Pterodactyl Panel and click the "Servers" tab.
+3. Select your server and click on the "Console" tab.
+4. In the console window, run the command `systemctl restart wings`.
+5. Wait for a few minutes and

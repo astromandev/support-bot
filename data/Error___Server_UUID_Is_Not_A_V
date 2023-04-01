@@ -1,0 +1,11 @@
+Error: Error: "Server UUID Is Not A Valid UUID."
+
+Solution: Step 1: Log in to your Pterodactyl panel account and select the server where this error is occurring.
+
+Step 2: Go to the Server Settings and click the "Startup" tab.
+
+Step 3: Locate the "Server UUID" field and ensure that it contains a valid UUID.
+
+Step 4: If the UUID is not valid, generate a new one using an online UUID generator.
+
+Step 5:

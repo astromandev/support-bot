@@ -1,0 +1,7 @@
+Error: Error: "The Server Console Shows 'Java.Lang.IllegalArgumentException: Unsupported Class File Major Version X' Error Message."
+
+Solution: 1. Check the version of the Minecraft server you are running and the version of Java installed on your system.
+
+2. If the Minecraft server is running on version 1.13 or later, it requires Java 8 or higher to be installed. Make sure you have the correct version of Java installed on your system.
+
+3. If you have the correct version of Java installed

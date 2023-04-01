@@ -1,0 +1,11 @@
+Error: Error: "Failed To Execute 'InsertBefore' On 'Node'"
+
+Solution: Step 1: Navigate to your pterodactyl panel and login with your credentials.
+
+Step 2: Click on your server that you are receiving the error on.
+
+Step 3: On the left-hand side navigation bar, click on "File Manager", then navigate to the "logs" folder.
+
+Step 4: Locate the latest log file with the error message and click on it.
+
+Step 5

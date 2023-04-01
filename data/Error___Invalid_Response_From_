@@ -1,7 +1,5 @@
-Error: Error: "Invalid Response From Server: 503"
+Error: Error: "Invalid Response From Server. This Could Mean That The Panel Is Offline, The Daemon Is Not Running, Or The API Credentials Are Incorrect."
 
-Solution: 1. Firstly, check if the server is running properly or not. If the server is not running, start it.
-2. Ensure that your server's firewall or any software that you are using is not blocking the incoming and outgoing connections.
-3. Verify if you have typed the correct server URL and port number.
-4. If the issue still persists, try restarting the Pterodactyl panel service.
-5. Check the logs
+Solution: 1. Check if the Pterodactyl panel is online by going to the panel URL in your web browser. If the panel is offline, wait for it to be back online.
+
+2. Check if the daemon is running by logging into your server and checking the daemon status. Use the command `sudo systemctl status wings` to see

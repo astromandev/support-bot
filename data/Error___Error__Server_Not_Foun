@@ -1,0 +1,3 @@
+Error: Error: "Error: Server Not Found When Trying To Start Minecraft Server On Pterodactyl Panel"
+
+Solution: 1. Check the Server Name and/or IP Address: Ensure that the server's Name and/or IP Address are correctly entered in the panel. To verify this information, navigate to the Pterodactyl Panel and locate the server in question. Then click on the “Manage” button, then on the “Details” button. Make sure that the IP address is accurate, and

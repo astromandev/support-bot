@@ -1,11 +1,7 @@
-Error: Sure Thing! Here'S A New Error That You Might Encounter With The Pterodactyl Panel:
+Error: Sure Thing! Here'S A New Error And Its Solution:
 
-**Error:** "Failed To Bind To Port: Address Already In Use" When Starting A Minecraft Server.
+Error: "502 Bad Gateway" Error When Attempting To Access The Pterodactyl Panel
 
-**
-
-Solution: **
-
-1. Log in to your Pterodactyl panel account and navigate to the server console.
-
-2. Run the command `netstat -an | grep <port number>` to check if the port that the Minecraft server is trying to use is already in use by
+Solution: 1. Check if the panel is down for maintenance or updates by visiting the Pterodactyl Twitter account or their Discord server.
+2. If the panel is not down, try clearing your browser's cache and cookies.
+3. If clearing your browser's cache and cookies doesn't work, try accessing the panel from a different

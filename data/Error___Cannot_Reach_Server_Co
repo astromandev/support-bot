@@ -1,0 +1,5 @@
+Error: Error: "Cannot Reach Server Console, Please Try Again Later"
+
+Solution: 1. First, make sure that your server is actually up and running. You can check this by attempting to join the server from Minecraft client.
+2. If the server is up and running, try refreshing the page or logging out and then back in to your Pterodactyl panel.
+3. Next, check to make sure that your Pterodactyl panel is connected to the correct server. Sometimes the connection

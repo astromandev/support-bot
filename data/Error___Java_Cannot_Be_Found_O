@@ -1,4 +1,6 @@
-Error: Error: "Java Cannot Be Found Or Is Not Set Up Correctly"
+Error: Error: "Java Cannot Be Found On This System."
 
-Solution: 1. Make sure you have Java installed on your computer. If not, download and install the latest version of Java.
-2. Check that Java is added to the system's environment variables. To do this, search for "environment variables" in the Windows search bar and click on "Edit the system environment variables". Then click on "Environment Variables", and under "System Variables", check if there is a "Java_H
+Solution: 1. Check that Java is installed on the server by running the command "java -version" in the terminal.
+2. If Java is not installed, download and install the appropriate version of Java on the server. Refer to the server documentation for details on installing Java.
+3. Once Java is installed, make sure the correct version of Java is being used by the server. You can check this with the command "which java".
+4

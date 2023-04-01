@@ -1,0 +1,8 @@
+Error: Error: "Server Crashed Due To Insufficient Memory Allocation"
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server console.
+2. Check the server logs for any error messages related to memory allocation.
+3. Stop the server to avoid any further damage.
+4. Go to the server settings and increase the amount of RAM allocated to the server.
+5. Start the server again and see if the problem is resolved.
+6. If the server still crashes, try increasing

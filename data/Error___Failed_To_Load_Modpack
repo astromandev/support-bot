@@ -1,0 +1,7 @@
+Error: Error: "Failed To Load Modpack" When Attempting To Install A Modpack On A Pterodactyl Panel Minecraft Server.
+
+Step-By-Step
+
+Solution: 1. Check if the modpack is compatible with the version of Minecraft your server is running. If the modpack version is different, it won't load on the server.
+2. Confirm that the modpack is downloaded correctly and is not corrupted. Re-download the modpack from a trusted source and try again.
+3. Verify that you

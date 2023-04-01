@@ -1,0 +1,7 @@
+Error: Error: "Connection To Server Failed: Could Not Resolve Hostname"
+
+This Error Occurs When The Pterodactyl Panel Is Unable To Locate Your Minecraft Server'S Hostname Or IP Address. This Can Happen If The IP Address Or Hostname Is Not Entered Correctly Or If The DNS Changes Have Not Propagated.
+
+Solution: 1. Check the hostname/IP address: Double-check that you have entered the correct IP address or hostname of your Minecraft server in the Pterodactyl panel.
+
+2. Check DNS: Ensure

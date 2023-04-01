@@ -1,11 +1,10 @@
-Error: Error: "Unable To Allocate More Memory: Increase -Xmx Argument"
+Error: Error: "Unable To Allocate More Memory For Minecraft"
 
+Cause: This Error Occurs When The Minecraft Server Doesn'T Have Enough Memory Allocated To It To Run Properly.
 
+Solution: Here are the steps to fix this error:
 
-Step-By-Step
-
-Solution: 1. Log in to your Pterodactyl Panel.
-2. Click on the "Console" option for the server.
-3. Stop the server by typing "/stop" into the console and then hitting enter.
-4. Click on the "Startup Parameters" option and scroll down to find the "-Xmx" option.
-5. Increase the value of the "-Xmx" option to
+1. Login to your Pterodactyl panel.
+2. Click on the "Console" button for your Minecraft server.
+3. Type the following command: `cat /proc/meminfo`, and hit Enter. This will display the amount of available memory.
+4. Type

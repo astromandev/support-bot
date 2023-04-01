@@ -1,0 +1,6 @@
+Error: Error: "Server Is Running Older Version Of Minecraft"
+
+Solution: 1. Login to your Pterodactyl panel and navigate to the "Startup" tab on the left-hand side of the screen.
+2. Scroll down until you see the "JAR File" section and check what version of Minecraft is specified there.
+3. Download the corresponding server .jar file from the official Minecraft website or a trusted source.
+4. Once you have the correct .jar file, upload it to your server

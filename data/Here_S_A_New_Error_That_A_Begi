@@ -1,9 +1,7 @@
-Error: Here'S A New Error That A Beginner Might Encounter When Setting Up A Minecraft Server On Pterodactyl Panel:
+Error: Here'S A New Error That A Beginner Might Encounter While Using The Pterodactyl Panel For Their Minecraft Server:
 
-**Error: Failed To Bind To Port: Address Already In Use**
+Error: "Failed To Allocate Server" Message When Trying To Create A New Minecraft Server Instance On The Pterodactyl Panel.
 
-This Error Occurs When The Server Is Unable To Bind To The Default Port 25565 Because It Is Already In Use By Another Program Or Process. Here'S How You Can Fix It:
+Solution: 1. First, ensure that you have enough resources available on your hosting plan to successfully create a new Minecraft server instance. Check with your hosting provider if you're unsure.
 
-Step-By-Step
-
-Solution: 1. Open the Pterodactyl Panel and navigate to the page for your Minecraft server
+2. If your hosting plan has sufficient resources, try clearing your

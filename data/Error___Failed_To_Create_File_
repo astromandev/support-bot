@@ -1,0 +1,5 @@
+Error: Error: "Failed To Create File (Permission Denied)" When Trying To Upload A Server JAR File On Pterodactyl Panel.
+
+Solution: 1. First, make sure that you have the necessary permissions to upload files to the server. You must have the "File Management" permission enabled in your user account.
+2. Check the file permissions of the server's root directory. Make sure that the directory has write permissions for the user who is uploading the file.
+3. If you are still

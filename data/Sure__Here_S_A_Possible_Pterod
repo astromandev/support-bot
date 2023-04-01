@@ -1,0 +1,17 @@
+Error: Sure! Here'S A Possible Pterodactyl Panel Minecraft Server Related Error And Its Solution:
+
+**Error:** "Failed To Start The Minecraft Server. Java Installation Not Found On The System."
+
+**
+
+Solution: **
+
+Step 1: Check if Java is installed on your system by running the following command in the terminal:
+
+```sh
+java -version
+```
+
+If Java is not installed, you will see an error message saying "command not found" or similar.
+
+Step 2: Install Java

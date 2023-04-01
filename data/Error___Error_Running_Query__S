@@ -1,0 +1,5 @@
+Error: Error: "Error Running Query: SQLSTATE[HY000] [1045] Access Denied For User 'Pterodactyl'@'Localhost' (Using Password: YES)" When Attempting To Connect To The Database On A Pterodactyl Minecraft Server.
+
+Solution: 1. Verify that the user 'pterodactyl' has the correct permissions in the MySQL database.
+2. Check that the password for the 'pterodactyl' user is correct.
+3. Ensure that the

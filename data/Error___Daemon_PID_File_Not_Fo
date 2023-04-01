@@ -1,0 +1,8 @@
+Error: Error: "Daemon PID File Not Found" When Trying To Start The Minecraft Server In Pterodactyl Panel.
+
+Step-By-Step
+
+Solution: 1. Login to your Pterodactyl Panel and navigate to the affected server's console.
+2. Run the following command in console: `cd /mnt/server`
+3. Check if there is a `pid` folder using the command: `ls`.
+4. If there is no `pid` folder, create one using: `mkdir pid

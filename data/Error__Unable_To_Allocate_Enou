@@ -1,0 +1,6 @@
+Error: Error: Unable To Allocate Enough Memory To Minecraft Server.
+
+Solution: 1. Login to your Pterodactyl panel and click on "File Manager" from the server's dashboard.
+2. Open the "server.properties" file and search for "Xmx" option.
+3. Increase the value of "Xmx" option to allocate more memory. For example, set it to "-Xmx2G" to allocate 2GB memory to your server.
+4. Save the changes and restart

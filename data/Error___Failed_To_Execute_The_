@@ -1,0 +1,9 @@
+Error: Error: "Failed To Execute The Backup Command On Panel."
+
+Step-By-Step
+
+Solution: 1. Check the server log: Start by checking the server log for any further error message or clues.
+
+2. Verify Backup Settings: Within your Pterodactyl panel, go to your server settings and make sure that your backup setting are correct. Double-check that the path to the backup folder is correct and that the backup command is correct.
+
+3. Check disk space: Make sure you have sufficient disk

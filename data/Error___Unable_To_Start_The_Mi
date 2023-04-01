@@ -1,7 +1,5 @@
-Error: Error: "Unable To Start The Minecraft Server, Could Not Find Or Load Main Class"
+Error: Error: "Unable To Start The Minecraft Server Due To Missing Or Corrupted Server Files."
 
-Solution: 1. Verify that you have entered the correct server type and version in the server properties.
-2. Ensure that your Java installation is up-to-date.
-3. Check that you have the correct Java version selected in the Pterodactyl panel.
-4. Make sure that you have uploaded the Minecraft server jar file to the server through the SFTP.
-5. Verify that the file name of the
+Solution: 1. Check if there are any missing or corrupted server files by accessing the server directory using FileZilla or any FTP software.
+2. If there are missing or corrupted files, download them from the official Minecraft website or from a trusted source and upload them to the server directory using FTP.
+3. If you are not able to determine which files are missing or corrupted, you can try reinstalling the server

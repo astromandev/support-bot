@@ -1,0 +1,9 @@
+Error: Error: "The Server Could Not Start Because It’S Out Of Memory"
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Stop your server.
+3. Click on "File Manager" in the left-hand sidebar.
+4. Navigate to the root directory of your server.
+5. Locate the "server.properties" file and click on it.
+6. Scroll down until you find the "memory" section.
+7. Change the values of "Xmx" and "

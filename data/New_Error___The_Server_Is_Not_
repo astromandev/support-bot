@@ -1,9 +1,7 @@
-Error: New Error: "The Server Is Not Responding"
+Error: New Error: "The Server Is Not Starting Up And I'M Getting An Error Message In The Pterodactyl Panel That Says 'Error: Could Not Find Or Load Main Class'."
 
-Step-By-Step
+Solution: 1. Log in to your Pterodactyl Panel and navigate to the server which is encountering this error.
 
-Solution: 1. Check Your Server Status: First, make sure the server is still running. If you are unsure, use the Pterodactyl panel to check its status.
+2. Click on the 'Console' option from the left sidebar to open the server console.
 
-2. Check Your Internet Connection: Ensure that your internet connection is stable and not experiencing any issues. You can test this by trying to visit other websites.
-
-3. Restart Your Server: If the server is running but not responding, try restarting it
+3. Check the error message in the console which should give you a clue as to

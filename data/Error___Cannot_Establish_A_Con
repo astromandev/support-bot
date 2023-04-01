@@ -1,0 +1,9 @@
+Error: Error: "Cannot Establish A Connection To The Minecraft Server" While Accessing Pterodactyl Panel.
+
+Solution: 1. Check if your Minecraft server is properly configured and running.
+
+2. Make sure that your Pterodactyl panel is running on the correct port and IP address. The default port for Pterodactyl panel is 8080.
+
+3. Check if your firewall or antivirus software is blocking the Pterodactyl panel or Minecraft server's ports.
+
+4. Verify

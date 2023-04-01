@@ -1,0 +1,9 @@
+Error: New Error: "The Server Is Running An Unsupported Operating System."
+
+Step-By-Step
+
+Solution: 1. Check the operating system requirements for the server. Pterodactyl Panel requires a 64-bit operating system that supports Docker containers.
+
+2. Make sure that your server is running a compatible 64-bit operating system. If the operating system is not compatible, you may need to upgrade or switch to a different server.
+
+3. Verify that Docker is installed and running on your server. If Docker

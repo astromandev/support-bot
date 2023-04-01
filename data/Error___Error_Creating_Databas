@@ -1,0 +1,6 @@
+Error: Error: "Error Creating Database Table: SQLSTATE[42000]: Syntax Error Or Access Violation: 1071 Specified Key Was Too Long; Max Key Length Is 767 Bytes"
+
+Solution: 1. Access your Pterodactyl Panel and navigate to the server's file management page.
+2. Locate the file "config.php" and open it for editing.
+3. Scroll down until you find the "database" section.
+4. Add the following line below it: " 'engine

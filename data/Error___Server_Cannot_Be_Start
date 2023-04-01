@@ -1,5 +1,9 @@
-Error: Error: "Server Cannot Be Started, "Another Instance Of Pterodactyl Is Already Running""
+Error: Error: "Server Cannot Be Started Due To Missing Or Corrupted Java Installation"
 
-Solution: 1. Check if there is any other instance of Pterodactyl running by running the following command in your terminal: `ps aux | grep -v grep | grep -i pterodactyl`
-2. If there is another instance running, stop it by running the command `cd /var/www/pterodactyl && php artisan down`
-3. Check
+Solution: Step 1: Check if Java is installed on your system and its version. Open Command Prompt or Terminal and run the following command:
+```
+java -version
+```
+If the output shows that Java is not installed, download and install the latest version from the official website.
+
+Step 2: If Java is installed but the error persists, check the environment variables. On Windows, search for "Environment Variables"

@@ -1,8 +1,10 @@
-Error: Error: "Failed To Create Default Database! Please Check Your MySQL Settings And Try Again."
+Error: Error: "Failed To Create Default Configuration Directory: /Var/Www/Pterodactyl/Storage/App/.Env"
 
-Solution: This error occurs when the Pterodactyl panel is unable to create a default database during the installation process. Here's how to fix it:
-
-Step 1: Check MySQL settings
-Double-check that the MySQL database settings you've entered during the installation process are correct. Verify that you’re using the correct server address, port number, username, and password.
-
-Step 2: Create the
+Solution: 1. Login to your server as the root user.
+2. Open the command prompt and enter the following command to create a directory:
+```
+mkdir -p /var/www/pterodactyl/storage/app
+```
+3. Change the owner of the newly created directory to the Pterodactyl user using the following command:
+```
+chown -R www

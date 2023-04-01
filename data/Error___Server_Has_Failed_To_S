@@ -1,0 +1,6 @@
+Error: Error: "Server Has Failed To Start" Message In Pterodactyl Panel.
+
+Solution: 1. Check the console tab in Pterodactyl panel for any error messages during server startup.
+2. Make sure the server jar file is correctly uploaded to the panel and selected in the startup tab of the panel.
+3. Check that the server jar file is compatible with the version of Minecraft your players are using.
+4. Ensure that the server jar file is not corrupted by re-uploading

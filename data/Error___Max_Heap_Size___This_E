@@ -1,0 +1,4 @@
+Error: Error: "Max Heap Size"- This Error Occurs When The Maximum Amount Of RAM Allocated To The Server (Max Heap Size) Is Not Supported By The Hosting Plan Configured In The Pterodactyl Panel.
+
+Solution: 1. First, determine the maximum amount of RAM available in your hosting plan. Check your Pterodactyl panel or hosting provider for this information.
+2. In the Pterodactyl Panel, navigate to the server that is experiencing the error and click the "

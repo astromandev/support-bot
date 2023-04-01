@@ -1,5 +1,9 @@
-Error: Error: "Failed To Load Resource: The Server Responded With A Status Of 403 (Forbidden)" On Pterodactyl Panel While Trying To Upload A Minecraft World.
+Error: Error: "Failed To Load Resource: The Server Responded With A Status Of 422 (Unprocessable Entity)" Message Appears When Trying To Start A Server On The Pterodactyl Panel.
 
-Solution: 1. Firstly, check if the file size of the Minecraft world does not exceed the maximum storage limit set for the server's disk space.
+Solution: Step 1: Navigate to the Pterodactyl Panel and log in to your account.
 
-2. Next, ensure that the file permissions for the Minecraft world are set correctly. You may use the FTP client in the Pterodactyl panel to do so.
+Step 2: Click on the server that is experiencing the error.
+
+Step 3: Select the "Console" option from the left-hand side menu.
+
+Step 4: Within the console,

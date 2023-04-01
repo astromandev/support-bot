@@ -1,0 +1,5 @@
+Error: New Error: "Cannot Start Server Because The Specified JAR File Is Not A Valid Minecraft Server JAR"
+
+Solution: 1. Check that you have selected the correct server JAR file. It should be the one that you uploaded to the panel and specified in the "Details" section of the server settings. 
+2. If you are unsure about which JAR file to use, download a fresh copy of the Minecraft server JAR file from the official Minecraft website. 
+3. Once you have

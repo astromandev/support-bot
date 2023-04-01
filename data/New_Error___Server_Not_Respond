@@ -1,0 +1,9 @@
+Error: New Error: "Server Not Responding" When Attempting To Connect To The Minecraft Server Through The Pterodactyl Panel.
+
+Solution: Step 1: Check the server status
+- Log into your Pterodactyl panel and navigate to the "Server Configuration" tab.
+- Click the "Console" button to view the server console.
+- Look for any error messages or issues that may indicate the cause of the server not responding.
+
+Step 2: Check your network settings
+- Ensure that

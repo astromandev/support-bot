@@ -1,0 +1,5 @@
+Error: Error: "You Are Attempting To Start Your Minecraft Server With A Modpack, But It Keeps Crashing And Won'T Start Properly."
+
+Solution: 1. Check that your server has enough RAM allocated to run the modpack. You can do this by logging into your Pterodactyl panel and navigating to the server console.
+2. Check that you have correctly installed the modpack on your server. Make sure you have uploaded all the necessary mods and configurations.
+3. Check that you are using the

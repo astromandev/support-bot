@@ -1,6 +1,9 @@
-Error: One Common Error That Can Occur When Using The Pterodactyl Panel For Your Minecraft Server Is The "Paper.Jar File Not Found" Error. This Error Occurs When The Server Panel Is Unable To Locate The Paper.Jar File, Which Is Required To Run A Paper Minecraft Server.
+Error: One Common Error That Can Occur On A Pterodactyl Panel Minecraft Server Is The "Server Cannot Allocate Enough Memory" Error. This Error Can Occur When The Server Doesn'T Have Enough Memory To Run Minecraft, Causing It To Crash.
 
 Step-By-Step
 
-Solution: 1. Login to your Pterodactyl panel and navigate to the File Manager for your Minecraft server.
-2. Check to see if the paper.jar file is present in the server files
+Solution: 1. Log in to your Pterodactyl panel and select your Minecraft server.
+
+2. Click on the "Console" tab at the top of the page to open the server console.
+
+3. Once in the console,

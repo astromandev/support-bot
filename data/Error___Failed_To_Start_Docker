@@ -1,0 +1,8 @@
+Error: Error: "Failed To Start Docker Containers: Cannot Connect To The Docker Daemon At Unix:///Var/Run/Docker.Sock. Is The Docker Daemon Running?"
+
+Solution: This error usually occurs when the Docker daemon is not running or there is an issue with the system configuration for Docker. You can follow the below steps to resolve this error:
+
+1. Check the status of the Docker daemon by running the following command:
+   `sudo service docker status`
+
+2. If the Docker daemon is not running, start it using

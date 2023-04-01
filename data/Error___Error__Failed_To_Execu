@@ -1,0 +1,6 @@
+Error: Error: "Error: Failed To Execute ‘Start’ Command In Pterodactyl Panel"
+
+This Error Occurs When The Server Is Unable To Start Due To Incorrect Server Configuration Or Insufficient Server Resources.
+
+Solution: 1. Check that the server configuration is correct – make sure that the server properties file contains the correct settings, and that there are no syntax errors.
+2. Verify that the server has enough resources - ensure that the server has enough RAM, CPU, and disk space to start the server.

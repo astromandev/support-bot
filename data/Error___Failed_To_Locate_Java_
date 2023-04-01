@@ -1,0 +1,5 @@
+Error: Error: "Failed To Locate Java Executable. Please Ensure Java 8 Or Higher Is Installed And In The System PATH."
+
+Solution: Step 1: First of all, make sure that you have installed Java on your system. If you have not, download and install the latest version of Java 8 from the official website.
+
+Step 2: If you have already installed Java on your system, check if it is added to the system PATH. To do this, press the Windows key + R on

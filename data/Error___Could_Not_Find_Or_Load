@@ -1,7 +1,6 @@
-Error: Error: "Could Not Find Or Load Main Class Net.Minecraft.Server.MinecraftServer".
+Error: Error: "Could Not Find Or Load Main Class Pterodactyl" When Attempting To Start The Pterodactyl Panel Minecraft Server.
 
-Solution: 1. Verify that you have downloaded the correct version of Minecraft server for your operating system. The server software is available for Windows, Mac, and Linux.
+Step-By-Step
 
-2. Ensure that you have correctly installed the Java Runtime Environment (JRE) on your system. To check if Java is installed, type "java -version" in the command prompt or terminal.
-
-3. If Java is installed, check its version
+Solution: 1. Check that Java is properly installed on your server by typing "java -version" in the command line. If Java is not installed, download and install the latest version of Java from the Java website.
+2. Make sure that you have downloaded the correct version of Pterodactyl Panel for your operating system

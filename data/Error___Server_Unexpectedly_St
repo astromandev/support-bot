@@ -1,0 +1,7 @@
+Error: Error: "Server Unexpectedly Stopped"
+
+Solution: 1. Check the server logs for any errors or issues that caused the unexpected stop. You can access the logs through the Pterodactyl panel by clicking on "Console" and then selecting "Logs".
+
+2. If there are no obvious errors, try restarting the server by clicking on "Restart Server" in the Pterodactyl panel.
+
+3. Ensure that you have enough resources allocated to the server. Check the server's CPU and RAM

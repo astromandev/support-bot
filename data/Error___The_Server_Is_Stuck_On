@@ -1,0 +1,7 @@
+Error: Error: "The Server Is Stuck On 'Starting'"
+
+Solution: 1. First, check that all necessary files have been uploaded to the server - this error could be caused by a missing or corrupted file.
+
+2. If all files are present, try restarting the server. This will often resolve the issue if it was caused by a temporary glitch.
+
+3. Check the server logs for any error messages. These logs can be found in the 'logs' folder inside the server installation directory. Look for

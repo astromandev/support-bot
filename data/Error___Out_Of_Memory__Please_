@@ -1,0 +1,7 @@
+Error: Error: "Out Of Memory! Please Restart The Server With At Least X Amount Of RAM."
+
+Solution: 1. First, you need to check the amount of RAM allocated to your server. You can check this by logging in to your Pterodactyl panel and clicking on the server you are having issues with.
+
+2. Once you have opened the server dashboard, navigate to the "console" tab.
+
+3. Once you are in the console, you will see a line like this: "

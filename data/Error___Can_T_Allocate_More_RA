@@ -1,0 +1,7 @@
+Error: Error: "Can'T Allocate More RAM To Minecraft Server On Pterodactyl Panel"
+
+Solution: If you're encountering an error message that says you can't allocate more RAM to your Minecraft server on Pterodactyl Panel, here is a step-by-step solution you can follow:
+
+1. First, go to the Pterodactyl Panel dashboard and log in to your account.
+2. Navigate to the "Servers" tab and select the server you're having trouble with.
+3

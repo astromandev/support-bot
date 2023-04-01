@@ -1,0 +1,12 @@
+Error: Error: "The Server Console Isn'T Showing Any Debug Or Error Messages, But Players Can'T Join The Server."
+
+Solution: Step 1: Check the server status
+- Make sure the server is running and hasn't crashed.
+- Confirm the server IP and port are correct.
+
+Step 2: Verify the Firewall
+- Ensure the server is permitted through your firewall. 
+- Verify that the port is open and not being blocked by your firewall.
+
+Step 3: Check server properties
+- Confirm

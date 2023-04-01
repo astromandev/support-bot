@@ -1,0 +1,5 @@
+Error: Error: "Failed To Write To Settings File" When Attempting To Save Changes To Server Settings In The Pterodactyl Panel.
+
+Solution: Step 1: Check file permissions
+- File permission is the most common reason for this error message. So, you must check the permission of the file you are trying to edit. 
+- Ensure that the permission of the file is set to 777. (A permission of 755 also works well in most cases, as long as the user running

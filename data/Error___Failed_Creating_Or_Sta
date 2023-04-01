@@ -1,0 +1,5 @@
+Error: Error: "Failed Creating Or Starting Server" In The Pterodactyl Panel
+
+Solution: 1. Check if the server file is properly uploaded or not. Sometimes, there may be errors in uploading or an incomplete upload, and this could cause the server to fail.
+2. Check if the server file is compatible with the hosting provider. Ensure that the server file is the same version as the hosting provider's specifications.
+3. Check for any errors in the panel console. Sometimes there may be

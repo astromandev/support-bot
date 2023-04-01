@@ -1,0 +1,7 @@
+Error: Error: "The Server Has Reached Its Memory Limit And Has Crashed"
+
+Solution: 1. Login to your Pterodactyl Panel.
+2. Click on the "Console" tab for the server that has crashed.
+3. Check the error message for the line that says "OutOfMemoryError". This means that the server has run out of memory and has crashed.
+4. Increase the amount of memory available to the server by editing the startup command.
+5. In the left-hand sidebar, click

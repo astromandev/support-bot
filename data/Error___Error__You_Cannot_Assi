@@ -1,0 +1,5 @@
+Error: Error: "Error: You Cannot Assign More RAM To The Server Than You Have Available On Your System."
+
+Solution: 1. First, check how much RAM your system has available. This can be done by opening the task manager in Windows or the Activity Monitor on MacOS.
+2. Next, open your server control panel and navigate to the "Startup" tab.
+3. Under the "Server JAR" section, check to see how much RAM is allocated to the server. If it is set to

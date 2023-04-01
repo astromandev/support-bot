@@ -1,9 +1,7 @@
-Error: Error: "Server Won'T Start After Updating Plugins Using Pterodactyl Panel."
+Error: Error: "Server Won'T Start After Installing New Plugin On Pterodactyl Panel"
 
-Solution: 1. Log in to your Pterodactyl panel and navigate to the server that is experiencing issues.
+Step-By-Step
 
-2. Click on the "Console" tab to access the server console.
-
-3. Check if there are any error messages that indicate issues with the plugins you have updated.
-
-4. If there are no error messages or if the error messages are generic, try restarting the server. You can do
+Solution: 1. First, check if the plugin that you installed is compatible with your server's version. Double-check the plugin version and the Minecraft server's version, and ensure they are compatible.
+2. Verify that you installed the plugin correctly. You may have made a mistake while transferring or unzipping the plugin file.
+3. To find out more about why the server is not

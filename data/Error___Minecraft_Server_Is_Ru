@@ -1,0 +1,6 @@
+Error: Error: "Minecraft Server Is Running But Players Cannot Connect"
+- The Server Is Running But Players Cannot Connect, Either By Timing Out Or Seeing A Message Such As "Failed To Connect To The Server."
+
+Solution: 1. Check the server's firewall settings - make sure the necessary ports (default is 25565) are open and forwarded correctly.
+2. Check the server's IP address and make sure it is entered correctly in the Pterodactyl panel.
+3. Check the server's

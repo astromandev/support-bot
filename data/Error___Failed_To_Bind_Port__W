@@ -1,11 +1,5 @@
-Error: Error: "Failed To Bind Port" When Starting A Minecraft Server Through Pterodactyl Panel.
+Error: Error: "Failed To Bind Port" While Starting A Minecraft Server On Pterodactyl Panel.
 
-Solution: 1. Check that the port you are trying to bind is not already in use by another process. You can do this by running the following command in the terminal:
-
-```
-sudo lsof -i :<port_number>
-```
-
-Replace `<port_number>` with the number of the port you are trying to bind.
-
-2. If the port is already in use, it is
+Solution: 1. Check if the port you are using is being used by another process. To do this, open the Command Prompt or Terminal and enter the following command:
+   `netstat -aon | findstr :[port_number]`
+   Replace `[port_number]` with the port number you are trying to use. If you see a result, note the PID number as it

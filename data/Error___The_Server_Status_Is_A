@@ -1,0 +1,5 @@
+Error: Error: "The Server Status Is Always Offline On The Pterodactyl Panel Even Though My Server Is Up And Running"
+
+Solution: 1. On the Pterodactyl panel, go to the "Servers" tab and select your server.
+2. Click on the "Console" tab and check if your server is running. If it's not running, start your server by typing in the command "start" (without quotes) and press enter.
+3. If your server is already

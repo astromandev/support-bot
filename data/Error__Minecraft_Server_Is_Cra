@@ -1,0 +1,6 @@
+Error: Error: Minecraft Server Is Crashing Frequently
+
+Solution: 1. Check server hardware: Ensure that the server meets the minimum hardware requirements necessary to run Minecraft.
+2. Reduce world size: Large worlds can strain server resources and cause crashes. Try reducing the world size to a more manageable size.
+3. Update server software: Occasionally, an outdated server software can cause crashes. Make sure that you are using the latest version of the server software.
+4. Remove or update plugins: Faulty plugins or outdated plugins

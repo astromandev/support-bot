@@ -1,0 +1,7 @@
+Error: Error: "Server Jar File Not Detected"
+
+Solution: 1. Log in to the Pterodactyl panel.
+2. Click on the "Console" tab and ensure that the server is not running.
+3. Navigate to the "Startup" tab and ensure the "Server Type" is set to "Vanilla."
+4. Scroll down to the "JAR File" field and verify that the name of the server jar file is correctly spelled.
+5. If the correct server jar file

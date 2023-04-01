@@ -1,0 +1,9 @@
+Error: Error: "Failed To Download Forge: Unsupported Major.Minor Version 52.0"
+
+Solution: 1. Go to the Pterodactyl Panel, click on the "Console" tab, and stop the server if it is running.
+
+2. Navigate to the "Files" tab and click on the folder "mods."
+
+3. Locate the file "forge-1.12.2-14.23.5.2854-universal.jar" and delete it.
+
+4. Visit the

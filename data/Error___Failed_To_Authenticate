@@ -1,9 +1,7 @@
-Error: Error: "Failed To Authenticate With The Minecraft Account. Please Double-Check Your Username And Password."
+Error: Error: "Failed To Authenticate With Minecraft.Net After 3 Attempts"
 
-Solution: 1. Double check that you are using correct login credentials. This error commonly occurs due to incorrect login information.
+Solution: Step 1: Check if the Minecraft.net website is down or not by visiting their website. If it’s down, you need to wait until the website comes back up.
 
-2. Ensure that you are using a Mojang account to log in, not a Microsoft account. Microsoft accounts do not work for authentication.
+Step 2: Verify if you have entered the correct login credentials, including your username and password. Also, check if your username and password are case sensitive.
 
-3. Ensure that your server is using the latest version of Pterodactyl panel.
-
-4. Check that the server's firewall is not
+Step 3: If you’re logging in with a Mojang account, check if

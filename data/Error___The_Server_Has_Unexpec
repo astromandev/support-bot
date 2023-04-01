@@ -1,0 +1,7 @@
+Error: Error: "The Server Has Unexpectedly Closed Down. It May Have Crashed. Check Your Logs For Details."
+
+Solution: 1. Log in to your Pterodactyl Panel.
+2. Navigate to your server and click on "File Manager".
+3. Find and open the "logs" folder.
+4. Look for any files that have the word "latest" or "startup" in the name.
+5. Open the file and read through the log to find any error messages or warnings. The

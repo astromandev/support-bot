@@ -1,0 +1,9 @@
+Error: Error: "Unable To Validate The Minecraft Server Jar File."
+
+Solution: 1. Login to your Pterodactyl panel.
+2. Navigate to the server console tab.
+3. Check the server logs for any errors or warnings related to the jar file.
+4. Download the Minecraft server jar file from the official Minecraft website or a reputable third-party source.
+5. Upload the jar file to the server using the file manager.
+6. Rename the jar file to "server.jar".
+7. Stop

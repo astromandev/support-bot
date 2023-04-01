@@ -1,6 +1,9 @@
-Error: Error: "Failed To Establish A Connection To The Control Panel. Please Try Again Later Or Contact Support."
+Error: Error: "Failed To Establish A Connection To The Database. Connection Refused"
 
-Solution: Step 1: Check your network connection to ensure you are connected to the internet.
-Step 2: Check the Pterodactyl Panel server URL to ensure it is entered correctly.
-Step 3: Try accessing the panel on a different web browser as it may be a browser-related issue.
-Step 4: Check if any firewalls or antivirus software is blocking access to the
+Solution: Step 1: Check your database credentials.
+
+Make sure you have provided the correct database credentials in the Pterodactyl panel for your Minecraft server. If you are unsure about the database credentials, you can go back to your database and double-check it.
+
+Step 2: Ensure that the database is running.
+
+To check if the database is running, try connecting to it using the command line or GUI interface.

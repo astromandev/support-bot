@@ -1,0 +1,6 @@
+Error: Error: "The Server Console Output Exceeds The Buffer Size, And No Additional Output Can Be Retrieved"
+
+Solution: Step 1: Login to your Pterodactyl panel
+Step 2: Navigate to the server you are having trouble with
+Step 3: Select the "Console" tab on the left-hand side of the panel
+Step 4: Scroll down to the bottom of the console and look for the message "The server console output exceeds the buffer size, and no additional output

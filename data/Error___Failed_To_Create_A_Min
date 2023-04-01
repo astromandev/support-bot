@@ -1,7 +1,6 @@
-Error: Error: "Failed To Create A Minecraft Server Using The Pterodactyl Panel"
+Error: Error: "Failed To Create A Minecraft Server With Pterodactyl Panel - Failed To Allocate Memory"
 
-Solution: 1. Check that you have allocated enough RAM to your server. To do this, log in to your Pterodactyl panel and go to the "Console" tab. Type the command "free -m" (without quotes) to check your RAM allocation.
-
-2. Make sure that you have the correct version of Java installed on your server. Update to the latest version if necessary.
-
-3
+Solution: 1. Check the amount of memory you have allocated for the server in your Pterodactyl panel.
+2. Make sure that the amount of memory you are allocating is sufficient for your server's needs.
+3. If the allocated memory is insufficient, increase it in the panel.
+4. If the error persists, check the logs in the panel to determine the exact cause of

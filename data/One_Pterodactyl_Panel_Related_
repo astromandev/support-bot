@@ -1,0 +1,11 @@
+Error: One Pterodactyl Panel Related Minecraft Server Error A Beginner Might Encounter Is:
+
+**Error:** An Error Occurred While Attempting To Backup The Server.
+
+**
+
+Solution: **
+
+Step 1: Check if there is enough free space available on your server. Try to free up some space if your server's hard drive is full.
+
+Step 2: Check if your server is running the latest version of Pterodactyl Panel. You can check the version by logging into the panel and checking the top

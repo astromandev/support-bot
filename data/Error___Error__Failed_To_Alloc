@@ -1,6 +1,6 @@
-Error: Error: "Error: Failed To Allocate Memory: Out Of Memory"
+Error: Error: "Error: Failed To Allocate Minecraft Server: The CPU Quota For The Container Is Too Low. Your Container Has Been Restricted And Will Experience Degraded Performance."
 
-Solution: 1. Log in to your Pterodactyl panel and select the server that is experiencing the error.
-2. Click on the "Console" tab in the left-hand menu.
-3. Type "java -Xms1G -Xmx2G -jar {jarfile_name}.jar" (without quotes) in the console and hit enter. 
-4. This command increases the initial memory allocation to
+Solution: 1. Log in to your Pterodactyl panel using your username and password.
+2. Navigate to your server Dashboard and stop your server.
+3. Click on the "console" button on the left-hand side of the menu and wait for the console to load.
+4. Enter the command `docker container ls` and

@@ -1,0 +1,5 @@
+Error: Error: "Error Starting Minecraft Server On Pterodactyl Panel: Java Is Not Recognized As An Internal Or External Command, Operable Program Or Batch File."
+
+Solution: 1. This error occurs when the server cannot locate the Java installation on your system. Ensure you have correctly installed Java on your server by running the command "java -version" in your terminal or command prompt. If a version number is not displayed, Java is not installed or not in your system's PATH environment variable.
+
+2

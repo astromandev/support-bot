@@ -1,0 +1,6 @@
+Error: Error: "Server Stopped Responding" Message Appears In The Pterodactyl Panel And Users Are Unable To Access The Minecraft Server.
+
+Solution: 1. Open the Pterodactyl Panel and go to the "Console" tab for your Minecraft server.
+2. Check if the console shows any error messages or if the server has crashed.
+3. Reboot the server by clicking on the "Restart" button in the "Dashboard" tab.
+4. Wait a few minutes and try to access

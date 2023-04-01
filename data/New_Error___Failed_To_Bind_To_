@@ -1,4 +1,7 @@
-Error: New Error: "Failed To Bind To Port! Maybe Another Server Is Already Running On This Port?"
+Error: New Error: "Failed To Bind To Port For [::]:25565"
 
-Solution: 1. First, check if there is any other application running on the same port by running the command `netstat -ao | findstr :<port_number>` on the server terminal. Replace `<port_number>` with the actual port number of your server.
-2. Once you have identified the application, close or disable it. If you are unable to identify the application, try changing the
+Solution: Step 1: Check if the server is already running
+- Sometimes the error occurs because the server is already running on the specified port. Check the Pterodactyl panel dashboard to see if the server is already running.
+
+Step 2: Check if the port is already in use by another program
+- The error message indicates that the specified port (in this case, 25565) is already

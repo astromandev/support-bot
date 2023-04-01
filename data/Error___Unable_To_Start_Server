@@ -1,6 +1,5 @@
-Error: Error: "Unable To Start Server/Java/1.8.0/Jre/Bin/Java: No Such File Or Directory."
+Error: Error: "Unable To Start Server: The Server Must Be Started As The User That Owns The Server Files."
 
-Solution: This error occurs when the Java path is not set up correctly in the Pterodactyl panel. Here is a step-by-step solution for beginners to resolve this issue:
-
-1. Log in to your Pterodactyl panel and navigate to the server page in question.
-2. Click on the "Startup" tab and check that the Java path is correct
+Solution: 1. Open up the Pterodactyl panel and go to the "Console" tab for the server in question.
+2. Type the command "ls -l" to list the files in the server's directories and their owners.
+3. Look for the server's main JAR file and note the owner. It should be the same as the username you used to create

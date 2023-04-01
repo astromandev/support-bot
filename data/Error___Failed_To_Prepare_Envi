@@ -1,0 +1,4 @@
+Error: Error: "Failed To Prepare Environment: Failed To Start The Daemon: Cannot Bind To Address At 0.0.0.0:8080: Address Already In Use"
+
+Solution: 1. This error occurs when another program is already using port 8080 which is required by the Pterodactyl panel.
+2. To resolve this error, you need to find the program that is using port 8080 and stop it. You can do this by using the following command in the

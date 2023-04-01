@@ -1,0 +1,9 @@
+Error: Sure Thing! 
+
+Error: "Unable To Start Server. The Specified Jar File Does Not Exist."
+
+Solution: 1. First, make sure that you have uploaded the correct .jar file for your server to the correct directory. 
+
+2. If you have already uploaded the .jar file, double-check the location where it was uploaded to in the panel.
+
+3. If the file is in the correct directory, check the file permissions to make sure that the server software has permission to read and execute

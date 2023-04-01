@@ -1,0 +1,7 @@
+Error: Error: "Error Starting Up Server: Io.Netty.Channel.AbstractChannel$AnnotatedConnectException: Connection Timed Out: No Further Information."
+
+Solution: Step 1: Check your firewall settings and ensure that the port you are trying to use for your server is open.
+
+Step 2: Check that the IP address you are using to connect to the server is correct. You can find the server IP address in the Pterodactyl panel.
+
+Step 3: If you are using a custom IP

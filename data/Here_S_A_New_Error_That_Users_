@@ -1,0 +1,11 @@
+Error: Here'S A New Error That Users Might Encounter While Using The Pterodactyl Panel For Their Minecraft Server:
+
+**Error:** "Failed To Start Server. Error: An Exception Occurred While Executing The Java Class. Error Details: The Server Is Running With An Incompatible Version Of Java."
+
+**Step-By-Step
+
+Solution: **
+
+1. Check the current version of Java installed on your system. To do this, open the Command Prompt and type the command `java -version`.
+
+2. Check the minimum

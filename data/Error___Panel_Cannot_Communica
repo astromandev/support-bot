@@ -1,0 +1,7 @@
+Error: Error: "Panel Cannot Communicate With Daemon"
+
+Cause: This Issue Occurs When The Panel Is Unable To Communicate With The Daemon, Which Is Responsible For Running The Minecraft Server. This Can Be Due To A Number Of Reasons, Such As Misconfiguration Or Network Issues.
+
+Solution: Step 1: Check the daemon log file
+
+The first step is to check the daemon log file to identify any specific error messages. The log file can be found in the /var/log/pterodactyl/daemon/

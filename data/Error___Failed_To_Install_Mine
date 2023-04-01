@@ -1,0 +1,7 @@
+Error: Error: "Failed To Install Minecraft Server: The COPY Instruction Encountered An Issue"; This Error Commonly Occurs When Using The Pterodactyl Panel To Install A Minecraft Server.
+
+Solution: 1. Access the Pterodactyl panel and log in to your server.
+
+2. Navigate to the "Console" option and type "cd /mnt/server".
+
+3. Once in the server directory, type "rm minecraft_server.1.16.5.jar" to remove the corrupt Minecraft server file.

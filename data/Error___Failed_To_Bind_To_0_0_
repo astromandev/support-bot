@@ -1,0 +1,4 @@
+Error: Error: "Failed To Bind To 0.0.0.0:25565: Port Is Already Allocated."
+
+Solution: 1. Check if there is another instance of Minecraft or any other program running on the same port, i.e 25565. You can do this by running the command "netstat -ano | findstr :25565" in the command prompt or terminal.
+2. If you find any processes using the port number, terminate them or close the program that is using

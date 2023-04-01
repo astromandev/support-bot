@@ -1,0 +1,5 @@
+Error: Error: Server Won'T Start After Transferring It To A New Pterodactyl Panel.
+
+Solution: 1. First, make sure that you have successfully imported your server files onto the new panel.
+2. Check the server configuration files on the new panel. It's possible that some of the files are outdated, missing or have been modified during the transfer process.
+3. Review any errors or warnings in the server logs. They can give you a better idea of what might be causing the issue.

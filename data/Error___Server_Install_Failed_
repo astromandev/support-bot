@@ -1,0 +1,6 @@
+Error: Error: "Server Install Failed: Could Not Create Server Archive For Upload."
+
+Cause: This Error Occurs When The Pterodactyl Panel Is Unable To Create A Server Archive From The Files Uploaded By The User. This Can Happen Due To Incorrect File Permissions, Missing Files Or Folders, Or File/Folder Names Containing Invalid Characters.
+
+Solution: 1. First, make sure that you have uploaded all the required server files to the correct directory on your server.
+2. Check your file and folder names for

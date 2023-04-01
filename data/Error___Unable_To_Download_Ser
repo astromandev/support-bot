@@ -1,0 +1,7 @@
+Error: Error: "Unable To Download Server Jar Files" In The Pterodactyl Panel When Trying To Install A Minecraft Server.
+
+Solution: 1. Check if the Minecraft server jar files are available in the Pterodactyl panel. Sometimes, the server jar files may not be available or outdated, resulting in this error.
+
+2. Make sure that the server jar files are compatible with the Minecraft version you want to install.
+
+3. Check your firewall settings, and make sure that the necessary ports

@@ -1,0 +1,7 @@
+Error: New Error: "Your Server Has Been Suspended Due To Excessive Resource Usage"
+
+Solution: Step 1: Read the suspension email carefully to understand the reason for the suspension.
+
+Step 2: Log in to the Pterodactyl panel and go to the "Stats" section. Check the CPU, Memory, and Disk usage of your server.
+
+Step 3: Identify the process or plugin that is causing the high resource usage. You can use the "Top" command in the console to find

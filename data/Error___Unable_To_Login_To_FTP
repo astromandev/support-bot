@@ -1,0 +1,5 @@
+Error: Error: "Unable To Login To FTP Server Using Provided Credentials"
+
+Solution: 1. Check that you have entered the correct FTP username and password.
+2. If you are unsure of your FTP login details, you can reset them from the Pterodactyl panel. To do so, go to the dashboard, select "Servers", and then click on the server that you are having trouble with.
+3. Navigate to "Settings" > "Configuration", then scroll down to the "Advanced" section

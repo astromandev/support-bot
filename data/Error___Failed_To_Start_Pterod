@@ -1,0 +1,5 @@
+Error: Error: "Failed To Start Pterodactyl-Wings.Service: Unknown Unit: Pterodactyl-Wings.Service"
+
+Solution: 1. Check if you have installed the Pterodactyl panel correctly and running in your system. To verify this, type the command "systemctl status pterodactyl-panel" in your terminal.
+
+2. If the Pterodactyl panel status is active, then check the status of the Pterodactyl wings using "

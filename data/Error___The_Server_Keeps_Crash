@@ -1,6 +1,5 @@
-Error: Error: "The Server Keeps Crashing Immediately After Startup."
+Error: Error: "The Server Keeps Crashing When Trying To Start It Up In The Pterodactyl Panel."
 
-Solution: 1. The first step is to check the server logs for any error messages by logging into your pterodactyl panel.
-2. Once logged in, navigate to your server and click on "Console" to view the server output log.
-3. Look for any warnings and error messages that may be related to the server crash.
-4. Usually, a server crash is caused by incompatible plugins or mods, outdated Java version, or
+Solution: 1. Check the server's logs for any errors or warnings; these can give insight into what might be causing the issue.
+2. Make sure that the server software is up-to-date and compatible with your server's Java version.
+3. Increase the amount of allocated RAM for the server in the Pterodactyl panel. If this doesn't resolve the issue, try reducing

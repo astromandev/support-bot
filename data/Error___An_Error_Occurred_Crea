@@ -1,0 +1,6 @@
+Error: Error: "An Error Occurred Creating Your Server. Please Try Again Later Or Contact Support If This Issue Persists." This Error Occurs When You Try To Create A New Minecraft Server In The Pterodactyl Panel And The Creation Process Fails For Some Reason.
+
+Solution: Step 1: Check the server logs
+- Navigate to the Pterodactyl panel and access your server dashboard.
+- Click on the "Console" tab in the server dashboard to view the console logs.
+- Check for any

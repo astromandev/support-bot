@@ -1,9 +1,12 @@
 Error: Sure, Here'S One:
 
-**Error:** "The Server Is Stuck In The Starting State And Won'T Start."
+**Error:** "Server Stuck On "Starting" In Pterodactyl Panel"
 
 **
 
 Solution: **
 
-1. First, make sure your server's resources are sufficient. Check to ensure that your server has enough RAM allocated to it by going into the Pterodactyl panel and checking the "Resources" section. If the allocated RAM is insufficient, you can adjust it by going to the "Startup" section and changing the value for "-Xmx" in the
+1. Login to your Pterodactyl Panel and go to the "Console" tab.
+2. Click on "Send Power Signal" and select "Stop".
+3. Once the server is stopped, go to the "SFTP" tab and navigate to the "logs" folder.
+4. Open the "latest.log" file and look for any

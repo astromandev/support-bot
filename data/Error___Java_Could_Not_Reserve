@@ -1,6 +1,11 @@
-Error: Error: "Java Could Not Reserve Enough Space For Object Heap."
+Error: Error: "Java Could Not Reserve Enough Space For Object Heap" In Pterodactyl Panel Minecraft Server
 
-Solution: 1. Open the Pterodactyl Panel and navigate to the server console.
-2. Type "stop" to stop the server.
-3. Click on "startup" and then on "edit file".
-4. In the text editor, locate the "-Xmx" flag and reduce the value of the memory allocated for Java. For example, if it was set to 4G, reduce it to 2G
+This Error Occurs When The Server Has Insufficient Memory Allocation Or Space Available To Run The Java Virtual Machine (JVM) Properly. 
+
+Step-By-Step
+
+Solution: 1. Login to your Pterodactyl Panel account and navigate to the Server Console tab.
+
+2. Run the following command to check the memory allocation of your server: `cat /proc/meminfo`
+
+3. Check

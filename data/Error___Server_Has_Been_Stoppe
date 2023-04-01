@@ -1,0 +1,11 @@
+Error: Error: "Server Has Been Stopped, Unable To Start Server Successfully"
+
+Solution: 1. Login to your Pterodactyl panel.
+
+2. Navigate to the "Console" tab in the left side menu.
+
+3. Click on the "Send command" button and type in the following command: `df -h`.
+
+4. This command will display the disk usage of your server. Check to make sure that your disk usage is not at 100% or near to it.
+
+5.

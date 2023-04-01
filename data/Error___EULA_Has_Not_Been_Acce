@@ -1,0 +1,6 @@
+Error: Error: "EULA Has Not Been Accepted" When Launching A Pterodactyl Panel Minecraft Server.
+
+Solution: 1. Log in to your Pterodactyl Panel dashboard.
+2. Click on the "Files" tab, and then navigate to the "Server Properties" file located in the "Config" folder.
+3. Click on the "Edit" icon (pencil) next to the "Server Properties" file to open it.
+4. Scroll down to the bottom of the

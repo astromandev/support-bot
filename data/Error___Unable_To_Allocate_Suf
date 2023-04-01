@@ -1,7 +1,7 @@
-Error: Error: "Unable To Allocate Sufficient RAM For The Server" 
+Error: Error: "Unable To Allocate Sufficient RAM For The Server"
 
-Cause: This Error Occurs When The Server Is Unable To Allocate Sufficient RAM To Run The Server Properly.
+Solution: 1. First, make sure that you have installed enough RAM on your server machine. You can check this by using the command "free -m" on your Linux terminal or through the Task Manager on Windows.
 
-Solution: 1. Login to your Pterodactyl panel and navigate to the "File Manager" of the server that is having the issue.
-2. Open the "Start" file in the "Server" folder.
-3. Add the following line of code to the file: "-Xmx[number]G" (replace [
+2. If you have sufficient RAM, then open the Pterodactyl panel and navigate to the "Startup" tab.
+
+3. Here, locate the "-Xmx" and "-Xms" flags in the

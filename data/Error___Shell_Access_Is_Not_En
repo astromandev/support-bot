@@ -1,0 +1,9 @@
+Error: Error: "Shell Access Is Not Enabled For This Server"
+
+Solution: This error occurs when shell access is disabled for the server in the Pterodactyl control panel. Shell access is necessary to access the server's console and execute certain commands. To enable shell access for the server, follow these steps:
+
+1. Log in to your Pterodactyl control panel and go to the server's dashboard.
+
+2. Click on the "Console" tab.
+
+3. If the message "Shell

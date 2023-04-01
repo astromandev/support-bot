@@ -1,5 +1,6 @@
-Error: Error: "Server Status Is Stuck On 'Installing'"
+Error: Error: "Server Status Is Stuck On 'Starting' Or 'Stopping' In Pterodactyl Panel"
 
-Solution: 1. Check the console logs of the server to see if there are any errors shown. This will give you a clue as to what may be causing the issue.
-2. Check the server's disk space to ensure that there is enough space for the server to be installed. If there isn’t enough space, delete unnecessary files to clear some space.
-3. Restart the server and see if the issue is fixed. To restart
+Solution: 1. Log in to your Pterodactyl panel and go to the server that's having the issue.
+2. Click on the "Console" tab to see if there are any errors or messages.
+3. If there is an error message, try restarting the server by clicking on "Power" on the left-hand side and selecting "Restart".
+4. If

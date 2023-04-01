@@ -1,11 +1,6 @@
-Error: Sure, Here Is A New Error And Its Solution:
+Error: Sure! Here Is A New Error And Its Solution:
 
-Error: "Unable To Start Server: Cannot Allocate Memory". This Error Occurs When The Minecraft Server Is Unable To Allocate Sufficient Memory To Run Properly.
+Error: "The Server Crashed Unexpectedly." This Error Message Could Appear On The Pterodactyl Panel When Trying To Start A Minecraft Server That Crashes Before Or Shortly After The Startup Process.
 
-Solution: Step 1: Login to your Pterodactyl panel and navigate to the "console" tab for your server.
-
-Step 2: Stop the server by typing "/stop".
-
-Step 3: Navigate to the "Docker" tab on the left sidebar.
-
-Step 4:
+Solution: 1. Check the server logs for more information about the crash. You can access them by clicking on the server name in the Pterodactyl Panel and clicking on the "Console" tab.
+2. Look for any error messages or stack

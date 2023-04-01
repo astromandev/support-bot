@@ -1,0 +1,9 @@
+Error: Error: "Server Doesn'T Start After Installing A New Plugin On The Pterodactyl Panel Minecraft Server"
+
+Step-By-Step
+
+Solution: 1. Go to the Pterodactyl panel and login with your credentials.
+2. Click on "Console" to access the server console.
+3. Type in the command "stop" to stop the server if it's running.
+4. Now, go to the "Files" section and navigate to the "plugins" folder.
+5. Remove

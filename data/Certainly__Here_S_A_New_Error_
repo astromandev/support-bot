@@ -1,12 +1,8 @@
 Error: Certainly! Here'S A New Error And Its Solution:
 
-**Error:** "Failed To Start Minecraft Server: Cannot Assign Requested Address"
+Error: "Failed To Start Server - Error Code 127"
 
-**
-
-Solution: **
-This error message indicates that the network interface or the IP address specified in the configuration file is incorrect. Follow these steps to fix the error:
-
-1. Double-check the IP address specified in the Pterodactyl panel is correct.
-2. Verify that your server's network interface is correctly configured to use the desired IP address.
-3. If you
+Solution: 1. Log in to your Pterodactyl panel and go to the "Console" tab of your server.
+2. Type the following command: `which java`. This will display the path to the Java installation on your server.
+3. Open the "Start" tab of your server and scroll down to the "Java Settings" section.
+4. In the

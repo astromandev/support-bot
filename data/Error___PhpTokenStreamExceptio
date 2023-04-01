@@ -1,0 +1,6 @@
+Error: Error: "PhpTokenStreamException: The Lexer Has Terminated Unexpectedly. Do You Have An Invalid Character In Your File? In .../Vendor/Nikic/Php-Parser/Lib/PhpParser/Lexer.Php On Line 792"
+
+This Error Occurs On Pterodactyl Panel Minecraft Servers When There Is An Invalid Character In A PHP File.
+
+Solution: Step 1: Log in to your Pterodactyl panel using your login credentials.
+Step 2: Navigate to your server and click

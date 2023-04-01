@@ -1,0 +1,5 @@
+Error: Error: "Failed To Bind Port: Address Already In Use."
+
+Solution: 1. Firstly, check if the port number in the Pterodactyl panel matches the actual port number of the server. 
+2. If the port number of the panel matches the server's port number, check if there are any other programs using the same port number. To do this, type the command "netstat -aon" in the Command Prompt or PowerShell. 
+3. Look for the port number

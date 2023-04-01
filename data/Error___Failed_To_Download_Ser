@@ -1,5 +1,9 @@
-Error: Error: "Failed To Download Server Jar: Https://Papermc.Io/Api/V2/Projects/Paper/Versions/1.16.5/Builds/548/Downloads/Paper-1.16.5-548.Jar"
+Error: Error: "Failed To Download Server Jar: Java.Net.SocketTimeoutException: Read Timed Out"
 
-Solution: 1. Check the server jar URL: From the error message, it seems like the URL to download the server jar file is incorrect. Double-check that the URL you are using to download the server jar is correct.
+Solution: Step 1: Check your internet connection. Slow or unstable connections can cause this error.
 
-2. Check the Paper API: Visit the Paper
+Step 2: Check the Pterodactyl panel settings to make sure the right server jar file is selected. 
+
+Step 3: If you have the correct server jar file, try deleting it and then re-downloading it.
+
+Step 4: If the issue persists, try selecting a different

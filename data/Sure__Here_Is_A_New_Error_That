@@ -1,11 +1,8 @@
-Error: Sure, Here Is A New Error That A Beginner Might Encounter When Using The Pterodactyl Panel For Their Minecraft Server:
+Error: Sure, Here Is A New Error That Can Occur In A Pterodactyl Panel Minecraft Server For Beginners:
 
-**Error:** "The Server Is Unable To Start Due To A Missing Or Corrupted Jar File."
+Error: "Failed To Bind To Port" When Trying To Start The Server.
 
-**
-
-Solution: **
-
-1. Check if the jar file has actually been uploaded to the server. You can do this by logging into the server via FTP or using the File Manager in the Pterodactyl Panel.
-
-2. If the jar file is missing, locate it
+Solution: 1. Stop the server if it is currently running.
+2. Go to the "Configuration" tab on the left-hand side menu of your Pterodactyl panel.
+3. Scroll down to the "Startup" section and find the "Server port" option.
+4. Change the value

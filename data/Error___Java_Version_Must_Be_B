@@ -1,0 +1,7 @@
+Error: Error: "Java Version Must Be Between 8 And 16."
+
+Solution: Step 1: Check the version of Java installed on the server. You can do this by running the command: "java -version" in the command prompt or terminal.
+
+Step 2: If the version of Java is not between 8 and 16, you will need to install the correct version. You can download the correct version of Java from the official website.
+
+Step 3: Once you have downloaded the

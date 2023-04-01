@@ -1,5 +1,5 @@
-Error: Error: "Unable To Create A New Minecraft Server Instance On The Pterodactyl Panel."
+Error: Error: "Unable To Create A New Minecraft Server Instance Through The Pterodactyl Panel."
 
-Solution: 1. Check the available disk space on the server. If the server is low on disk space, it can't create a new server instance. To check disk space, use the command 'df -h' in the terminal of the server.
+Solution: Step 1: First, check if your server has enough resources to create a new Minecraft server instance. You can check this by going to the "Node Overview" section of the Pterodactyl panel and looking at the resource utilization charts.
 
-2. Check the Docker container status. If the Docker container is not running, you need to start it. Use the command 'docker ps -
+Step 2: Next, make sure that you have selected the correct Minecraft server version and jar file. You can do this by going to

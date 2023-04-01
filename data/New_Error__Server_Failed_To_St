@@ -1,0 +1,8 @@
+Error: New Error: Server Failed To Start After Installing A New Plugin
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the dashboard of the affected server.
+2. Go to the file management section, and navigate to the plugins folder.
+3. Check if the installed plugin is compatible with the version of Minecraft and the server software you're using.
+4. If the plugin is compatible, uninstall it and reinstall it, making sure that the correct version of

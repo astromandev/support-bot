@@ -1,0 +1,5 @@
+Error: Error: "Could Not Bind To Address 0.0.0.0:25565 - Address Already In Use"
+
+Solution: 1. This error occurs when the Minecraft server port is already in use by another process on your server. To fix this, you'll need to free up the port.
+
+2. First, you'll need to determine which application is currently using the port. To do this, open the terminal and run the following command: lsof -i :25565

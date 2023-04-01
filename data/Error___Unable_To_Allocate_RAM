@@ -1,7 +1,7 @@
-Error: Error: "Unable To Allocate RAM: Server Halted"
+Error: Error: "Unable To Allocate RAM - Minecraft Server Won'T Start"
 
-Solution: 1. Log in to your Pterodactyl panel.
-2. Click on the "Console" button on the left side of the screen.
-3. Type "top" into the console and press enter. This will display the current processes running on your server.
-4. Look for any processes that are using a lot of memory and write down their process ID number (PID).
-5. Type "kill [PID]" into the
+Solution: This error occurs when the server is unable to allocate enough RAM for the Minecraft server to launch. Here's how to fix it:
+
+Step 1: Check your server's available memory. Login to your Pterodactyl panel and navigate to the 'Console' tab. There, type the command "free -m". This will list the total memory and available memory, as well as the used memory.
+
+Step

@@ -1,0 +1,5 @@
+Error: Error: "The Server Crashed Due To A Fatal Error During Startup."
+
+Solution: 1. Check the server logs: Access your server console from the Pterodactyl Panel and look for error messages in the log. The error message should give you an idea of what caused the crash. Common causes of server crashes could include issues with plugins, problematic mods, or insufficient RAM or CPU resources.
+
+2. Allocate more resources: If the server crashed due to insufficient RAM or CPU resources, you will need

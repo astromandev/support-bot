@@ -1,0 +1,8 @@
+Error: Error: "The Scheduled Task For Automatic Restart Has Failed To Start."
+
+Solution: 1. Login to the Pterodactyl panel
+2. Click on "Schedules" in the left sidebar menu
+3. Check if the settings for the automatic restart task are correct
+4. Make sure that the cron job syntax is correct (minute, hour, day of month, month, day of week)
+5. Check whether the server is turned on and running
+6. Verify that the logs

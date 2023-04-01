@@ -1,11 +1,7 @@
-Error: Here Is A New Error That Can Occur While Running A Minecraft Server:
+Error: Here Is A New Error That Can Occur In Pterodactyl Panel Minecraft Server And Its Solution:
 
-**Error:** "The Server Doesn'T Start Properly And Displays The Error 'ExceptionInInitializerError'."
+Error: "Server Is Not Responding" Or "Server Connection Timed Out"
 
-**Step-By-Step
-
-Solution: ** 
-
-1. First, check if your server's Java version matches the recommended version for your Minecraft server. You can find the recommended Java version on the Minecraft website. If your Java version is not the recommended one, update your Java installation.
- 
-2. If the problem persists, it may
+Solution: 1. Check if the Minecraft server is running or not. If it is not running, start the server.
+2. Check the server logs for any errors. If there are any errors, troubleshoot them accordingly.
+3. Check if the server IP address and port number are correct. Make sure to use the

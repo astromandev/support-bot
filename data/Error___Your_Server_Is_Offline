@@ -1,0 +1,7 @@
+Error: Error: "Your Server Is Offline, Please Contact Support"
+
+Solution: 1. Check your server's status: Go to your Pterodactyl panel and check your server's status. If it is offline, try restarting it.
+
+2. Check the server logs: Click the "console" button on your Pterodactyl panel to see if there are any error messages in the logs. If you see any errors, try to troubleshoot the issue based on the error message.
+
+3.

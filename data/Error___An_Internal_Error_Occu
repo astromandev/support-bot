@@ -1,0 +1,5 @@
+Error: Error: "An Internal Error Occurred While Attempting To Perform This Command"
+
+Solution: 1. Check the console logs for any errors or warnings that may be causing the issue. Look for any mention of the command that is causing the error or any plugins that may be causing conflicts.
+2. Restart the server and try running the command again. Sometimes, a simple restart can clear up any issues that may be causing the error.
+3. Check the permissions for the command. Make sure that the user or group

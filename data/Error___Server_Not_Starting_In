@@ -1,0 +1,6 @@
+Error: Error: "Server Not Starting In Pterodactyl Panel"
+
+Solution: Step 1: Log in to the Pterodactyl panel and navigate to the "Console" tab.
+Step 2: Check if any error messages have been displayed on the console. These error messages can help identify the root cause of the problem.
+Step 3: If there are no error messages, try rebooting the server. Sometimes, this can resolve the issue.
+Step 4: Navigate to the

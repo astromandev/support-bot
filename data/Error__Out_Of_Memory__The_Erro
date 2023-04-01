@@ -1,0 +1,6 @@
+Error: Error: Out Of Memory 
+The Error Message May Appear As: "Cannot Allocate Memory" Or "Java Heap Space". This Error Occurs When The Server Runs Out Of Memory And Unable To Allocate More Resources For Java Virtual Machine (JVM).
+
+Solution: Step 1: Open the Pterodactyl panel and navigate to your server dashboard.
+Step 2: Click the "Console" button to access the server console.
+Step 3: Stop the server by typing "stop" into the

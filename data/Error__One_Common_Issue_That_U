@@ -1,0 +1,8 @@
+Error: Error:
+One Common Issue That Users May Encounter When Using The Pterodactyl Panel For Minecraft Servers Is A "Server Stopped" Error, Where The Server Fails To Start Or Keeps Restarting After A Short While.
+
+Solution: Here are some steps to help resolve this issue:
+
+1. Check the server log: Access the server log through the panel to see if there are any errors or warnings that could be causing the issue.
+
+2. Verify the server configuration: Ensure that the server configuration is correct

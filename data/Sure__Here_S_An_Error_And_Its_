@@ -1,12 +1,7 @@
 Error: Sure, Here'S An Error And Its Solution:
 
-**Error:** "Java Installation Not Found" When Setting Up A New Minecraft Server On Pterodactyl Panel.
+Error: "Cannot Allocate Memory" When Starting A Minecraft Server On Pterodactyl Panel.
 
-**
-
-Solution: **
-
-1. Log in to your Pterodactyl panel and navigate to the server's dashboard.
-2. Click on the "Console" button to bring up the console window.
-3. Type `java -version` into the console and hit enter.
-4. If the output shows that Java is not installed
+Solution: 1. First, ensure that your server has enough resources allocated to it. This error can occur when the server does not have enough available memory.
+2. If you have already allocated enough resources, try disabling any unnecessary plugins or mods on the server.
+3. If the error persists, try increasing your server's JVM arguments. You can do

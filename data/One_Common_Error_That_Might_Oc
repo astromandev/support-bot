@@ -1,0 +1,9 @@
+Error: One Common Error That Might Occur In Pterodactyl Panel Minecraft Server Is "Can'T Connect To Server".
+
+Step-By-Step
+
+Solution: 1. Check the server's status:  
+Make sure the server is online and running. Check if the server status is "running" in the server control panel of the Pterodactyl panel. 
+
+2. Check server IP address and port: 
+Ensure that you have the correct IP address and port for your server. These details can be found in

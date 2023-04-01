@@ -1,0 +1,6 @@
+Error: Error: "Server Not Found In Panel" When Attempting To Add A Server On Pterodactyl Panel
+
+Solution: 1. Check that the server is actually ONLINE by attempting to ping the server IP address from your computer.
+2. Check that the server details are correct in the panel, including the IP address and port number.
+3. Ensure that the server has been added to the correct node in the panel.
+4. If the server is a new installation, ensure that the installation process has

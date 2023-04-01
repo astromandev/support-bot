@@ -1,5 +1,6 @@
-Error: Error: "The Server Will Not Start And The Console Displays An Error Message 'Java.Net.BindException: Address Already In Use'."
+Error: Error: "The Server Will Not Start And Shows The Error "Error: Could Not Find Or Load Main Class"
 
-Cause: This Error Occurs When The Port That The Server Is Trying To Use Is Already In Use By Another Program Or Minecraft Server, Typically Because You'Re Trying To Start A New Server On The Same Port As An Already Running Server.
-
-Solution: 1. Check which ports are currently in use: run the command prompt as an administrator, and type in `netstat -
+Solution: 1. Check that your server jar file or server type is correctly set up in the panel.
+2. Ensure that you have selected the correct Java version for your server in the panel.
+3. Check that the server jar file is uploaded to the correct directory and that there are no naming errors.
+4. Make sure that any customizations to the server configuration files, such as

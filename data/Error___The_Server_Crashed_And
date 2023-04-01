@@ -1,0 +1,5 @@
+Error: Error: "The Server Crashed And Won'T Start Up Again"
+
+Solution: 1. Check for any recent changes: Before attempting any fixes, check if you or someone on your team made any changes to the server recently, such as installing new plugins or mods. If so, remove them and try starting the server again.
+2. Check the server logs: The error logs may provide more information on the reason why the server crashed. Look for any error messages or warnings that give you a clue.
+3

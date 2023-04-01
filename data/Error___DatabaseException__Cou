@@ -1,0 +1,5 @@
+Error: Error: "DatabaseException: Could Not Connect To The Database. Please Check Your Credentials And Try Again."
+
+Solution: 1. Check if you have provided the correct database details, such as host, port, username, and password.
+2. Make sure that the database server is running and can be accessed from the server where your panel is hosted.
+3. Check if the panel has the necessary permissions to connect to the database. You can do this by checking the firewall settings, as well as the user

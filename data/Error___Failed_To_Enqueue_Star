@@ -1,0 +1,9 @@
+Error: Error: "Failed To Enqueue Startup Task ‘Java’ On Startup"
+
+Solution: 1. Log in to your Pterodactyl Control Panel and navigate to the "Console" section for your Minecraft server.
+
+2. Confirm that the server is not running any other processes that could be interfering with the startup task.
+
+3. Shut down the server and reboot it. After reboot, clear the server logs and try starting up the server again.
+
+4. Disable unnecessary plugins or mods for the server to eliminate

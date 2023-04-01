@@ -1,0 +1,5 @@
+Error: Error: My Pterodactyl Minecraft Server Is Not Starting Up And It Shows An Error "Error: Failed To Bind To Address [::]:25565: Permission Denied"
+
+Solution: This error occurs when you try to start the Minecraft server on a port that requires elevated privileges, but the Minecraft server does not have the required permissions to do so. To fix it, you need to change the port to a non-privileged one or grant the Minecraft server the required permissions.
+
+Step 1:

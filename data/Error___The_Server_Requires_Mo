@@ -1,0 +1,7 @@
+Error: Error: "The Server Requires More RAM Than Is Currently Allocated. Please Update Your Allocation Settings."
+
+Solution: 1. Log in to your Pterodactyl panel and select your Minecraft server from the dashboard.
+2. Click on the "Startup" tab on the left-hand side of the screen.
+3. Scroll down to the "JVM Options" section.
+4. In the "JVM Options" textbox, add the following command: -Xmx<amount of RAM>G
+   For

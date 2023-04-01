@@ -1,11 +1,11 @@
-Error: Error: "Failed To Load Libraries: [Lwjgl.Dll, Lwjgl64.Dll, OpenAL32.Dll, OpenAL64.Dll]"
+Error: Error: "Failed To Load Libraries: Lwjgl.Dll"
 
-Solution: Step 1: Download the latest version of Minecraft launcher from the official website.
+Solution: 1. Check if your operating system and Java version is compatible with the server software.
 
-Step 2: Open the Minecraft launcher and click on the "Installations" tab.
+2. Navigate to your server directory and locate the "libraries" folder.
 
-Step 3: Select the installation for which you are facing the error.
+3. Open the folder and search for the "org" folder.
 
-Step 4: Click on the "Edit" button.
+4. Locate the folder named "lwjgl" and enter it.
 
-Step 5: Select the "
+5. Within the "lwjgl" folder, locate the folder with the same version number as the one in your

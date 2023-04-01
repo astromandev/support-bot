@@ -1,0 +1,13 @@
+Error: Sure, A New Error That Beginners May Encounter While Using The Pterodactyl Panel Is:
+
+**Error:** "The Server Is Unable To Start Due To A Problem With The EULA"
+
+**Cause:** This Error Occurs When The End User License Agreement (EULA) Has Not Been Accepted.
+
+**
+
+Solution: **
+
+1. Log in to your Pterodactyl panel account.
+2. Click on the "Console" option for the affected server.
+3. Type "nano eula.txt

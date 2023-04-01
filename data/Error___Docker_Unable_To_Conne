@@ -1,0 +1,5 @@
+Error: Error: "Docker Unable To Connect To The Docker Daemon At Unix:///Var/Run/Docker.Sock. Is The Docker Daemon Running?"
+
+Solution: 1. Firstly, ensure that Docker is installed on your system and running. You can do this by checking the Docker service with the command "sudo systemctl status docker" in the terminal. It should display the status as active (running).
+
+2. If the service is not running, start the Docker service using the command "sudo systemctl start docker" in the terminal

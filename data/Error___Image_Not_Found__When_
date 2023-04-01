@@ -1,0 +1,7 @@
+Error: Error: "Image Not Found" When Attempting To Start A Docker Container For A Minecraft Server On Pterodactyl Panel.
+
+Solution: This error occurs when the Docker image specified for the server does not exist in the Docker repository or has not been properly uploaded to the panel. Here's a step-by-step guide to fix this issue:
+
+1. Log in to your Pterodactyl Panel dashboard.
+2. Navigate to the server that is experiencing the "Image Not Found" error.
+3

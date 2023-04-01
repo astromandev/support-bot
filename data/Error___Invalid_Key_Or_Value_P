@@ -1,0 +1,13 @@
+Error: Error: "Invalid Key Or Value Provided For Count"
+
+Solution: 1. Log in to your Pterodactyl panel.
+
+2. Click on the "Servers" tab and select the server where the error is occurring.
+
+3. Click on "Console" tab and access the server console.
+
+4. Once you're in the server console, navigate to the "config" folder using the "cd" command.
+
+5. Open the "count" file using "nano count" command.
+
+6

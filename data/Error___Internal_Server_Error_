@@ -1,5 +1,5 @@
-Error: Error: "Internal Server Error" Message On The Pterodactyl Panel When Trying To Start Your Minecraft Server.
+Error: Error: "Internal Server Error (HTTP 500)" When Trying To Access The Pterodactyl Panel.
 
-Solution: 1. Check the console logs: Go to your Pterodactyl panel and click on "Console" to see the server console logs. Check for any errors or messages that might indicate the root cause of the issue.
-
-2. Check the server jar file: Check that the server JAR file is installed correctly on your server. The Pterodactyl panel
+Solution: 1. Check for any recent updates or changes made to your server that may have caused this error.
+2. Verify that all the necessary requirements for running the Pterodactyl panel are met by checking the installation guide provided by the Pterodactyl team.
+3. Check the server logs for any errors or warnings related to the Pterodactyl panel,

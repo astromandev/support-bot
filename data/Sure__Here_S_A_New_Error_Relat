@@ -1,9 +1,13 @@
-Error: Sure, Here'S A New Error Related To Pterodactyl Panel Minecraft Server And Its Solution:
+Error: Sure, Here'S A New Error Related To The Pterodactyl Panel For Minecraft Servers That Commonly Occur:
 
-**Error:** "An Error Occurred While Trying To Install A Minecraft Server Through The Pterodactyl Panel. The Error Message Reads: `The Server Jar File Does Not Exist. Please Contact Your Server Administrator.`"
+**Error:** "Failed To Bind To Server Port!" When Starting The Server.
 
 **
 
 Solution: **
 
-1. Check your server configuration in the Pterodactyl Panel to ensure that you have selected the correct version of Minecraft and that the jar file is
+1. First, make sure that no other program or service is already using the same port number as your Minecraft server.
+
+2. Open the Pterodactyl Panel and navigate to the "Server Configuration" tab.
+
+3. Scroll down to the "Server Properties" section and click

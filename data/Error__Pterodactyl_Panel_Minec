@@ -1,5 +1,5 @@
-Error: Error: Pterodactyl Panel Minecraft Server Shows "502 Bad Gateway" Error When Trying To Access The Panel.
+Error: Error: Pterodactyl Panel Minecraft Server Is Not Starting After Successful Installation On Ubuntu.
 
-Solution: Step 1: Check if the error is site-wide or not by trying to access other websites. If you can access them, then the problem is with the Pterodactyl panel server only.
-Step 2: Check if the server is running or not. In case the server is down, start the server again in the terminal or command prompt.
-Step
+Solution: Step 1: Check if the server is actually running. Open the terminal and type the command "systemctl status minecraft@SERVERNAME.service". If it shows that the service is inactive or failed, then the server is not running.
+
+Step 2: Check if the correct version of Java is installed. Type the command "java -version" in the terminal. If it shows an error

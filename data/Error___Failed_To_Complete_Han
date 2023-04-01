@@ -1,0 +1,7 @@
+Error: Error: "Failed To Complete Handshake. Server 1 Disconnected."
+
+Solution: 1. Check if your server is running the latest version of Minecraft. If not, update it to the latest version.
+2. Verify that your server's port is properly forwarded. 
+3. Ensure that your firewall settings allow incoming and outgoing connections on your server's port.
+4. Check your server console for any relevant error messages.
+5. If you have any plugins installed, try removing them temporarily to see if the issue

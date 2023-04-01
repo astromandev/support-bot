@@ -1,0 +1,6 @@
+Error: Error: "Error: Server Must Be Running In Order To Be Accessed Via The Control Panel."
+
+Solution: 1. Check if the server is running or not. If the server is not running, start it.
+2. If the server is running, but the error still appears, try restarting the server.
+3. If restarting the server doesn't work, try rebooting the entire system.
+4. If the error persists even after restarting the system, check the server configuration settings in the Pterod

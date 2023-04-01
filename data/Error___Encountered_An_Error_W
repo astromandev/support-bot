@@ -1,0 +1,9 @@
+Error: Error: "Encountered An Error While Uploading Server File: TaskException: Expected HTTP Status Code [2xx/3xx], But Found 403"
+
+Solution: Step 1: Check your panel's API key.
+- Login to your panel as an admin.
+- Click on the user icon in the top-right corner.
+- Select "API Credentials" from the dropdown menu.
+- Ensure that the API key you have entered in Pterodactyl is correct.
+
+Step 2: Check

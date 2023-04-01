@@ -1,0 +1,6 @@
+Error: Error: "Oops! An Error Occurred While Trying To Generate The Server Container!
+The Error Message Returned Is: Failed To Create Container For "Server-Name". Please Try Again Or Submit A Support Ticket If The Issue Continues."
+
+Solution: 1. Check your server name: Make sure that you have set up the server name correctly.
+2. Restart the server creation process: If the issue persists, try restarting the server creation process.
+3. Change server location: If the server creation fails multiple times, try

@@ -1,6 +1,5 @@
-Error: Error: "Could Not Allocate Enough RAM: Minecraft Will Crash!" On A Pterodactyl Panel Minecraft Server.
+Error: Error: "Could Not Allocate Enough RAM: Minecraft Will Not Start."
 
-Solution: 1. Login to your Pterodactyl Panel, and click on the server where you are experiencing the problem.
-2. Navigate to the "Startup" section from the left-hand menu.
-3. Scroll down to the "Java Settings" section, and locate the "-Xmx" flag. This flag sets the maximum amount of RAM allocated to your server.
-4
+Solution: 1. First, ensure that you have allocated the correct amount of RAM to your server according to your server's needs. You can check your server's specifications to determine what is required.
+2. Login to your Pterodactyl panel and go to the "Startup" tab for your server.
+3. Scroll down to the "Java Settings" section and check the values of the "-Xms" and "-X

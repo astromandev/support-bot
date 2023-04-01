@@ -1,0 +1,8 @@
+Error: Here'S A Possible Error And Its Solution:
+
+Error: "Cannot Allocate Enough Memory For The Minecraft Server"
+- This Error Occurs When The Server Is Lacking Available Memory To Execute The Selected Game Mode.
+
+Solution: 1. Access the Pterodactyl panel and log in to your server.
+2. Click on the "Console" tab and type the command "free -m" to check the available memory.
+3. Check your server's allocated memory in the "Startup" tab. If the

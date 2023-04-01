@@ -1,8 +1,6 @@
-Error: Here Is A New Error And Its Solution:
+Error: Here Is A New Error And Its Solution Related To Setting Up A Minecraft Server Using The Pterodactyl Panel:
 
-Error: "Failed To Bind To Port. Maybe Another Server Is Already Running On That Port."
+Error: "The Server Is Not Online"
 
-Solution: 1. Log in to the Pterodactyl Panel and stop the server.
-2. Once the server is stopped, click on the "File Manager" tab.
-3. Look for a file named "server.properties" and open it.
-4. Change the server port number to an available port. For example, change the port from "255
+Solution: 1. Log in to your Pterodactyl panel and navigate to the "Console" tab for the server in question.
+2. Make sure that the server is actually turned on by typing "systemctl status minecraft@YOUR_SERVER"  into the console. If the process is running, you'll see "active

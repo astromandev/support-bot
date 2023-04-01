@@ -1,9 +1,6 @@
 Error: Sure, Here'S A New Error:
 
-Error: "Failed To Authenticate With Minecraft.Net"
+Error: "Server Offline" Message In Pterodactyl Panel Even Though The Server Is Running.
 
-Solution: This error occurs when the server is unable to authenticate with the Minecraft authentication servers. To solve this error, you can follow the steps below:
-
-Step 1: Check if the Minecraft authentication servers are up and running. You can check the status of the authentication servers at https://help.mojang.com/.
-  
-Step 2: If the authentication servers are up and running, then check if the Minecraft
+Solution: 1. Check if the server is actually running by logging in to the server console through SSH or using a terminal program. You can also check the server logs to see if there is any error preventing the server from starting up.
+2. Check if the server's firewall is blocking incoming connections. You can do this by looking at the server's network

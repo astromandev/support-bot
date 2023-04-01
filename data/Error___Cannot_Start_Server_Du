@@ -1,7 +1,9 @@
-Error: Error: "Cannot Start Server Due To 'Java.Lang.NullPointerException' Error."
+Error: Error: "Cannot Start Server Due To Invalid Java Path"
 
-Solution: 1. The first step to solving this issue is to check the server logs for any specific error messages related to the 'Java.Lang.NullPointerException' error. 
+Solution: 1. Log in to your Pterodactyl panel.
+2. Navigate to the "Startup" tab for the server in question.
+3. Scroll down to the "Java Path" section.
+4. Make sure that the Java path is correct and points to your server's Java installation directory. If the path is incorrect, correct it.
+5. Save the changes and try starting the server again.
 
-2. The next step is to ensure that the server software is up-to-date, and that all plugins or mods are compatible with the server version. 
-
-3. If the server software is up-to-date and there are no incompatible plugins or mods
+If the error message persists

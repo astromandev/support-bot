@@ -1,5 +1,7 @@
-Error: Error: "The Server Failed To Start After Clicking The "Start" Button On The Pterodactyl Panel. The Console Is Showing An Error Message That Says "Exception In Server Tick Loop"."
+Error: Error: "The Server Failed To Start Because It Could Not Bind To The IP Address On Port 25565"
 
-Solution: 1. Check if the server JAR file is correct and has been uploaded correctly on the panel.
-2. Check if the server resource limits are set correctly. Make sure that there is enough RAM and CPU assigned to the server.
-3. Check if the server ports are open in the
+Solution: 1. Check if the IP address you are trying to use is correct by going to the Pterodactyl panel, navigating to the "Configuration" tab, and making sure the IP address in the "Listening IP" field is correct.
+
+2. Check your firewall and make sure port 25565 is open so that the server can listen for incoming connections.
+
+3.

@@ -1,0 +1,6 @@
+Error: New Error: "Error Creating A New Minecraft Server In Pterodactyl Panel: Failed To Create Default Server Settings"
+
+Step-By-Step
+
+Solution: 1. First, check if the disk quota limit for the user is not exceeded. If it is, you may need to consider increasing the limit or freeing up some disk space.
+2. Next, check the server allocation limits in the Pterodactyl panel. Ensure that you have enough CPU, RAM, and storage allocated to create a

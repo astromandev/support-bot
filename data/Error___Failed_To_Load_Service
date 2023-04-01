@@ -1,0 +1,7 @@
+Error: Error: "Failed To Load Service: Invalid Status Code 503"
+
+Solution: This error typically occurs when the server is overloaded or undergoing maintenance. To resolve this error, follow these steps:
+
+1. Wait for a few minutes and try to refresh the page again. Sometimes, the error can be temporary and may disappear on its own.
+
+2. Check if the servers are undergoing maintenance. You can check for any maintenance announcements on the official Pterodactyl Panel Twitter handle, Discord server, or

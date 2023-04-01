@@ -1,0 +1,7 @@
+Error: Error: "Server Is Stuck On "Starting" Status After Successful Installation On Pterodactyl Panel"
+
+Solution: 1. First, check the server console for any error messages. Look for any message indicating that there might be a problem starting the server.
+
+2. If there are no error messages, try restarting the server. Go to the Pterodactyl panel, navigate to your server, and then click on the "Restart" button in the left-hand menu.
+
+3. If restarting

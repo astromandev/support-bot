@@ -1,0 +1,6 @@
+Error: Error: Server Jar Not Found In The Panel
+
+Solution: 1. Log into your Pterodactyl panel and open the File Manager for your server.
+2. Check to ensure that the server.jar file is present in the main directory.
+3. If server.jar is not present in the main directory, you will need to upload it. You can upload the file by clicking on the Upload button at the top of the File Manager page.
+4. Once the file has been uploaded, rename it

@@ -1,0 +1,5 @@
+Error: Error: "Error: Server.Jar Not Found" - This Error Typically Occurs When The Pterodactyl Panel Cannot Locate The Minecraft Server Jar File, Which Is Required To Start The Server.
+
+Solution: Step 1: Check the server's root directory to ensure that the server.jar file is present. If it's not there, upload or transfer it to the root directory.
+Step 2: Go to the pterodactyl panel's dashboard and select your server.
+Step 3:

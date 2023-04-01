@@ -1,0 +1,9 @@
+Error: Error: "PHP Version 7.3 Or Higher Is Required For Pterodactyl To Function Properly."
+
+Solution: 1. Log in to your Pterodactyl panel.
+
+2. Click on the "Administration" tab, then click on the "Nodes" tab.
+
+3. Click on the "Configure" button next to the node where the server you want to update is located.
+
+4. Scroll down to the "Webserver" section and find the "PHP Version" option.

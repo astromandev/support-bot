@@ -1,0 +1,5 @@
+Error: New Error: "Failed To Authenticate With Minecraft.Net. Are The Servers Down?"
+
+Cause: This Error Occurs When The Pterodactyl Panel Is Unable To Connect To Minecraft.Net For Authentication. It May Be Caused By Server Issues Or Network Connectivity Problems.
+
+Solution: Step 1: Check server status: You need to check if Minecraft.net is down. You can do this by visiting https://help.mojang.com/ and checking the "Minecraft Session Service" status. If the service is

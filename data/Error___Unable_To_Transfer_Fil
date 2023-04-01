@@ -1,0 +1,6 @@
+Error: Error: "Unable To Transfer File Backup.Tar.Gz To Remote Location"
+
+Solution: 1. First, log in to your Pterodactyl panel and navigate to your server's dashboard.
+2. Then, click the "File Manager" tab.
+3. Check the permissions of the directory where the backup is supposed to be saved. Make sure that the directory is owned by the user running the Pterodactyl daemon, typically `pterodactyl:pterodactyl`.
+4.

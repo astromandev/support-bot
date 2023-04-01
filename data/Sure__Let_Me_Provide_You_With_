@@ -1,0 +1,7 @@
+Error: Sure, Let Me Provide You With A New Pterodactyl Panel Minecraft Server Related Error And Its Solution.
+
+Error: "Out Of Memory" Java Heap Space Error When Running A Minecraft Server On Pterodactyl Panel.
+
+Solution: 1. Login to your Pterodactyl panel and navigate to the "Console" tab.
+
+2. Type the command "java -Xms512M -Xmx1G -jar server.jar" to allocate the minimum and maximum amount of memory

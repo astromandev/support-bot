@@ -1,10 +1,8 @@
-Error: Error: "503 Service Unavailable" When Accessing The Pterodactyl Panel For Minecraft Server Management.
+Error: Error: "503 Service Unavailable" When Trying To Access The Pterodactyl Panel.
 
-Solution: Step 1: Check your server status
-Ensure your Minecraft server is running and has not crashed by checking server logs and status.
+Solution: 1. Check if the server is running: 
+    a. Log in to your SSH session.
+    b. Run the command to check if your server is running: sudo docker ps
+    c. If the Docker image for the Pterodactyl Panel is not running, you'll need to start it up: sudo docker-compose up -d
 
-Step 2: Restart the server
-Try restarting the server by using the restart feature on the Pterodactyl Panel.
-
-Step 3: Clear browser cache and cookies
-Clear your browser cache and cookies to ensure there are no conflicts with the
+2. Check the status of

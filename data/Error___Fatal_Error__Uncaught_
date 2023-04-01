@@ -1,0 +1,6 @@
+Error: Error: "Fatal Error: Uncaught ErrorException: Undefined Offset: 0 In /Var/Www/Html/Vendor/Aws/Aws-Sdk-Php/Src/WrappedHttpHandler.Php:186"
+
+Solution: 1. Log in to your Pterodactyl control panel and click on the "Console" tab for your Minecraft server.
+2. Stop the server by typing "stop" and pressing enter.
+3. Navigate to the "Files" tab and open the "server.properties" file.
+4. Scroll down to

@@ -1,8 +1,7 @@
-Error: Error: "Java.Lang.OutOfMemoryError"
+Error: Error: "Java.Lang.OutOfMemoryError: GC Overhead Limit Exceeded" In A Pterodactyl Panel Minecraft Server.
 
-Cause: This Error Occurs When The Minecraft Server Runs Out Of Memory Allocated To It And Is Unable To Continue Running.
+Solution: 1. Log in to your Pterodactyl panel and go to the “Console” tab of your Minecraft server.
 
-Solution: Step 1: Access the Pterodactyl control panel and login to your account.
-Step 2: Click on the "Console" tab for the server in question
-Step 3: Type the command "stop" to end the server's current session
-Step 4: Click on the "File Manager"
+2. Check the current Java arguments by typing “java -XX:+PrintFlagsFinal -version | grep HeapSize” in the console.
+
+3. You may see Java arguments such as “-Xmx” and “-Xms

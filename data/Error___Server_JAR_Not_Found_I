@@ -1,0 +1,11 @@
+Error: Error: "Server JAR Not Found In Expected Location"
+
+Step-By-Step
+
+Solution: 1. Login to your Pterodactyl panel.
+2. Navigate to the "Console" page.
+3. Stop the server by typing "stop" in the console and hitting enter.
+4. Go to the "Settings" page.
+5. Click on "Startup" on the left-hand menu.
+6. Ensure that the Server Type and Server JAR File fields are correct.
+7. If they are

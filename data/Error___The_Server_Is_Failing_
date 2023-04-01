@@ -1,6 +1,7 @@
-Error: Error: "The Server Is Failing To Start And Giving The Error Message: "Failed To Run Server Start Script (Start Server Script Exit Code: 1)."
+Error: Error: "The Server Is Failing To Start And Shows A Message "Error: Authentication Token Not Recognized By The Server."
 
-Solution: 1. Login to your Pterodactyl panel.
-2. Click on "Console" and check the error logs to see what might be causing the issue.
-3. If the error points to a plugin or mod, try removing the plugin/mod and restarting the server.
-4. If the error is pointing towards a issue
+Solution: 1. This error can occur if the API token of your server is changed or expired. To resolve this issue, you need to generate a new API token.
+
+2. To generate a new API token, go to the Pterodactyl panel and click on "API" in the sidebar.
+
+3. Then, click on the "Create New" button, and

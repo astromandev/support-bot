@@ -1,0 +1,7 @@
+Error: Error: Multicraft Is Not Responding When Starting The Server On Pterodactyl Panel.
+
+Solution: 1. Check if the multicraft daemon is running. If not, start it using the following command: `sudo service multicraft-daemon start`.
+
+2. Make sure that the server's java version is compatible with the version required by the server. Check the server's website or documentation for the recommended java version.
+
+3. Stop the server and try running it again. Sometimes, Pter

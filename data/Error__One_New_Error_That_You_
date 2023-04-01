@@ -1,0 +1,9 @@
+Error: Error:
+One New Error That You May Encounter When Using The Pterodactyl Panel For A Minecraft Server Is A "502 Bad Gateway" Error. This Error Occurs When The Server Is Not Able To Communicate With The Web Server That Is Acting As A Gateway Between The Client And The Panel.
+
+Solution: Here are the steps to fix the "502 Bad Gateway" error:
+
+Step 1: Check Server Status
+Check if your server is online and available through SSH or with an FTP client.
+
+Step

@@ -1,0 +1,6 @@
+Error: Sure Thing!
+
+Error: "Server Not Starting After Importing A World On Pterodactyl Panel"
+
+Solution: 1. First, ensure that you have uploaded the world files to the correct location on the server. You can check this by looking at the server's file manager in the Pterodactyl Panel.
+2. Next, check that the server's configuration matches the world you have uploaded. Verify that the world name in the configuration file matches the name of the world directory you uploaded.

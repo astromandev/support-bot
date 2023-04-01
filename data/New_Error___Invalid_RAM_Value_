@@ -1,0 +1,10 @@
+Error: New Error: "Invalid RAM Value Specified"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. In the navigation menu on the left-hand side, click on the "Servers" option.
+3. Select the server with the RAM error.
+4. Click on the "Console" option in the top navigation bar.
+5. Look for any error messages regarding the RAM value.
+6. Check that you have specified the correct amount of RAM in the server

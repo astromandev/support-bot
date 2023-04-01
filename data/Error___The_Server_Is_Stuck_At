@@ -1,0 +1,5 @@
+Error: Error: "The Server Is Stuck At The Starting Stage, And The Console Says 'The Server Has Stopped Responding'."
+
+Solution: 1. Check that you have the latest version of Java installed on your system. You can download and install the latest version of Java from the official Java website.
+
+2. Check that your server's RAM allocation is correct. Pterodactyl panel allows you to allocate specific amounts of RAM to your server. If you have too little RAM allocated to your server, this

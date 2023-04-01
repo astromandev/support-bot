@@ -1,0 +1,5 @@
+Error: Error: "Upload Failed: Internal Server Error" When Trying To Upload A Custom Minecraft Server Jar On A Pterodactyl Panel.
+
+Solution: 1. Verify if the custom server jar file is valid and not corrupted.
+2. Double-check that the jar file has the correct file extension (.jar) and not any other file extension such as .zip, .rar, etc.
+3. Make sure that the jar file is not too large and does not exceed the allotted disk space for the server

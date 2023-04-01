@@ -1,0 +1,6 @@
+Error: Error: "503 Maintenance Error" On Pterodactyl Panel While Trying To Access Your Minecraft Server.
+
+Solution: 1. Check if your server is actually undergoing maintenance by asking your server host or checking their announcement page.
+2. If your server is not undergoing maintenance, check if the panel itself is down by accessing another server's panel from the same host or asking another user.
+3. Clear your browser cache and refresh the panel page.
+4. If the error persists, try logging out and

@@ -1,3 +1,5 @@
-Error: Error: Unable To Start The Server Due To A "Failed To Bind To Port" Error In Pterodactyl Panel.
+Error: Error: Unable To Start The Server Due To A Missing Or Outdated Java Version.
 
-Solution: 1. The first step is to check if the port is being used by another application. To do this, you can run the command 'netstat -an' in your terminal. You will see a list of all active connections and ports in use. Look for the port number your Minecraft server is using and check if it's being used by another application.
+Solution: 1. Check your installed Java version by running the command "java -version" in your terminal or command prompt. It should tell you the current version of Java installed on your system.
+2. If you have an outdated or unsupported version of Java installed, download the latest version of Java from the official website and install it.
+3. Set the new version of Java as the default for your system. This can

@@ -1,6 +1,8 @@
-Error: Error: "The Server Is Offline And Won'T Start Up."
+Error: Error: "The Server Is Offline - This May Be Caused By A Few Things"
+Possible Causes: 
+1. The Server Has Crashed Or Is Not Responding
+2. The Firewall Or Network Settings Are Blocking The Server
+3. The Server'S Resources Have Been Exhausted
 
-Solution: 1. Check to make sure that the server is turned on and connected to the internet.
-2. Check the server logs to see if there are any error messages or any indication of what might be causing the issue.
-3. Make sure that the server's Java version is up to date and that Java is installed properly.
-4. Try restarting the server, as sometimes the issue is a temporary one and will be resolved upon
+Solution: 1. First, check if the server is running by restarting it from the Pterodactyl panel. Wait a few minutes for the server to start up.
+2. Check the server logs on the Pterod

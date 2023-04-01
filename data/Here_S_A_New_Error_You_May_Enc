@@ -1,11 +1,11 @@
-Error: Here'S A New Error You May Encounter While Running A Minecraft Server Using Java:
+Error: Here'S A New Error You May Encounter On A Pterodactyl Panel Minecraft Server:
 
-**Error:** "Failed To Write Core Dump. Minidumps Are Not Enabled By Default On Client Versions Of Windows"
-
-**Cause:** This Error Occurs When The Java Virtual Machine (JVM) Running Your Minecraft Server Crashes, And It Is Unable To Generate A Core Dump To Help Diagnose The Problem. By Default, Windows Does Not Have The Settings Necessary To Generate Core Dumps.
+**Error:** "Server Status Unreachable" Error Message In The Pterodactyl Panel.
 
 **
 
 Solution: **
 
-Step 1: Open
+1. Check the server's network connection: To fix this error, check your server's network connection. Ensure that your server is connected to the internet and that your firewall is not blocking connections to the server's IP address and relevant ports.
+
+2. Check the server's firewall settings:

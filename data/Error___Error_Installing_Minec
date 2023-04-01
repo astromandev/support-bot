@@ -1,0 +1,5 @@
+Error: Error: "Error Installing Minecraft Forge Version On Pterodactyl Panel For My Server"
+
+Solution: 1. First, check the version of Minecraft forge that you are trying to install and make sure that it is compatible with the version of Minecraft that you are running on your server.
+2. Make sure that you have selected the correct server information and that you are installing the forge correctly.
+3. Log in to your server through the Pterodactyl panel and navigate to the "File Manager

@@ -1,0 +1,6 @@
+Error: Error: "Your Server Jar Files Are Missing, Please Check File Permissions To Ensure They Are Readable By The Panel."
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server page that is experiencing the issue.
+2. Click 'File Manager' from the left-hand menu.
+3. Check that the jar file for your server is present in the 'server' folder. If it is not, upload it to the folder.
+4. Once the jar file is in

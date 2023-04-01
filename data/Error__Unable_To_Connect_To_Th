@@ -1,5 +1,8 @@
-Error: Error: Unable To Connect To The Pterodactyl Panel Minecraft Server Through FTP
+Error: Error:
+Unable To Connect To The Pterodactyl Panel After Installation.
 
-Solution: 1. Check if the FTP credentials provided by the host are correct. If not, ask the host to reset the credentials and provide them again.
-2. Make sure that the host's firewall settings allow for FTP connections. If not, request the host to open the required ports.
-3. Ensure that the FTP client being used is up-to-date and compatible with the Pterodactyl Panel Minecraft
+Solution: 1. Check the firewall settings of your server and ensure that the correct ports are open. For Pterodactyl, the required ports are 80, 443, 8080, and 2022.
+
+2. Verify that your domain is correctly pointing to your server, and that the SSL certificate has been applied correctly.
+
+3. Check that the MySQL database is properly configured and that the correct privileges

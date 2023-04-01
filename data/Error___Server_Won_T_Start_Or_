@@ -1,0 +1,5 @@
+Error: Error: "Server Won'T Start Or Crashes Upon Startup In Pterodactyl Panel"
+
+Solution: 1. Check the server logs: Log in to the Pterodactyl Panel and go to the Console tab. Review the logs to determine if there are any errors or issues causing the server to crash.
+
+2. Check server configuration files: Verify that the server's configuration files are set up correctly. Check for any typos or errors in the files, as even small errors can cause the

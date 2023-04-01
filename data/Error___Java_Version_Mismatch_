@@ -1,7 +1,13 @@
-Error: Error: "Java Version Mismatch - The Java Version On Your Server Doesn'T Match The Version Specified In Your Startup Script.”
+Error: Error: "Java Version Mismatch"
 
-Solution: 1. Check your Java version: Log in to the server and run the command java -version to check the version of Java that is installed on your server.
+Solution: 1. Login into your Pterodactyl Panel using your credentials.
 
-2. Update Java: If the Java version on your server is outdated, download and install the latest version from the official Java website.
+2. Click on the "Console" button and access your server console.
 
-3. Update your startup script: If your startup script specifies a different Java
+3. Execute the "java -version" command to check which Java version is installed on your server.
+
+4. Go to the Java website and download the latest Java package that matches your server's operating system.
+
+5. Install the latest version of Java on your server.
+
+6. Once the installation is

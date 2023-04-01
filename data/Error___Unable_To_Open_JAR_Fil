@@ -1,0 +1,5 @@
+Error: Error: "Unable To Open JAR File: Java.Nio.File.AccessDeniedException: [Server.Jar]" When Trying To Start The Server On Pterodactyl Panel.
+
+Solution: 1. First, make sure that the server jar file exists in the correct directory. If it is not there, upload it to the server using the file manager.
+
+2. Check the file permissions of the jar file. Make sure that the user running the server has the necessary permissions to read and execute the file.

@@ -1,5 +1,7 @@
-Error: Error: "Server Status Is Offline" In Pterodactyl Panel
+Error: Error: "Server Status Is Offline, And I Can'T Connect To The Server Via The Pterodactyl Panel."
 
-Solution: 1. First, check your server console to see if there are any error messages. If there are, try to fix those errors first before proceeding.
-2. Make sure that the server is actually running. You can check this by logging into your server through SSH and running the command "screen -r" to attach to the server console. If it's not running, start it up again.
+Solution: 1. Ensure that the server is running by checking the console and logs tab in the Pterodactyl panel. If it's not running, start it using the start button.
+
+2. Make sure that the server's firewall is not blocking incoming connections. Check the firewall settings on your server machine to ensure that port 25565 is open.
+
 3. Double

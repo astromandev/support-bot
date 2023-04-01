@@ -1,0 +1,5 @@
+Error: Error: HTTP Error 404: Not Found When Navigating To The Pterodactyl Panel
+
+Solution: 1. Check if the Pterodactyl panel is running on your server by testing the panel URL in the web browser.
+2. Verify that the firewall settings on your server are not blocking the incoming traffic on port 80 or 443, which are the default HTTP and HTTPS ports respectively. You can check the firewall settings by running the command `sudo ufw status`.
+3.

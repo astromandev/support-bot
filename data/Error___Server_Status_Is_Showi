@@ -1,0 +1,11 @@
+Error: Error: "Server Status Is Showing Offline Even Though The Server Is Running"
+
+Solution: Step 1: Check the status of the server process
+
+The first thing you'll want to do is check if the server process is actually running. You can do this by logging into your server console and typing in the following command:
+
+```
+systemctl status wings
+```
+
+If Wings is running, you'll see a message that says "Active: active (running)." If it's not running, you'll

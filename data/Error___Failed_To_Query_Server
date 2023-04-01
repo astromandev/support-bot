@@ -1,0 +1,7 @@
+Error: Error: "Failed To Query Server Information: Java.Net.UnknownHostException: Example.Com: Name Or Service Not Known"
+
+Solution: Step 1: Check if the server domain name is correct
+Make sure the domain name of the server is correct and has been entered properly. Double-check the domain name and ensure that it is not mistyped.
+
+Step 2: Check if the server is active
+Make sure the server is active and not down. Contact your hosting provider or check the status of the server

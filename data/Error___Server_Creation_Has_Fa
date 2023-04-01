@@ -1,0 +1,5 @@
+Error: Error: "Server Creation Has Failed. You Have Reached The Maximum Number Of Servers That You Can Create."
+
+Solution: 1. First, confirm that you have indeed reached the maximum number of servers allowed on your plan. Check your plan details to see how many servers you are allowed to create.
+2. If you have reached the maximum, consider upgrading your plan to allow for more server creation.
+3. If you are not able to upgrade, consider deleting some of your old servers to make space for new

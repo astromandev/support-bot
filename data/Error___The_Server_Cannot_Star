@@ -1,11 +1,5 @@
-Error: Error: "The Server Cannot Start Because A Required Library Is Missing: Libegl.So.1"
+Error: Error: "The Server Cannot Start Due To A Missing Java Installation"
 
-Solution: Step 1: Login to your Pterodactyl Panel.
-
-Step 2: Navigate to the "File Manager" section.
-
-Step 3: Locate your server files and select the folder for the Minecraft server you want to fix.
-
-Step 4: Create a new folder named "lib".
-
-Step 5: Navigate to the "lib" folder and create a new folder named "
+Solution: 1. Check to make sure Java is installed on the server by running the command "java -version". If it is not installed, download and install Java for the operating system the server is using.
+2. Once Java is installed, navigate to the Pterodactyl panel and select the server that is encountering the error.
+3. Under the "Startup" tab, click on the "Edit File" button next

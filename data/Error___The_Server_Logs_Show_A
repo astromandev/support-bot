@@ -1,0 +1,9 @@
+Error: Error: "The Server Logs Show A Java Heap Space Error."
+
+Solution: This error occurs when your server runs out of memory. To fix it, you need to increase the amount of Java heap space allocated to your server. 
+
+Step-by-step solution:
+
+1. Log in to your Pterodactyl panel and navigate to your server's Settings page. 
+2. Scroll down to the Startup tab and locate the JVM Arguments section.
+3. In the box next to "-Xmx", enter

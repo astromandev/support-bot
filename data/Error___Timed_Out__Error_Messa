@@ -1,0 +1,7 @@
+Error: Error: "Timed Out" Error Message Appears When Trying To Connect To A Minecraft Server In The Pterodactyl Panel.
+
+Solution: 1. Check your internet connection. If it is unstable, reset your router/modem or connect to a stronger network.
+
+2. Make sure the server is running properly by checking the server console in the Pterodactyl Panel.
+
+3. Ensure that the correct server address and port number are entered in the Minecraft client. If you are unsure,

@@ -1,7 +1,6 @@
-Error: Error: "There Was An Error Creating The Server. Client Error: `POST Https://Panel.Example.Com/Api/Application/Servers` Resulted In A `422 Unprocessable Entity`"
+Error: Error: "There Was An Error Creating Your Server" When Attempting To Create A New Minecraft Server On Pterodactyl Panel.
 
-Solution: Step 1: Check the server name and server description. Make sure there are no special characters or symbols in them.
-
-Step 2: Ensure the server's allocated resources such as RAM, disk space and CPU are sufficient and not exceeding the server's resource limits.
-
-Step 3: Make sure all the required
+Solution: 1. Log in to your Pterodactyl panel and navigate to your server dashboard.
+2. Ensure that the server is turned off before proceeding with the following steps.
+3. Click on the "Console" tab and check for any error messages that may be preventing the server from starting.
+4. If there are no noticeable errors, try generating a

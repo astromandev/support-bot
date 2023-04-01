@@ -1,0 +1,8 @@
+Error: Error: "Error: Cant Start Server, You Have Not Accepted The Minecraft EULA"
+
+Solution: 1. Login to your Pterodactyl panel.
+2. From the dashboard, click on the "Servers" option on the left-hand side menu.
+3. Click on the server that you are facing the error with.
+4. Click on the "Console" tab.
+5. You should see an error message stating that you need to accept the Minecraft EULA.
+6. To accept the

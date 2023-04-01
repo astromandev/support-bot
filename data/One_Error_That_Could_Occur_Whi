@@ -1,0 +1,9 @@
+Error: One Error That Could Occur While Setting Up A Pterodactyl Panel Minecraft Server Is The "Maximum RAM Allocation Reached" Error. This Error Occurs When The Allocation Of RAM For Minecraft Is Exceeded.
+
+Step-By-Step
+
+Solution: 1. Log in to the Pterodactyl panel and select the server where the error is occurring.
+
+2. Click on the "Console" tab of the server.
+
+3. Stop the server by typing "stop" in the console command line and pressing enter.

@@ -1,6 +1,6 @@
-Error: Error: "Unable To Allocate Enough Memory To Start The Server"
+Error: Error: "Unable To Allocate Enough Memory To Launch The Server" In The Pterodactyl Panel.
 
-Solution: 1. Login to your Pterodactyl panel and go to the "Console" tab of your server.
-2. Run the command 'free -m' to check the available memory.
-3. If the available memory is less than the minimum required for the server, consider upgrading the server plan or reducing the server settings  in the "Startup" tab of your Pterodactyl panel.
-4. If the
+Solution: 1. Access your Pterodactyl Panel and log in to your Minecraft server.
+2. Click on the "Console" tab and look for the error message "Unable to allocate enough memory to launch the server".
+3. Determine how much RAM you have allocated to your Minecraft server in the "Details" tab. This can be found under the "Allocation" subsection.
+4

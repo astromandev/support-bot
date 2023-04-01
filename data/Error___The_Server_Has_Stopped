@@ -1,11 +1,6 @@
-Error: Error: "The Server Has Stopped Responding."
+Error: Error: "The Server Has Stopped Responding. Check The Console For Possible Error Messages. Aborting Automatic Restart. Press Any Key To Continue..."
 
-Possible Causes:
-1. A Plugin Or Mod Is Causing The Server To Crash
-2. The Server Is Overloaded With Too Many Players Or Too Much Activity
-3. A Corrupted World File Or Incorrect Configurations Can Cause Server Crashes
-4. Not Enough RAM Allocated To The Server
-
-Solution: 1. Disable any recently installed plugins or mods and test if the server is still crashing
-2. Reduce the number of players or limit their activity on the server
-3
+Solution: 1. Go to the Pterodactyl Panel and login to your account.
+2. Select the server that is giving the error.
+3. Click the Console tab to view the error message.
+4. Check the error message to determine the cause of the problem. If the error message is not clear enough, check the server logs for more detailed

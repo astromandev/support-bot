@@ -1,0 +1,5 @@
+Error: Error: "Cannot Access Server Console" On The Pterodactyl Panel For Minecraft Server.
+
+Solution: 1. First, make sure that you have the correct permissions to access the server console. If you are not the server owner, contact the owner to grant you access to the console.
+2. Clear your browser cache and cookies, and try logging in to the panel again.
+3. If the issue persists, try accessing the server console through an SSH client such as PuTTY. Check if

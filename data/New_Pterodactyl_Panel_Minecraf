@@ -1,9 +1,7 @@
-Error: New Pterodactyl Panel Minecraft Server Error: SFTP Connection Failed
-
-This Error Occurs When The SFTP Connection To Your Server Fails, Usually Due To Incorrect Login Credentials Or Server Configuration Issues.
+Error: New Pterodactyl Panel Minecraft Server Error: Failed To Start Server (Exit Code: -1)
 
 Step-By-Step
 
-Solution: 1. Double-check your login credentials to ensure that they are correct. You can do this by logging into your server via SSH.
+Solution: 1. Firstly, it's important to check if your server files are corrupted or incorrect. You can download a fresh copy of the server files from the website or host where you originally obtained them
 
-2. Ensure that your server's firewall is not blocking connections to port 22 (SSH) or 2222 (SFTP). You
+2. Check your server logs to determine the exact issue, such as a missing file or issue with configuration. To access logs on the Pterodactyl panel

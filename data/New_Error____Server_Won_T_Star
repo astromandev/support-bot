@@ -1,0 +1,5 @@
+Error: New Error - "Server Won'T Start On Pterodactyl Panel"
+
+Solution: 1. First, check if your server's configuration files are correct or not. Sometimes, server owners try to modify the configuration files without proper knowledge, resulting in an error. Therefore, compare the configuration files with the default configuration files or check for any syntax errors. 
+
+2. Next, check the server log files from the Pterodactyl panel. Server logs can provide you with detailed information on why

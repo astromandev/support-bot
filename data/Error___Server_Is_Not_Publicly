@@ -1,0 +1,5 @@
+Error: Error: "Server Is Not Publicly Accessible."
+
+Solution: 1. Check your server's firewall settings and make sure that the port 25565 (default Minecraft server port) is open for inbound and outbound traffic.
+2. Check your router's port forwarding settings and ensure that the port 25565 is forwarded to your server's local IP address.
+3. If you are hosting the server on a VPS or dedicated server, check that your server's IP address is set up correctly and accessible from the

@@ -1,0 +1,7 @@
+Error: New Error: "The Server Appears To Be Offline Or Unreachable"
+
+Solution: 1. Check the server status: Login to the Pterodactyl Dashboard and check the server status. If it shows as "offline", click on the "restart" button to restart the server.
+
+2. Check your internet connection: Make sure that your device is connected to the internet and the connection is stable.
+
+3. Check server logs: Navigate to the "logs" section of your server in the Pterod

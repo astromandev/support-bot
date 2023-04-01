@@ -1,11 +1,13 @@
-Error: Here'S A New Error That You Might Encounter While Running A Minecraft Server:
+Error: Here'S A New Error That You Might Encounter When Using The Pterodactyl Panel To Manage Your Minecraft Server:
 
-**Error:** "Java.Net.BindException: Address Already In Use" 
-
-**Cause:** This Error Occurs When You Try To Start A Minecraft Server, But The Port That The Server Requires Is Already In Use By Another Program Or Service Running On Your Computer.
+**Error:** "Failed To Start The Server. Error: Server Failed To Bind To Port [Port Number]"
 
 **
 
 Solution: **
 
-1. Check if any other programs are using the port that your Minecraft server needs to run on. To do this, open a command prompt or terminal
+This error occurs when the server is unable to bind to the designated port, which can happen for various reasons such as the port being blocked by a firewall or another application already using the same port.
+
+To resolve this issue, follow these steps:
+
+1

@@ -1,0 +1,11 @@
+Error: Here Is A New Error That A Beginner Might Encounter While Using The Pterodactyl Panel To Manage Their Minecraft Server:
+
+**Error:** "The Server Is Offline And Won'T Start. The Console Shows The Error Message: 'Error: Couldn'T Find Minecraft Executable.'"
+
+**
+
+Solution: **
+
+1. Login to your Pterodactyl panel and navigate to the server page that is showing the error.
+2. Click on the "Console" tab to access the server console.
+3. Check if

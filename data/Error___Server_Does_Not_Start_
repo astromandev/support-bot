@@ -1,0 +1,7 @@
+Error: Error: "Server Does Not Start After Installing A New Plugin On The Pterodactyl Panel"
+
+Solution: 1. Login to your Pterodactyl panel and navigate to your server dashboard.
+2. Stop the server by clicking the "Stop" button.
+3. Go to the "Files" tab and navigate to the "plugins" folder.
+4. Locate the plugin that you have recently installed and delete it from the folder.
+5. Start the server again and see if it

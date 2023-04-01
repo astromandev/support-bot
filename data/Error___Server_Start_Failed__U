@@ -1,0 +1,7 @@
+Error: Error: "Server Start Failed: Unable To Bind To Port"
+
+Solution: 1. Check if the port the server is trying to bind to is in use by another application. To do this open the command prompt/terminal and type: netstat -ano | findstr :<port number>
+
+2. If another application is using the port, close that application and try starting the server again.
+
+3. If no other applications are using the port, check if the port is being blocked by your firewall

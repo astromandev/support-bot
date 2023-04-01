@@ -1,0 +1,10 @@
+Error: Error: "Invalid Response Code: 502 Bad Gateway" When Trying To Access The Pterodactyl Panel.
+
+Solution: Step 1: Check the Pterodactyl Panel status and make sure it is running correctly.
+
+Step 2: If the status is good, try restarting the Pterodactyl Panel by using the following command:
+```
+sudo service wings restart
+```
+
+Step 3: Clear your browser's cookies and cache, then try accessing the Pterod

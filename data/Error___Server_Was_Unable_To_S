@@ -1,0 +1,13 @@
+Error: Error: "Server Was Unable To Start: Address Already In Use"
+
+This Error Occurs When The Designated Port For The Minecraft Server Is Already Being Used By Another Process On The Server.
+
+Solution: 1. First, check which process is using the port by using the command: 
+
+```
+sudo netstat -plnt | grep 'port_number'
+```
+
+Replace "port_number" with the actual port number for your Minecraft server.
+
+2. Once you have identified the process, you can either stop

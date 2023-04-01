@@ -1,0 +1,9 @@
+Error: Error: "Cannot Access Pterodactyl Panel"
+
+Solution: 1. Check network settings: Ensure that your computer is connected to the internet and that you can access other websites.
+
+2. Check server status: Check that the server is up and running by trying to connect to it using the IP address and port number provided.
+
+3. Clear cache and cookies: Clear your web browser's cache and cookies to ensure that the Pterodactyl panel can load without any issues.
+
+4. Check

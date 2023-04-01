@@ -1,0 +1,5 @@
+Error: Error: "Error: Server Was Unable To Start. Check Logs For More Information."
+
+Solution: Step 1: Go to your Pterodactyl Panel and navigate to the "Console" tab.
+Step 2: Look for any errors or warning messages in the console, which will give you valuable information on what caused the error.
+Step 3: If you don't see any errors in the console, click on the "Logs" tab to see a full list of server logs. Look

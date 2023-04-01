@@ -1,0 +1,5 @@
+Error: Error: "Server "Servername" Is Not Responding."
+
+Solution: 1. Check if the server has crashed or if it is just experiencing some lag. Try waiting a few minutes to see if it recovers on its own. If it doesn't, proceed to the next step.
+2. Check the server status on the Pterodactyl panel dashboard. There may be an issue with the server's resources causing it to become unresponsive.
+3. Check the server logs on the Pterod

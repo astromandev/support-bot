@@ -1,0 +1,6 @@
+Error: Error: "ERROR: This Server Does Not Have Any Eggs Installed. To Install An Egg, Visit Our Discord Or The Pterodactyl Marketplace."
+
+Solution: 1. First, log in to your Pterodactyl panel.
+2. Navigate to the "Eggs" section in the side menu and click on it.
+3. Here you'll see the list of currently installed eggs. If there are no eggs installed, this is likely the source of the error.
+4. Click

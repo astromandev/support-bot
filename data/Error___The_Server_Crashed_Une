@@ -1,0 +1,8 @@
+Error: Error: "The Server Crashed Unexpectedly And Will Restart."
+
+Solution: 1. Log in to your Pterodactyl Panel.
+2. Navigate to the affected server's dashboard.
+3. Click on the "Console" tab and then click the "Send" button to ensure the console is responsive.
+4. Once confirmed, click the "Stop" button to ensure that the server is offline.
+5. In the "Settings" tab, navigate to the "Startup" tab.
+6. Set the

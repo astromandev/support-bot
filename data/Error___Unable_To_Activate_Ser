@@ -1,0 +1,5 @@
+Error: Error: "Unable To Activate Server" 
+This Error Occurs When You Try To Activate Your Minecraft Server On The Pterodactyl Panel, But It Fails To Do So Due To Some Internal Issues.
+
+Solution: 1. Check the status of the daemon (service) running on your server by logging in to your server via SSH.
+2. Run the command "sudo systemctl status wings" to check if the daemon is active or not. If it's not active, try starting it using the

@@ -1,0 +1,11 @@
+Error: Error: Can'T Allocate More RAM To Server In Pterodactyl Panel
+
+Solution: 1. Log in to your Pterodactyl panel.
+2. Click on the "File Manager" tab.
+3. Navigate to the root directory of your server.
+4. Open the "start.sh" file using the built-in editor.
+5. Look for the following line:
+
+   java -Xms1G -Xmx1G -jar server.jar
+
+   This line sets the initial

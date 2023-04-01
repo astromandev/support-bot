@@ -1,5 +1,4 @@
-Error: Error: "Failed To Initialize Server: The Server Could Not Start Due To An Unknown Error. Check Your Logs For Any Details."
+Error: Error: "Failed To Initialize Server Due To Missing Or Corrupted Files"
 
-Solution: 1. Check the logs in the Pterodactyl panel for any additional information on the error. You can do this by going to your Pterodactyl panel, clicking the "Console" tab, and scrolling up to see the logs.
-2. If you see any specific error messages, refer to online resources or forums for possible solutions.
-3
+Solution: 1. First, ensure that you have all the necessary server files downloaded and uploaded correctly. This includes the Pterodactyl panel files and the Minecraft server files.
+2. Check that the server files are placed in the correct directories. The Pterodactyl panel should have a folder for each server instance you set up, and each server instance should have its own directory for its files. Make sure the Minecraft

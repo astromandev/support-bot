@@ -1,9 +1,8 @@
-Error: New Error: "Failed To Execute Command 'Yarn' On Panel"
+Error: New Error: "Failed To Execute Child Process "./Daemon" (No Such File Or Directory)"
 
-Solution: This error occurs when the Pterodactyl panel is unable to execute the 'yarn' command. This error can occur when 'yarn' is not installed in the server.
+Step-By-Step
 
-Follow these steps to resolve the error:
-
-Step 1: Login to your Pterodactyl panel and select the affected server.
-
-Step 2: Navigate to the "Console" tab and log in to the server using
+Solution: 1. This error indicates that Pterodactyl is unable to locate the daemon binary file.
+2. Log in to your Pterodactyl panel and navigate to the "Server Configuration" tab.
+3. Click on "Startup" on the left-hand side and scroll down to the "Command" section.
+4. Verify that the command in the field is set

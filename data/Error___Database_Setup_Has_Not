@@ -1,0 +1,4 @@
+Error: Error: "Database Setup Has Not Completed Successfully" On Pterodactyl Panel Minecraft Server.
+
+Solution: 1. Check your server's disk usage by logging in to your server and running the following command: `df -h`. If your disk usage is at 100%, you will not be able to run any databases. You can free up some space by deleting unnecessary files from your server.
+2. Restart your server by logging in to your server and running the following command: `sudo systemctl

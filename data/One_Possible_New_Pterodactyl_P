@@ -1,0 +1,9 @@
+Error: One Possible New Pterodactyl Panel Minecraft Server Related Error That I Can Provide The Solution For Is:
+
+**Error:** "The Server Console Shows 'Java.Net.BindException: Address Already In Use' When Trying To Start The Minecraft Server."
+
+**
+
+Solution: **
+
+Step 1: Check if there are any other programs or processes that are using the same port that your Minecraft server is configured to use. To do this, you can use the command line interface (CLI) or Task Manager depending on

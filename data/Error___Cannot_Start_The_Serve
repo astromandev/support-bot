@@ -1,6 +1,7 @@
-Error: Error: "Cannot Start The Server Because The Maximum RAM Allocation Has Been Exceeded"
+Error: Error: "Cannot Start The Server Because The JAR File Is Missing Or Corrupt."
 
-Solution: 1. Login to your Pterodactyl panel and click on the Minecraft server that's having the error.
-2. Click on the "Startup" tab on the left-hand side.
-3. Scroll down until you see the "JVM Arguments" tab.
-4. In this tab, you'll see a line that says something like "-Xmx" and a number after it. This is your maximum
+Solution: 1. First, check if the JAR file is present in the server directory. If it is not present, download the correct JAR file and place it in the server directory.
+
+2. Make sure that the JAR file you have downloaded is not corrupt. You can check this by downloading it from a reliable source.
+
+3. Check if you have specified the correct JAR file in the "Server

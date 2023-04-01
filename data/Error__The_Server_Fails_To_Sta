@@ -1,0 +1,7 @@
+Error: Error: The Server Fails To Start And Displays An Error Message "Error: Unable To Access Jarfile Server.Jar"
+
+Solution: 1. Check if the server.jar file exists in the server directory. If it does not exist or has been renamed, rename it back to server.jar.
+
+2. Ensure that the server directory and files have the correct permissions. You can check this by using the chown command to set the owner of the server directory and files to the user running the server.
+
+3. Check

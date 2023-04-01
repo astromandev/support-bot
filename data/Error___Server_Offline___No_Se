@@ -1,0 +1,8 @@
+Error: Error: "Server Offline - No Server JAR Found"
+
+This Error Occurs When The Pterodactyl Panel Cannot Detect The Server Jar File For Your Minecraft Server.
+
+Solution: 1. Login to your Pterodactyl panel and navigate to your server dashboard.
+2. Click on the "File Manager" tab on the left-hand side of the panel page.
+3. Open the "Server" folder and navigate to the "jar" folder.
+4. If there is a server jar

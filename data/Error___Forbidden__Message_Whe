@@ -1,0 +1,7 @@
+Error: Error: "Forbidden" Message When Trying To Access The Pterodactyl Panel.
+
+Solution: 1. Clear your browser cache and cookies or try using a different browser.
+2. Check if your internet connection is stable and try accessing the panel again.
+3. Ensure that you have entered the correct URL for accessing the panel.
+4. Check if the panel is online by pinging the server IP or domain name.
+5. Verify if the Pterodactyl Daemon is running on your server

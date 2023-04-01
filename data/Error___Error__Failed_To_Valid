@@ -1,0 +1,7 @@
+Error: Error: "Error: Failed To Validate The Certificate Chain. The Certificate May Be Outdated Or Invalid. Retrying In 30 Seconds..."
+
+Solution: This error happens when the SSL certificate for your Pterodactyl panel is invalid or outdated. Follow these steps to fix the issue:
+
+Step 1: Go to the Pterodactyl panel directory using your SSH client and stop the panel by running the following command:
+```
+cd /var/www/pterodactyl && php artisan down

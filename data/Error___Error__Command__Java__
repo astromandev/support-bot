@@ -1,0 +1,11 @@
+Error: Error: "Error: Command 'Java' Not Found. Is Java Installed?"
+
+Solution: This error occurs when the Pterodactyl panel is unable to locate the Java runtime environment on your server. You can follow the below steps to fix this error:
+ 
+1. Login to your server using SSH or the terminal as root or with sudo access.
+ 
+2. Run the below command to update the server repository:
+ 
+    apt-get update
+ 
+    *Note: If you're using

@@ -1,5 +1,7 @@
-Error: Error: "Failed To Execute Goal Org.Codehaus.Mojo:Exec-Maven-Plugin:1.5.0:Exec (Default-Cli) On Project Wings. Caused By: Java.Lang.NullPointerException." This Error Occurs When Attempting To Launch A Minecraft Server On The Pterodactyl Panel.
+Error: Error: "Failed To Execute Goal Org.Apache.Maven.Plugins:Maven-Compiler-Plugin:3.6.1:Compile (Default-Compile) On Project JavaPlugin: Fatal Error Compiling: Invalid Target Release: 1.16"
 
-Solution: 1. First, make sure you have the latest version of Java installed on your system. You can check this by running the command "java -version" in your terminal.
+Solution: This error occurs when the version of Java that the plugin is being compiled with is not compatible with the targeted Java version. To fix this issue: 
 
-2. If
+1. Log in to your Pterodactyl panel and click on the File Manager.
+
+2.

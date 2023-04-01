@@ -1,0 +1,6 @@
+Error: Error: "SERVER JAR FAILS TO START: YOU HAVE EXCEEDED YOUR SERVERS RESOURCE LIMITS"
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to the server you are trying to start.
+2. In the left sidebar, click on the "Console" button to open the server console.
+3. Look for any error messages that might indicate why the server is not starting properly.
+4. If the error message mentions exceeding resource limits, it means that your

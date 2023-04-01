@@ -1,0 +1,7 @@
+Error: One Common Error That Some Beginners Encounter When Setting Up A Pterodactyl Panel Minecraft Server Is The "Memory Allocation Error." This Error Occurs When There Is Not Enough Memory Allocated To The Server, Causing It To Crash Or Fail To Start Up Properly.
+
+Solution: To fix this error, follow these steps:
+
+1. Log in to your Pterodactyl Panel Dashboard and navigate to the server you are having trouble with.
+
+2. Click on the "Console" tab to bring up the server

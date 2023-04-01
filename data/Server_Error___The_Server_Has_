@@ -1,0 +1,9 @@
+Error: Server Error:
+"The Server Has Insufficient Memory Allocation. Restarting The Server May Improve Performance."
+
+Solution: Step 1: Login to Pterodactyl Panel
+Step 2: Click on the "Console" Tab in the left sidebar menu.
+Step 3: Stop the server by typing the "stop" command.
+Step 4: Go to the "File Manager" Tab in the left sidebar menu.
+Step 5: Navigate to the "Server Settings" tab.
+Step 6:

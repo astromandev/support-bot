@@ -1,0 +1,5 @@
+Error: Error: Your Minecraft Server Is Experiencing Lag Or Low TPS (Ticks Per Second).
+
+Solution: 1. Check the server's CPU and RAM usage: Use the Pterodactyl panel to monitor the server's CPU and RAM usage. If the server is using a lot of CPU or RAM, consider upgrading your server or optimizing your plugins.
+
+2. Optimize your server: Check your server's configuration files and optimize them for better performance. Some plugins may also have configuration settings that can be adjusted

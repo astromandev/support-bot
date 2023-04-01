@@ -1,0 +1,5 @@
+Error: Error: "Connection Failed. Couldn'T Connect To The Pterodactyl Daemon. Please Check Error Logs And Try Again."
+
+Solution: 1. The error message suggests that there is an issue connecting to the daemon, which is responsible for running your Minecraft server. First, you will need to check if the daemon is running properly. To do this, log in to your server via SSH using a terminal application like Putty.
+
+2. Once you have logged in to your server, type the command

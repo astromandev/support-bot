@@ -1,0 +1,8 @@
+Error: Error: "Server Start Failure: Server Didn'T Start After 20 Seconds"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel and navigate to your server dashboard.
+2. Click on the "Console" tab to access your server console.
+3. Check the console output to identify any possible issues with starting the server, such as errors or missing files.
+4. Try restarting the server by using the command "systemctl restart [servername].service" and check

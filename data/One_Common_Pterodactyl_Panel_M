@@ -1,0 +1,7 @@
+Error: One Common Pterodactyl Panel Minecraft Server Related Error That Beginners Might Encounter Is The "Failed To Bind To Port" Error.
+
+Step-By-Step
+
+Solution: 1. Start by checking if the port that the server is trying to use is already occupied. Open the Pterodactyl Panel and select the Server that you are having trouble with.
+2. Click "Console" on the left-hand menu to access the server console.
+3. In the console, type in the command "net

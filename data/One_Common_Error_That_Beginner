@@ -1,7 +1,5 @@
-Error: One Common Error That Beginner Minecraft Server Owners May Encounter On The Pterodactyl Panel Is The "Failed To Bind To Port" Error.
+Error: One Common Error That Beginners Might Face When Using The Pterodactyl Panel For Their Minecraft Server Is The "502 Bad Gateway" Error. This Error Typically Appears When There Is A Problem With Communication Between The Pterodactyl Panel And The Server.
 
 Step-By-Step
 
-Solution: 1. Firstly, check if there are any other servers running on the same port as the one you want to use. If there are, you can either change the port for your server or stop the other server running on the same port.
-
-2. If there are no other servers running on the same port, check if the port
+Solution: 1. The first thing you should do is to verify that your server is running and properly configured. You can do this by checking the logs of the server for any errors. You can also try starting and stopping

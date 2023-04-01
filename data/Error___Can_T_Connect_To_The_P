@@ -1,0 +1,9 @@
+Error: Error: "Can'T Connect To The Pterodactyl Panel"
+
+Solution: Step 1: Check that the Pterodactyl panel URL is correct in your web browser's address bar.
+
+Step 2: Ensure that the firewall on your server is not blocking port 80 or 443.
+
+Step 3: Verify that the server is online, and that the ports necessary for the panel to communicate with your server have been opened.
+
+Step 4: Try restarting both the web server

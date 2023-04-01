@@ -1,0 +1,9 @@
+Error: New Error: "Cannot Allocate Memory: POSIX"
+
+This Error Indicates That Your Server Is Running Low On Memory And Is Unable To Allocate Enough Memory For The Required Process.
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl Panel and select the affected Minecraft server.
+2. Click on the "Console" tab to access the server's console.
+3. Check the server's memory usage by running the command "free -m". This will show you the amount of free and

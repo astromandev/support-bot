@@ -1,0 +1,7 @@
+Error: Error: Server Not Starting After Updating Server.Jar File
+
+Solution: 1. Check if the updated server.jar file is compatible with the current version of Minecraft on your server. If it is not compatible, download the correct version of the server.jar file. 
+
+2. Next, access your Pterodactyl panel and stop the server. To do this click on "Manage" and select "Stop". 
+
+3. Once the server is stopped, click on "File Manager" and navigate to the

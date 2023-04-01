@@ -1,0 +1,7 @@
+Error: Error: "The Server Is Showing As Online, But I Can'T Connect To It."
+
+Solution: 1. Check your server's status page to see if there are any known issues or updates that may be impacting connectivity.
+
+2. Ensure that your server's firewall settings aren't blocking incoming connections. If you're unsure how to check this, contact your hosting provider for assistance.
+
+3. Check that your Minecraft client is running the same version as your server. Mismatched versions can cause connection issues.

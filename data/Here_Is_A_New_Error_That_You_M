@@ -1,10 +1,11 @@
-Error: Here Is A New Error That You May Encounter With Pterodactyl Panel Minecraft Server:
+Error: Here Is A New Error That You Might Encounter While Using The Pterodactyl Panel For Minecraft Servers:
 
-Error: "Failed To Bind To Port! (98: Address Already In Use)"
+**Error:** "Failed To Start Server. Error: Unable To Access Jarfile Server.Jar"
 
-Cause: This Error Occurs When The Port That Your Server Is Trying To Bind To Is Already In Use By Another Application.
+**
 
-Solution: Step 1: You need to identify which process is running on that port. You can do this by using the following command in the terminal:
+Solution: **
 
-```
-sudo lsof -i :
+1. Log in to your Pterodactyl panel and click on the "Console" option for the server that is encountering the error.
+2. Type "ls" in the console and press enter. This will list all the files in the directory.
+3. Check

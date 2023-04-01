@@ -1,0 +1,5 @@
+Error: Error: "Server Marked As Crashed And Doesn'T Stay Up" When Starting A Minecraft Server On The Pterodactyl Control Panel.
+
+Solution: 1. Log into the Pterodactyl control panel and navigate to the "Server Startup" tab.
+2. Locate the "Startup Command" field and ensure it is set to the correct command. The command for starting a vanilla Minecraft server should be:
+java -Xms1G -Xmx1G -jar server.jar nogui

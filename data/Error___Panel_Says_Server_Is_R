@@ -1,0 +1,5 @@
+Error: Error: "Panel Says Server Is Running, But Players Cannot Connect."
+
+Solution: 1. Check that the server has finished booting up. Wait a few minutes after starting the server to allow it to finish loading.
+2. Verify that the server is running on the correct port. From the panel's dashboard, click on the "Console" tab and check that the server is running on the default port, which is 25565.
+3. Check that the firewall is not blocking the server port.

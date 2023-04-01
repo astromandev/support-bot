@@ -1,0 +1,9 @@
+Error: Error: "Server.Jar Missing Or Invalid."
+
+Solution: 1. Log in to your Pterodactyl panel and select the server that is affected by this error.
+
+2. Click on "Console" in the left sidebar of the panel.
+
+3. Check if there is any output that shows where the server.jar file is located. If it is missing or in the wrong location, it may cause this error.
+
+4. Navigate to the "File Manager" tab in the Pterodactyl

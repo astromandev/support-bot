@@ -1,0 +1,5 @@
+Error: New Error: "The Server Has Reached Its Maximum Player Capacity"
+
+Solution: 1. Determine the maximum number of players allowed on your server. This can usually be found in your hosting provider's or control panel settings.
+2. If the maximum player amount is set to a small number, increase it to a higher value. This can usually be done by navigating to your Pterodactyl panel and locating the Settings or Configuration section for your server.
+3. If the maximum player amount is already set

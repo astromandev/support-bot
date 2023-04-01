@@ -1,6 +1,6 @@
-Error: Error: "Cannot Start Server - JRE Could Not Be Found On This Machine"
+Error: Error: "Cannot Start Server - Port 25565 Is Already In Use" 
 
-Solution: 1. Go to https://java.com/en/download/ and download the latest version of Java Runtime Environment (JRE).
-2. Once the download is complete, run the installation file and follow the prompts to install JRE on your machine.
-3. After the installation is complete, open the pterodactyl panel and navigate to the server that's giving you the error.
-4. Click on the
+This Error Occurs When The Port Specified In The Server Configuration For Minecraft Is Already In Use By Another Program Or Server.
+
+Solution: 1. First, you need to determine which program is using the port 25565. Open the command prompt (for Windows) or terminal (for macOS or Linux).
+2. Type the command "netstat -aon" and hit enter. This will display a list of

@@ -1,7 +1,7 @@
-Error: Sure! Here'S An Error And Solution That Hasn'T Been Mentioned Before:
+Error: Sure, Here’S An Error And Solution For You:
 
-Error: "Failed To Start Minecraft Server: Could Not Reserve Enough Space For Object Heap"
+Error: “Failed To Bind Port” Error On Your Pterodactyl Panel Minecraft Server.
 
-Solution: 1. Login to your Pterodactyl panel and navigate to your server.
-2. Click on the "Console" tab and enter the command "java -Xmx1G -Xms1G -jar server.jar" (without quotes).
-3. If step 2 didn't work, switch the "1
+Solution: 1. Firstly, make sure your server is turned off completely.
+2. Go to the dashboard, and then to the Minecraft server settings by clicking on the “Startup” option in the left-hand navigation menu.
+3. Scroll down to the “Server Ports” field and make sure that the port configured in the field is the same as

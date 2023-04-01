@@ -1,0 +1,7 @@
+Error: Error: "Failed To Create A New Server"
+
+Solution: 1. Check the panel logs for any error messages that may give more insight into why the server creation failed.
+2. Make sure the server name and port are both unique and not currently in use.
+3. Double check that the Java version installed on the server matches the Java version selected in the panel.
+4. Ensure that there is enough disk space available for the server files to be created and stored.
+5. Try restarting the panel and

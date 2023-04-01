@@ -1,0 +1,4 @@
+Error: New Error: "Cannot Create Server File. Please Check That The Server Jar Exists And Is Compatible With The Panel."
+
+Solution: 1. Check if the server jar file exists in the server directory. If it doesn't exist, download the server jar file from the official Minecraft website or from another trusted source and upload it to the server directory using the file manager in the Pterodactyl panel.
+2. Make sure that the server jar file is compatible with the version of Minecraft you are trying to

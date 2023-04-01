@@ -1,0 +1,6 @@
+Error: Error: Server Stuck On Starting
+
+Solution: 1. Check the server log in the Pterodactyl panel to see if there are any errors or issues reported.
+2. Check that the server has enough resources allocated to it in the panel. If not, allocate more resources and try starting the server again.
+3. Make sure that all necessary server files and configurations are properly installed and set up. Check the server log for any missing files or configurations that need to be added.
+4.

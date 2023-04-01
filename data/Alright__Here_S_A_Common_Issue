@@ -1,0 +1,11 @@
+Error: Alright. Here'S A Common Issue That Many Beginners Face While Using Pterodactyl Panel For Minecraft Servers:
+
+**Error:** "Failed To Establish A Connection To The Server. Connection Timed Out: No Further Information"
+
+**
+
+Solution: **
+
+Step 1: Check if the server is offline or online. Make sure that the server is running and not undergoing any maintenance. You can check the status of the server from your Pterodactyl panel.
+
+Step 2: Check if the server IP

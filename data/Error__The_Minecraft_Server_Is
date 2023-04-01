@@ -1,7 +1,7 @@
-Error: Error: The Minecraft Server Is Stuck In A Boot Loop And Won'T Start Properly.
+Error: Error: The Minecraft Server Is Using Too Much RAM And Causing Lag
 
-Solution: 1. Connect to your server's console through the Pterodactyl control panel.
-2. Stop the server by typing "stop" into the console command prompt.
-3. Navigate to the "File Manager" tab in the control panel.
-4. Open the "logs" folder and then open the latest log file in a text editor.
-5. Look for any error messages that could be causing the
+Solution: 1. Access the Pterodactyl panel and locate the server that is experiencing the issue
+2. Click on the "Console" tab to access the server console
+3. Enter the command "top" to see which processes are taking up the most memory
+4. Identify the process associated with the Minecraft server and note its ID (it should be on the left-hand side of the output)
+5. Stop

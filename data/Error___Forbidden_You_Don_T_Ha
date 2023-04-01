@@ -1,0 +1,9 @@
+Error: Error: "Forbidden You Don'T Have Permission To Access / On This Server." When Trying To Access Pterodactyl Panel.
+
+Solution: 1. Open your preferred FTP client and connect to your server's FTP.
+
+2. Navigate to the directory where your panel folder is located (e.g. /var/www/pterodactyl).
+
+3. Right-click on the folder and select "File permissions" or "CHMOD".
+
+4. Make sure the permissions of the panel folder are set to

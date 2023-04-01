@@ -1,0 +1,7 @@
+Error: One Possible New Error Related To Pterodactyl Panel And Minecraft Servers That A Beginner May Encounter Is:
+
+**Error:** When Attempting To Start The Minecraft Server From The Pterodactyl Panel Dashboard, The Server Status Remains “Starting” For A Long Time And Eventually Times Out, Or Displays An Error Message Saying That The Server Could Not Be Started Due To A Missing Library Or Mod.
+
+**
+
+Solution: ** This error can be caused by a number of different issues, but one of the most common

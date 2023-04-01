@@ -1,0 +1,5 @@
+Error: Error: "Server Console Output Not Working In Pterodactyl Panel"
+
+Solution: 1. Check if the server is online: Make sure that the Minecraft server is running and online. You can verify this by checking the server status on the Pterodactyl panel.
+
+2. Check server console log location: Make sure that the server console log location is set correctly in the Pterodactyl panel. This can be done by going to "Settings" -> "Startup" and checking

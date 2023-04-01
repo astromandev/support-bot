@@ -1,0 +1,7 @@
+Error: Error: "Server Task Failed To Start: Unable To Allocate Port"
+
+Solution: 1. First, check if there are any firewalls, antivirus or internet security programs blocking the server from accessing the internet or the specified port. 
+
+2. Then, try using a different port number. You can do this by navigating to your server's control panel in Pterodactyl and changing the port number under the "Settings" tab. 
+
+3. If changing the port number doesn't work, consider

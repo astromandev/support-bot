@@ -1,0 +1,7 @@
+Error: Error: "Unable To Create Backup: Failed To Connect To FTP Server"
+
+Solution: Step 1: Check your FTP credentials for errors. Make sure you have the correct username, password, IP address and port.
+
+Step 2: Check firewall settings. If you have a firewall enabled, make sure it is not blocking your connection to the FTP server.
+
+Step 3: Check the FTP server status. Ensure that the FTP server is running and accepting connections. You can verify this by testing the connection

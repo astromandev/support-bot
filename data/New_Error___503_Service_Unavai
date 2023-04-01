@@ -1,0 +1,7 @@
+Error: New Error: "503 Service Unavailable" When Accessing Pterodactyl Panel
+
+Solution: 1. Check Pterodactyl Panel status: Go to the status page and check the Pterodactyl Panel's status. A red circle indicates that the Panel is unavailable.
+
+2. Check your server status: Navigate to the Dashboard and check your server status. A red circle next to your Minecraft server means that your server is offline.
+
+3. Restart your server: Restart your Minecraft server

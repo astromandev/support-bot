@@ -1,0 +1,5 @@
+Error: Error: "Failed To Allocate More Memory"
+
+Solution: 1. Stop the server via the Pterodactyl panel.
+2. Navigate to the "Startup" tab in the left-hand sidebar of the panel.
+3. In the "Startup Parameters" field, add "-Xms<amount of memory>G" and "-Xmx<amount of memory>G" at the start of the line, without the quotation marks. For example, if you want to allocate 4GB of RAM to the

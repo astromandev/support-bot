@@ -1,0 +1,7 @@
+Error: Error: "The Server Refuses To Start, And The Console Displays The Error Message: 'Java.Net.BindException: Address Already In Use'"
+
+Solution: This error means that the port on which your Minecraft server is trying to connect is already in use by another process. To fix this error, you need to do the following:
+
+Step 1: Check process that uses the port
+1. Open Command Prompt or Terminal
+2. Type the following command: `netstat -ano | findstr

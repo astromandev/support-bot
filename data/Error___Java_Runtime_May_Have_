@@ -1,0 +1,7 @@
+Error: Error: "Java Runtime May Have Been Tampered With, Expected SHA-256 Checksum" During Server Startup On Pterodactyl Panel.
+
+Solution: 1. Firstly, check if the server's Java installation is up-to-date. If not, download and install the latest version of Java from the official website.
+
+2. If the Java version is up-to-date, check if the SHA-256 checksum of the installed Java matches the expected SHA-256 checksum mentioned in the server file.
+
+3.

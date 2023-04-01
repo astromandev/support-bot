@@ -1,6 +1,6 @@
-Error: Error: "Port 25565 Is Already In Use" When Trying To Start A Server On Pterodactyl Panel.
+Error: Error: "Port 25565 Is Already In Use." 
 
-Solution: 1. Log into your Pterodactyl panel and stop the server.
-2. Go to the server settings page and click on "Edit Startup".
-3. Check if the port in the startup command matches the port number in the error message. If not, change it to match the correct port.
-4. If the port is correct, it means another
+This Error Occurs When The Default Port For Minecraft Server (25565) Is Already Being Used By Another Process Or Application On Your Server.
+
+Solution: 1. Log in to your Pterodactyl panel and turn off your Minecraft server.
+2. Check if any other process or application is running on port 25565. To do this, you can run the following command: `netstat -plunt | grep 255

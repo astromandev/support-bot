@@ -1,0 +1,9 @@
+Error: Error: "Error Creating Backup: Rsync: Timeout Error"
+
+This Error Occurs When The Backup Process Gets Stuck Due To Network Issues And The Connection Times Out Resulting In A Failed Backup.
+
+Solution: Step 1: Check the server's network connection to ensure it is stable and strong enough to handle the backup process.
+
+Step 2: Increase the timeout limit for Rsync by editing the backup configuration file located in the "/srv/daemon/config" directory.
+
+Step 3: Open the file named "

@@ -1,0 +1,5 @@
+Error: Error: "Unable To Start Your Server. The Server Jar Is Missing Or Inaccessible."
+
+Solution: 1. First, check if the server jar file is present in the correct directory. You can do this by connecting to your server through FTP and browsing to the "server" directory.
+2. If the server jar file is present, make sure that the file permissions are set correctly. You can check this by right-clicking on the file and selecting "file permissions" or "properties".
+3. If

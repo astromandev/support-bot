@@ -1,0 +1,11 @@
+Error: Error: "The Server Could Not Be Started Because Port 25565 Is Already In Use."
+
+Step-By-Step
+
+Solution: 1. Open the Pterodactyl panel for your Minecraft server.
+2. Click on the "Console" tab to access the server console.
+3. Type the following command to check which process is using the port 25565:
+```
+sudo lsof -i :25565
+```
+4. The result of this command will show which process is using the

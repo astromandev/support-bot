@@ -1,6 +1,7 @@
-Error: Error: "Failed To Create A Backup: Exit Status 137"
+Error: Error: "Failed To Create A Backup For The Server"
 
-Solution: 1. This error occurs when the server runs out of memory while attempting to create a backup.
-2. To resolve this issue, you can allocate more memory to your server. 
-  - Log in to your Pterodactyl panel and navigate to your server's "Startup" tab.
-  - In the "Server Startup Arguments" field, add "-Xmx2G" (without the quotes) to allocate
+Solution: 1. Check the available space on your server's disk. If the backup process requires more space than is available, the backup will fail.
+
+2. Make sure you have specified the correct path to your backup folder in the Pterodactyl panel. You can do this by going to the "Settings" tab and checking the Backup Location field.
+
+3. Check the permissions of the folder where the backup files are stored. Ensure

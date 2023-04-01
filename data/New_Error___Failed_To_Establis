@@ -1,0 +1,7 @@
+Error: New Error: "Failed To Establish A Connection To The Database. Please Check Your Configuration And Ensure The Database Is Running."
+
+Solution: Step 1: Log in to your Pterodactyl panel account and navigate to the server page.
+
+Step 2: Click on the "Console" tab to access the server console.
+
+Step 3: Type "systemctl status mysql" command in the console to check the status of the database. If it is not running, start it by typing "system

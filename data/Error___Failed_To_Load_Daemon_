@@ -1,9 +1,7 @@
-Error: Error: "Failed To Load Daemon: Cannot Allocate Memory"
+Error: Error: "Failed To Load Daemon: Error Creating Bean Resolver"
 
-Solution: 1. Log in to your Pterodactyl panel account.
-2. Scroll down to the bottom of the page and click on "Servers".
-3. Click on the name of the server you're having issues with.
-4. Click on the "Console" tab.
-5. Type the following command: `sudo service docker restart`
-6. Press enter and wait for the command to finish executing.
-7. Reboot the
+Solution: 1. Log in to your Pterodactyl panel as a user with administrative privileges.
+2. Navigate to your server's page and click on the "Console" tab.
+3. Type "cd /home/container" and press enter to navigate to your server's root directory.
+4. Type "rm -rf ./pterodactyl" and press enter to delete Pterodactyl's cache.
+5.

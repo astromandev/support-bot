@@ -1,0 +1,6 @@
+Error: One Error That Can Occur With The Pterodactyl Panel Minecraft Server Involves A Misconfigured Database. The Error Message May Say Something Like, "Error: Could Not Connect To Database."
+
+Solution: 1. Log in to your Pterodactyl panel dashboard and go to the "Databases" tab.
+2. Click on the database associated with the Minecraft server.
+3. Check that the database host is set to "localhost" and the port is set to "3306".
+4.

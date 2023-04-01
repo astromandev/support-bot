@@ -1,0 +1,4 @@
+Error: Error: "The Server Crashes On Startup And I See An Error Message That Says 'Error: A JNI Error Has Occurred, Please Check Your Installation And Try Again'"
+
+Solution: 1. Check your server's installation files to make sure they are up to date.
+2. Check that you have the correct version of Java installed on your server. You can do this by running the command 'java -version' on your server's console. If you do not have the correct version of Java installed,

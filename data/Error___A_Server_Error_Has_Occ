@@ -1,0 +1,5 @@
+Error: Error: "A Server Error Has Occurred, Please Contact The Administrator."
+
+Solution: 1. Check the error logs: In the Pterodactyl panel, go to the Server's 'Console' tab and check for any error messages. If there are errors related to a specific plugin or mod, you can try disabling it and see if the issue persists.
+
+2. Check server's resource usage: If your server's resources are being used up, it can cause this error. You can check the

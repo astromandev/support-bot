@@ -1,0 +1,6 @@
+Error: Error: "Maximum Amount Of Players Already Online. Please Try Again Later."
+
+Solution: 1. This error occurs when you try to join the server when the maximum amount of players allowed on the server is already online.
+2. Wait for some time and try to connect again later when some players have left the server.
+3. Contact the server owner or administrator and ask them to increase the maximum number of players allowed on the server. 
+4. To do this, the server owner or administrator needs to

@@ -1,0 +1,9 @@
+Error: Error: "Unable To Allocate XGB Of RAM" When Starting A Minecraft Server Using Pterodactyl Panel
+
+Solution: 1. Log in to your Pterodactyl panel and select the Minecraft server for which you are facing the error.
+
+2. Click on the "Console" tab.
+
+3. Type "free -h" in the command line to check the available memory.
+
+4. Compare the available memory with the amount of memory allocated to your server in the "Startup" tab

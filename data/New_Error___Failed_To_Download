@@ -1,0 +1,10 @@
+Error: New Error: "Failed To Download File Server.Jar"
+
+Step-By-Step
+
+Solution: 1. Log in to your Pterodactyl panel
+2. Click on "Server" in the sidebar menu
+3. Choose your Minecraft server from the list of available servers
+4. Now click on "File Manager" in the top-left corner of the page
+5. Navigate to the "Server" folder and locate the "server.jar" file
+6. Right-click on the file and select

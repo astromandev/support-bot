@@ -1,0 +1,7 @@
+Error: Error: "Panel Is Unable To Connect To The Daemon."
+
+Solution: 1. First, make sure that the daemon is running on your server machine. You can do this by logging into your server via SSH and checking if the daemon is running.
+
+2. Check if the daemon configuration file is properly set up. The daemon config file is located in /etc/pterodactyl.
+
+3. Ensure that your panel is using the correct IP or hostname to connect to the daemon. You can check or

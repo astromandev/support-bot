@@ -1,0 +1,6 @@
+Error: Sure, Here'S A Potential New Error And Its Solution:
+
+**Error: "502 Bad Gateway" When Accessing Pterodactyl Panel**
+
+Solution: 1. Firstly, check if the Pterodactyl daemon is running. You can do this by logging into your server via SSH and running the command `systemctl status wings`. If it's not running, start it by running the command `systemctl start wings`.
+2. If the daemon is running properly, then check if the NG

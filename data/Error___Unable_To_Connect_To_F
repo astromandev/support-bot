@@ -1,0 +1,9 @@
+Error: Error: "Unable To Connect To FTP/SFTP Server Using Pterodactyl Panel"
+
+Step-By-Step
+
+Solution: 1. Check your Pterodactyl panel server's logs for any errors related to FTP/SFTP connectivity.
+
+2. Verify your FTP/SFTP credentials by logging into the server through an FTP/SFTP client (such as FileZilla) using the provided credentials.
+
+3. Ensure that the firewall on both the server and the client side are properly configured to allow FTP/S

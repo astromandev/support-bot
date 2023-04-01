@@ -1,0 +1,9 @@
+Error: Error:
+
+"Error: Failed To Retrieve Server List. Try Refreshing The Page Or Checking Proxy Settings."
+
+Solution: 1. Check your internet connection: Make sure you have a stable internet connection and try refreshing the page.
+
+2. Clear your browser cache: Clear your browser's cache and refresh the page. This will ensure that the page is loaded with fresh data.
+
+3. Check your firewall settings: Ensure that your firewall is not blocking the connection. You can temporarily turn off your firewall to see if it

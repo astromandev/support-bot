@@ -1,0 +1,11 @@
+Error: Sure, Here'S A New Error: 
+
+**Error:** You Are Unable To Access The Pterodactyl Panel For Your Minecraft Server After Installation.
+
+**
+
+Solution: ** 
+
+Step 1: Check your firewall settings
+
+The first step is to check your firewall settings to make sure that they aren't blocking your access to the Pterodactyl panel. You can do this by accessing your firewall settings and making sure that the port that your Pterodactyl panel is using is open.

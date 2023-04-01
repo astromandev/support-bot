@@ -1,7 +1,5 @@
-Error: Error: "Server Not Starting After Updating The Pterodactyl Panel."
+Error: Error: "Server Not Starting After Installation On Pterodactyl Panel"
 
-Cause: This Error Usually Occurs When The Updated Pterodactyl Panel Has Not Automatically Updated The Server Files Correctly.
-
-Solution: Step 1: Check the server logs for any error messages that may be causing the issue. To access the server logs, click on the "Console" tab in the Pterodactyl panel.
-
-Step 2: If there are no clear errors, try manually updating the server files
+Solution: 1. Check the server logs for any error messages. You can access the server logs by clicking on the "console" tab in the Pterodactyl panel.
+2. Check if all the necessary files are present in the server directory. This includes the server jar file, the server properties file, and any necessary mods or plugins.
+3. Ensure that the Java version installed on the server matches the Java

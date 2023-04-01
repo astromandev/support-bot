@@ -1,0 +1,8 @@
+Error: New Error:
+
+"The Server Is Not Starting Up Properly And The Console Shows An Error Message 'Error: Unable To Access Jarfile.'"
+
+Solution: This error occurs when the Pterodactyl panel is not able to find the Minecraft server jar file or it is not properly configured. To resolve this issue, follow the steps below:
+
+1. Login to your Pterodactyl panel and navigate to your server dashboard.
+2. Stop your server if it is currently running by clicking on the "Stop

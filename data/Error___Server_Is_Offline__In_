@@ -1,0 +1,5 @@
+Error: Error: "Server Is Offline" In Pterodactyl Panel When Attempting To Start A Minecraft Server.
+
+Solution: 1. The first step is to ensure that your server is in fact turned on. Double check that all necessary power cables are properly plugged in and that your server has not shut down unexpectedly.
+
+2. Check to see if there are any errors in the console log located in the Pterodactyl Panel. Look for any messages that indicate that the server startup has failed, or

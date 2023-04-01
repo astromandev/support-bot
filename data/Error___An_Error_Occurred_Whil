@@ -1,9 +1,6 @@
-Error: Error: "An Error Occurred While Initializing Your Server. Java.Lang.RuntimeException: Failed To Create Directory /Mnt/Server/Plugins"
+Error: Error:
+"An Error Occurred While Trying To Create A New Pterodactyl Panel Minecraft Server. The System Returned An Error Message Saying There Is Not Enough Disk Space Available To Create The Server."
 
-Solution: This error occurs when the Pterodactyl panel cannot create a directory needed for running plugins. To solve this, follow the steps below:
+Solution: 1. Log in to your server via SSH or SFTP. You can use an FTP client or an SSH client, like PuTTY, to connect.
 
-1. Log in to your Pterodactyl panel and navigate to the "File Manager" section.
-
-2. Click on the "Server" folder.
-
-3. Create a new folder with the name "plugins"
+2. Check the disk space on your server. You can use the "df" command in your shell to check your disk usage.

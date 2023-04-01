@@ -1,9 +1,6 @@
-Error: Error: "Pterodactyl Panel Shows "512 MB" RAM Limit On Server Start"
+Error: Error: "Pterodactyl Panel Shows That My Minecraft Server Is Offline Even Though The Server Is Running."
 
-Solution: 1. Log in to your Pterodactyl panel using the provided credentials.
-
-2. Click on the "Servers" tab in the navigation bar and then click on the name of the affected server.
-
-3. Once on the server dashboard, click on the "Startup" tab.
-
-4. Scroll down to the "Server Resources" section and increase the RAM limit to your desired amount
+Solution: 1. Check the server status in the Pterodactyl panel dashboard. If it shows offline, try refreshing the page and checking again.
+2. Verify that the Minecraft server is running properly. You can check this by executing the following command on the server terminal:
+   `systemctl status minecraft.service`
+   If the server is not running, start it using the following

@@ -1,0 +1,9 @@
+Error: Error: "Error Handling Selection Series: Could Not Resolve Host: Dl.Liteloader.Com"
+
+Solution: Step 1: Access the server's console through the Pterodactyl panel and login with your credentials.
+
+Step 2: Navigate to the root directory of the server by running the command `cd /`.
+
+Step 3: Edit the `server.properties` file by running the command `nano server.properties`.
+
+Step 4: Scroll down to the line that says `enable-command-block

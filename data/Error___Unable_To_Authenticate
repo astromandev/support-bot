@@ -1,0 +1,5 @@
+Error: Error: "Unable To Authenticate With Yggdrasil: Authentication Failed"
+
+Solution: 1. Check if the username and password are correct: The error message suggests that the authentication has failed, which implies that either the username or the password (or both) is incorrect. Verify that both the username and password are correct by double-checking them.
+
+2. Reset the password: If you're sure that the username and password are correct, try resetting the password. You can do this by going to the

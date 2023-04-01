@@ -1,0 +1,6 @@
+Error: Error: "The Server Does Not Start After Installation On Pterodactyl Panel"
+
+Solution: 1. Check firewall settings and make sure that the ports needed for Minecraft server are open (default port is 25565).
+2. Check the server requirements and ensure that the resources (RAM, CPU) are adequate.
+3. Verify that the server files are uploaded correctly and in the right location. You can confirm this by checking the file path entered in the startup parameters.
+4. Ensure that the

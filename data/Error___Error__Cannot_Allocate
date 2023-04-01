@@ -1,0 +1,7 @@
+Error: Error: "Error! Cannot Allocate Memory - Docker"
+
+Cause: This Error Occurs When The Server Runs Out Of Memory While Attempting To Allocate More Resources To A Specific Docker Container.
+
+Solution: 1. First, check your server's memory usage by typing `free -m` into the console. If your memory usage is too high, you may need to upgrade your server.
+
+2. If your server is running low on available memory, try increasing your swap space. You can do this by typing `sudo

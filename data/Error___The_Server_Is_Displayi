@@ -1,0 +1,5 @@
+Error: Error: "The Server Is Displaying As Offline In The Panel Even Though It Is Running And Players Are Able To Connect."
+
+Solution: 1. First, check if the port the server is using is open and available. You can use an online tool or command-line program like Nmap to scan the server's IP address and check if the port is open.
+2. If the port is open, try restarting the server through the panel or command line to see if it resolves the issue.
+3. If

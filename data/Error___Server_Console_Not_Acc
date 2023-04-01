@@ -1,0 +1,10 @@
+Error: Error: "Server Console Not Accessible" In Pterodactyl Panel
+
+Cause: This Error Occurs When The Server Console Is Not Accessible From The Pterodactyl Panel.
+
+Solution: 1. Login to the Pterodactyl panel and go to the server console.
+2. Check if the server console logs are visible or not.
+3. If not, check if the server is running or not. You can do this by running the following command in the console:
+
+```
+system

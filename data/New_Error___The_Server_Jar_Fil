@@ -1,0 +1,6 @@
+Error: New Error: "The Server Jar File Is Missing Or Unreadable."
+
+Solution: 1. Login to your Pterodactyl Panel account and navigate to your server management dashboard.
+2. Click on "File Management" option under "Manage" section.
+3. Check if your server jar file exists in the "jar" folder or not. If it exists, move on to the next step. If not, you need to upload the file before proceeding.
+4. If the file is there,

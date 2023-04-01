@@ -1,0 +1,5 @@
+Error: An Example Of A Pterodactyl Panel Minecraft Server Related Error For Beginners Is The "Server Not Starting" Error.
+
+Solution: 1. First, check the console log for any error messages. You can do this by clicking on the console tab in the Pterodactyl control panel.
+2. Check the server status by visiting the status tab in the control panel. If the server is stopped, start it.
+3. If you see any error messages in the console log, try

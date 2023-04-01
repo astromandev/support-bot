@@ -1,6 +1,7 @@
-Error: New Error: "Unable To Start Server Due To Insufficient RAM"
+Error: New Error: "Unable To Start Server. The Java Executable Could Not Be Found In The Path"
 
-Solution: 1. Log in to your Pterodactyl Panel.
-2. Click the "Console" button on your server.
-3. Check how much RAM your server needs by typing the command "java -Xms2G -Xmx2G -jar server.jar". The values "2G" in the example represents the amount of memory being allocated to the server.
-4. If you see that the RAM value is
+Solution: 1. Open the Pterodactyl panel and go to "SFTP" tab under "File Management" section.
+2. Navigate to the server directory by clicking on the "public_html" folder.
+3. Create a new folder called "bin".
+4. Inside the bin folder, create another folder called "jre".
+5. Upload the Java runtime environment (JRE)

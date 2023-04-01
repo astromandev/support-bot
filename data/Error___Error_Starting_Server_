@@ -1,7 +1,6 @@
-Error: Error: "Error Starting Server: Cannot Allocate Memory"
+Error: Error: "Error Starting Server: Failed To Bind To 0.0.0.0/0.0.0.0:25565."
 
-Solution: 1. First, you need to check if your server has enough memory allocated to it. You can do this by logging in to your Pterodactyl panel and going to the "Console" tab on your server dashboard.
-
-2. In the console, type in the command "free -m" without quotes and press enter. This will show you how much memory your server currently has free.
-
-3. If your server is running
+Solution: 1. Log in to your Pterodactyl panel.
+2. Go to your server's "Console" tab.
+3. Type "netstat -tulpn | grep :25565" and press Enter. This will show you if there's any process already using the port 25565.
+4. If you see

@@ -1,0 +1,6 @@
+Error: Error: "Error Connecting To Server: Unable To Find Valid Certification Path To Requested Target."
+
+Solution: 1. First, make sure that your server URL in the Pterodactyl panel is correct and matches the actual URL of your Minecraft server.
+2. Check the connection settings, especially the hostname and port number, and make sure they are correct.
+3. If you are using SSL for your server, make sure that the SSL certificate is valid and up to date.
+4. If you have

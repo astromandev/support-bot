@@ -1,7 +1,4 @@
-Error: Error: "Server Is Unable To Start Due To Insufficient Memory Allocation."
+Error: Error: "Server Is Unable To Start And Displays An Error Message Saying: Error: Could Not Find Or Load Main Class -Xms512M."
 
-Solution: 1. Log in to your Pterodactyl panel and go to your server dashboard.
-2. Click on the "Console" tab to access the server console.
-3. Stop the server by typing "stop" in the console and pressing enter.
-4. Go to the "Settings" tab and find "Startup" under the "Container" section.
-5. In the "Startup" field, add "-X
+Solution: 1. Log in to the Pterodactyl panel and navigate to the "Console" tab for the affected server.
+2. Once logged in, go to the "Type here to send a command..." section and enter the following command: `jar -xf server.jar`. This will extract the jar file and create a new one.

@@ -1,7 +1,10 @@
-Error: Sure, Here’S A Common Error And Solution For A Minecraft Server On Pterodactyl Panel:
+Error: Sure! Here'S A Common Error And Its Solution That Might Help:
 
-Error: Unable To Connect To Minecraft Server
+**Error:** "A Fatal Error Has Occurred, This Connection Is Terminated" When Trying To Start The Server From The Pterodactyl Panel.
 
-Solution: 1. Check the server status: Make sure that the Minecraft server is running by checking the server status in the Pterodactyl panel. If the server is offline, start it by pressing the "Start" button.
+**
 
-2. Check the IP address and port: Make sure that the IP address and port are correct. You can find
+Solution: **
+
+1. First, navigate to the 'Startup' section of the Pterodactyl panel for that server instance.
+2. Check if the Java version specified is correct. You can do this by looking at the Java parameter in the 'Startup Command' field

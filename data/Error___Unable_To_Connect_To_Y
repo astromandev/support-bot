@@ -1,0 +1,5 @@
+Error: Error: "Unable To Connect To Your Server Using The Pterodactyl Panel. The Console Is Not Responding."
+
+Solution: 1. Check the server status on the Pterodactyl panel. If it shows the server is running, but you are still unable to connect, proceed to step 2.
+2. Try to restart the server from the panel. Go to the "Startup" page and click on the "Restart" button.
+3. If restarting the server doesn’t work,

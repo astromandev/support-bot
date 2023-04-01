@@ -1,8 +1,8 @@
-Error: New Error: "Server Unable To Start After Updating The Pterodactyl Panel"
+Error: New Error:
+"Server Unable To Start - Your Server Jar Is Missing. Please Make Sure To Upload It To The Server."
 
-Step-By-Step
+Solution: This error occurs when the server owner did not upload the server jar file correctly. Here are the steps to upload the server jar file correctly:
 
-Solution: 1. First, you need to check the update logs and make sure the update was completed successfully.
-2. Double-check that all server files and configurations were migrated to the new pterodactyl panel version.
-3. Check that the server resources (CPU, memory, and disk space) meet the minimum requirements for the updated panel version.
-4. Clear your browser cache history
+1. Log into your Pterodactyl panel and go to the "Files" section.
+2. Click on the "Upload" button and select your server jar file from your computer.
+3. Wait for the file

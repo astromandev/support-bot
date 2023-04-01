@@ -1,0 +1,6 @@
+Error: Error: "Server Cannot Start: Failed To Bind To Port."
+
+Solution: 1. Check if your firewall or antivirus is blocking the port. If so, unblock the port.
+2. Make sure that no other application is using the same port. Change the port number in the server settings file, and restart the server.
+3. If the error persists, check that the port is not restricted by your internet service provider (ISP). Consult your ISP or try a different port.
+4. Double-check

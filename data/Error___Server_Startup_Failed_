@@ -1,7 +1,5 @@
-Error: Error: "Server Startup Failed. Error During Server Startup. Check Server Logs For Details."
+Error: Error: "Server Startup Failed: Permission Denied (Publickey)"
 
-Solution: Step 1: Login to the Pterodactyl panel.
-Step 2: Navigate to the "Console" tab of the affected server.
-Step 3: Check the console output for any error messages that could explain why the server is failing to start.
-Step 4: Look for any errors that indicate issues with server configuration files, such as syntax errors or missing values.
-Step 5
+Solution: 1. Ensure that you have correctly set up the SSH key for your server. You should have uploaded your public key to the Pterodactyl panel and added the private key to your SSH client.
+2. Double-check that you have correctly set up your server's IP address and port in the Pterodactyl panel. Also, make sure that you are using the correct username when logging in.
+3. Verify

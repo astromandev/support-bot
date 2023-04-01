@@ -1,0 +1,5 @@
+Error: Error: "Can'T Start Server: Port 25565 Is Already In Use"
+This Error Occurs When The Port You'Ve Specified For Your Minecraft Server Is Already Being Used By Another Application On Your Server.
+
+Solution: 1. First, try to identify which application is using port 25565 by running the following command: `sudo lsof -i :25565`
+2. Once you have identified the process ID (PID), you can stop the application using the command: `sudo kill

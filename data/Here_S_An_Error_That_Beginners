@@ -1,0 +1,11 @@
+Error: Here'S An Error That Beginners Might Encounter While Setting Up A Minecraft Server On A Pterodactyl Panel:
+
+**Error:** "Failed To Start Server: Unable To Bind To 0.0.0.0:25565: Address Already In Use"
+
+**
+
+Solution: **
+
+This error occurs when the default port (25565) that Minecraft uses is already in use by another process. To fix this, you need to change the server port to a different number by following these steps:
+
+1

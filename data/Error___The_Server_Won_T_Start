@@ -1,7 +1,7 @@
-Error: Error: "The Server Won'T Start After Updating Plugins Through The Pterodactyl Panel"
+Error: Error: "The Server Won'T Start Or Crashes Immediately After Starting"
 
-Solution: 1. Before updating any plugin, ensure that you have a backup of your server files, including the World folder and configuration files. This will help you to easily roll back to the previous version in case anything goes wrong during the update process.
+Solution: Step 1: Check the server's log files for error messages. You can find the log files in the "logs" directory of your server's root directory.
 
-2. Check the plugin version and compatibility with the Minecraft server version. Ensure that you are installing the right plugin version for your Minecraft server. 
+Step 2: Look for any error messages and see if there's anything that stands out as a potential cause of the problem.
 
-3
+Step 3: Check that you have allocated enough RAM to the server. To do this, go to the "Settings"

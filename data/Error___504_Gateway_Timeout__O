@@ -1,0 +1,6 @@
+Error: Error: "504 Gateway Timeout" On The Pterodactyl Panel When Trying To Start A Minecraft Server.
+
+Solution: 1. First, check if the error is temporary by refreshing the page or trying again in a few minutes.
+2. Check the server status page for any ongoing maintenance or issues that might affect the server.
+3. Verify that the server was properly installed and configured. The server's configuration files may be located in the `/etc/pterodactyl` directory.
+4.

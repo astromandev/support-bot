@@ -1,0 +1,13 @@
+Error: Error: "Failed To Connect To Pterodactyl Daemon"
+
+Step-By-Step
+
+Solution: 1. Check that the daemon is actually running on the server. If it is not, start the daemon using the following command:
+```
+sudo systemctl start wings
+```
+2. Check that the daemon is running and active. Use the following command to check:
+```
+sudo systemctl status wings
+```
+3. If the daemon is not running or inactive, restart it using the following command:

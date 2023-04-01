@@ -1,0 +1,7 @@
+Error: Error: "ClassNotFoundException: Net.Minecraft.Server.Main"
+
+Solution: 1. Login to your Pterodactyl panel and navigate to your server dashboard.
+2. Stop your Minecraft server and then click on the "File Manager" tab.
+3. Once you are in the file manager, go to the "jar" folder.
+4. In the "jar" folder, locate the "minecraft_server.jar" file and right-click it, and select "Delete".
+5. On the right side, click

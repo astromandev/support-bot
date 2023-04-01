@@ -1,0 +1,7 @@
+Error: Error: Server Console Isn'T Logging In Pterodactyl Panel.
+
+Solution: 1. Go to the Pterodactyl Panel dashboard and log in.
+2. Go to the server console and type in the command "systemctl status <server-name>" and press enter.
+3. Check if the server is currently running or not.
+4. If the server is not running, type in the command "systemctl start <server-name>" to start the server.
+5. If the server

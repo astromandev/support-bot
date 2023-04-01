@@ -1,0 +1,6 @@
+Error: Error: "502 Bad Gateway" In Pterodactyl Panel When Accessing The Server Console.
+
+Solution: 1. First, ensure that the server is up and running by checking the status in the Pterodactyl panel dashboard.
+2. If the server status is "running", then it is likely that the issue is with the Spigot file.
+3. To resolve this, navigate to the server's file manager and go to the "logs" directory.
+4. In the "

@@ -1,0 +1,11 @@
+Error: Error: "Server Not Starting Due To Missing Or Invalid Java Installation."
+
+Solution: 1. Check if the Java installation is present on your server. Run the command `java -version` to check if Java is installed. 
+
+2. If Java is not installed, install Java on your server. You can install Java using the following command: 
+
+```
+sudo apt-get install default-jre
+```
+
+3. Once Java is installed, check the Java version again by running `java -version`.

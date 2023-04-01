@@ -1,0 +1,9 @@
+Error: Error: "The Server Console Log Is Showing A 'Java.Lang.OutOfMemoryError' Error."
+
+Solution: Step 1: In the Pterodactyl panel, navigate to the server you are experiencing this error on.
+
+Step 2: Click on the "Console" option in the left-hand side menu.
+
+Step 3: Take note of the amount of memory currently allocated to the server.
+
+Step 4: Navigate to the "Startup" menu in the left-hand side menu of the

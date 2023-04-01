@@ -1,0 +1,11 @@
+Error: Error:
+
+"The Server'S Start Command Did Not Exit Cleanly"
+
+This Error Occurs When The Pterodactyl Panel Is Unable To Start The Minecraft Server Due To Issues With The Command That Is Used To Start The Server.
+
+Solution: 1. First, log in to your Pterodactyl panel and navigate to your server's file manager. 
+
+2. From there, locate the "Server.properties" file, which contains the settings for your Minecraft server.
+
+3. Check the values for the

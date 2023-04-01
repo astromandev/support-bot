@@ -1,11 +1,9 @@
 Error: Sure, Here Is A New Error:
 
-**Error:** "502 Bad Gateway" Error When Trying To Access The Pterodactyl Panel.
+**Error:** "The Server Could Not Be Started Because It Could Not Create The Java Virtual Machine"
 
 **
 
 Solution: **
 
-1. First, ensure that the error is not being caused by a temporary server outage. Wait a few minutes and then try accessing the panel again.
-
-2. If the error persists, check if your server is running and accessible from your network. You can do this by pinging the IP address or domain name of the server from the
+1. First, make sure that you have enough memory allocated for your Minecraft server in the Pterodactyl panel. You can check this by going to the "Startup" tab in the panel and ensuring that the "-Xmx" flag is set to an appropriate value, such as "2G" for 2 gigabytes of

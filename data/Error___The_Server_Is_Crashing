@@ -1,5 +1,6 @@
-Error: Error: "The Server Is Crashing Immediately Upon Startup."
+Error: Error: "The Server Is Crashing With An Error Code 255"
 
-Solution: 1. Check the server logs: You can find the logs in the panel by navigating to the "Console" tab. Look for any errors or stack traces that indicate the cause of the crash.
-
-2. Update server software: Ensure that you're running the latest version of the server software. You can check for updates in the "Servers" tab of the panel. If there's an update available, try updating and restarting the server.
+Solution: 1. Go to the Pterodactyl panel dashboard and navigate to the "Console" tab.
+2. Check the console output for any error messages that could be causing the server to crash.
+3. If there are any errors, try to resolve them by following the information provided in the error messages. For example, if there is an error with a plugin, disable or update the plugin.
+4. If there

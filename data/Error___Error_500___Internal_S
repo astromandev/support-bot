@@ -1,0 +1,7 @@
+Error: Error: "Error 500 - Internal Server Error" When Trying To Access The Pterodactyl Panel.
+
+Solution: Step 1: Check if the Pterodactyl panel is down
+	- Go to https://status.pterodactyl.io/ to check if the panel is currently down.
+	- If the panel is down, wait for the Pterodactyl team to fix the problem.
+
+Step 2: Check if server is online and running properly

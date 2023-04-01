@@ -1,7 +1,5 @@
-Error: Error: "Failed To Download Minecraft Server Jar"
+Error: Error: "Failed To Download Minecraft Server". This Error Occurs When The Pterodactyl Panel Fails To Download The Minecraft Server Files During The Installation Process.
 
-Solution: 1. Check that you have entered the correct server version number in the panel.
-2. Check that the panel is connected to the internet.
-3. Check that the server file link in the panel is correct.
-4. If the issue is related to the server file link being incorrect, try manually downloading the server file from the official Minecraft website and uploading it to the server via SFTP.
-5. If the issue persists, try deleting the
+Solution: 1. First, make sure that your operating system is up-to-date and all the necessary packages are installed.
+2. Check your Pterodactyl panel's system logs to see if any errors occurred during the installation process. 
+3. Check if the firewall is restricting the download of the Minecraft server files. If it is

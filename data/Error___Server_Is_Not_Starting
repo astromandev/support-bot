@@ -1,4 +1,7 @@
-Error: Error: "Server Is Not Starting Up Or Is Stuck In A Starting Loop."
+Error: Error: "Server Is Not Starting Up After Updating Mods On Pterodactyl Panel."
 
-Solution: 1. Check if there are any errors displays in the server console. If there are any errors, try to resolve them first as they may be the reason why the server is not starting up.
-2. Make sure that the server configuration files are properly set up. Check the values of the RAM, CPU, and disk space allocated to the server. If the values are too high or too low, the
+Solution: 1. Check the console log of the server to see if there are any errors or messages that indicate why the server is not starting.
+
+2. If the error is related to a specific mod, try removing that mod and starting the server again. You can do this by going to the "Mods" section in the Pterodactyl Panel and removing the problematic mod.
+
+3. If removing

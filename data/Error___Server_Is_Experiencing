@@ -1,0 +1,9 @@
+Error: Error: "Server Is Experiencing High CPU Usage And Slowing Down."
+
+Solution: 1. Check if any plugins or mods installed on the server are causing high CPU usage. Remove or disable any plugins that are causing the issue.
+
+2. Optimize server settings to reduce CPU load. You may want to adjust the view distance as this often contributes to high CPU usage.
+
+3. Use a performance monitoring tool like htop or Top to identify which processes are consuming high CPU resources.
+
+4. Consider increasing the amount

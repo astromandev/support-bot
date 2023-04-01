@@ -1,6 +1,8 @@
-Error: Error: "Unable To Allocate Port" When Trying To Start A New Minecraft Server On The Pterodactyl Panel.
+Error: Error: "Unable To Allocate Port. Port Already In Use."
 
-Step-By-Step
-
-Solution: 1. First, make sure that you have assigned a unique, available port number to your server in the Startup section of the server settings. Port 25565 is the default Minecraft server port but it may be unavailable if another service is using it.
-2. Check if there are other Minecraft servers on your panel that are already using the same port
+Solution: 1. Login to the Pterodactyl Panel.
+2. Navigate to the "Databases" tab.
+3. Locate the "Server Ports" section and note the current allocated port.
+4. Go to the "Console" tab and type "stop" to shut down the server.
+5. Navigate to the "File Manager" tab and edit the "server.properties" file.
+6. Look for the line "

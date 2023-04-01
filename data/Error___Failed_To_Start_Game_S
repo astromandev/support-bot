@@ -1,0 +1,4 @@
+Error: Error: "Failed To Start Game Server: Failed To Start Docker Container: Error Response From Daemon: OCI Runtime Create Failed: Container Linux.Go:349: Starting Container Process Caused "Exec: /"/Home/Container/Dumb-Init/": Stat /Home/Container/Dumb-Init: No Such File Or Directory": Unknown."
+
+Solution: 1. Login to your Pterodactyl panel account and navigate to the "Console" tab.
+2. Start the server by clicking on the "Start" button in the

@@ -1,0 +1,6 @@
+Error: Error: "Server Status: Error: Server Shutdown Unexpectedly."
+
+Solution: 1. Login to your Pterodactyl panel and navigate to "Console" tab.
+2. Check if there are any error messages displayed on the console. This may provide some insight as to why the server shutdown unexpectedly.
+3. If there are no apparent errors, navigate to the "Server Settings" tab.
+4. Select the "Startup" sub-tab and ensure that the startup command is set correctly. For Minecraft

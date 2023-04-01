@@ -1,25 +1,11 @@
-Error: Sure! Here'S A New Error:
+Error: Sure, Here'S A New Error:
 
-**Error:** "Failed To Load Libsodium Library For Encryption."
+**Error:** The Pterodactyl Panel Won'T Let Me Start My Minecraft Server And Says "Failed To Check For Available Downloads". 
 
-**Step-By-Step
+**
 
 Solution: **
 
-1. Go to the panel and stop the server.
-
-2. Navigate to the "Console" tab in the panel.
-
-3. Type the following command in the console:
-
-```
-apt-get install libsodium-dev
-```
-
-4. After the installation is complete, type the following command in the console:
-
-```
-ldconfig
-```
-
-5. Start
+1. First, log in to your Pterodactyl panel and navigate to your server dashboard.
+2. Check if the server has enough disk space available. This error sometimes occurs due to a lack of available disk space. If necessary, increase the disk space of your server.
+3.

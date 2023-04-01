@@ -1,0 +1,12 @@
+Error: Error: "Failed To Allocate Pterodactyl Panel Server"
+
+Solution: 1. Check the server resources
+- Ensure that the server has enough RAM, CPU, and storage space to operate Minecraft
+- Try allocating more resources to the server, if possible
+
+2. Update the pterodactyl panel
+- Check for any available updates and install them
+- This can help fix any bugs or issues with the panel
+
+3. Check the server firewall settings
+- The server firewall may

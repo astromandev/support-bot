@@ -1,0 +1,7 @@
+Error: One Possible Error That A Beginner May Encounter When Using The Pterodactyl Panel For Their Minecraft Server Is "Java Runtime Environment Not Found."
+
+Step-By-Step
+
+Solution: 1. Login to your Pterodactyl panel dashboard and navigate to the server's console.
+2. Type "java -version" command in the console and check if Java is installed or if there are any errors related to Java. 
+3. If Java is not installed, type the following command to install it:

@@ -1,0 +1,7 @@
+Error: Error: "Server Is Constantly Restarting And Not Staying Online"
+
+Solution: 1. Check the server logs for any errors or issues causing the restarts.
+2. Ensure that the server system requirements are met.
+3. Check if any plugins or mods are causing the restarts and remove them if necessary.
+4. Make sure that the server's Java installation is up-to-date and compatible with the server.
+5. Try restarting the server in safe mode without any plugins or mods to see if the issue persists

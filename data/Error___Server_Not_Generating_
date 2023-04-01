@@ -1,0 +1,7 @@
+Error: Error: "Server Not Generating New World"
+
+Solution: 1. Check the server logs for any errors that may be causing the world generation to fail. Look for messages that indicate what is causing the issue.
+
+2. Ensure that the server is running the latest version of the game. Outdated or mismatched versions of Minecraft can cause world generation issues.
+
+3. Check that the server's disk space is not full or almost full, as this may prevent the server from generating a new world. Free up

@@ -1,7 +1,7 @@
-Error: Error: "Failed To Install Server Jar" On Pterodactyl Panel.
+Error: Error: "Failed To Install Server - Java Is Not Installed On The Server"
 
-Step-By-Step
-
-Solution: 1. Firstly, check if the jar file you are trying to install is valid and compatible with your Pterodactyl Panel version.
-
-2. Make sure that you have the correct server jar file that is going to work with your server type. This can be easily checked by going onto the internet, to the official Minecraft or your respective game's website and downloading the right jar
+Solution: 1. Open your Pterodactyl Panel and navigate to your server's dashboard.
+2. Click on "File Manager" in the left-hand menu.
+3. Check to see if the Java installation directory is currently empty. If it's not, proceed to step 5.
+4. If the Java installation directory is empty, navigate back to the dashboard and click on "Startup".
+5. Under "

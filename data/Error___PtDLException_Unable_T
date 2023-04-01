@@ -1,0 +1,6 @@
+Error: Error: "PtDLException Unable To Determine Version To Use For New Server"
+
+Solution: 1. Firstly, make sure that the panel is up-to-date by checking for updates in the Pterodactyl Discord.
+2. If the problem persists, go to the "Servers" section in the panel and make sure that the "Auto-Update" option is enabled.
+3. Try changing the version number manually to a different version that is available and try creating the server again.
+4. If

@@ -1,0 +1,7 @@
+Error: Error: "The Java Executable Could Not Be Found."
+
+Solution: 1. First, make sure that Java is installed on your server by typing "java -version" into the command line. If Java is not installed, install Java by following the installation instructions for your operating system.
+
+2. If Java is installed, make sure that the Java executable path is correctly configured in the Pterodactyl panel. To do this, navigate to the server's Configuration tab, then click on Startup.
+
+3

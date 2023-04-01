@@ -1,9 +1,11 @@
-Error: Pterodactyl Panel Minecraft Server Error: "Server Stopped Unexpectedly"
+Error: Pterodactyl Panel Minecraft Server Error: "Error Starting Server: Unable To Bind To Assigned IP"
 
-Solution: Step 1: Check the server logs
-- Log into the Pterodactyl Panel and select the server that is having the issue.
-- Click on the "Console" option in the left sidebar.
-- Check the logs for any error messages or issues that may have caused the server to stop.
+Solution: Step 1: Login to the Pterodactyl Panel.
 
-Step 2: Restart the server
-- Click on the "Power" option on the left side
+Step 2: Navigate to the “Server Configuration” section of the panel.
+
+Step 3: Under the “Settings” tab, locate the “IP address” field and check if the assigned IP is valid.
+
+Step 4: If the assigned IP is not valid, modify it.
+
+Step 5:
